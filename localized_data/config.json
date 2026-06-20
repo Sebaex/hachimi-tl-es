@@ -1,5 +1,5 @@
 {
-    "ordinal_types": [],
+    "ordinal_types": ["$ro", "$do", "$ro", "$to", "$to", "$to", "$mo", "$vo", "$no", "$mo"],
     "months": [],
     "use_text_wrapper": false,
     "auto_adjust_story_clip_length": false,
