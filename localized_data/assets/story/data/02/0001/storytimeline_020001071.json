@@ -1,0 +1,189 @@
+{
+    "title": "Una no-muy isla desierta",
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "Deberías ser capaz de verla. Esa isla es la zona de vacaciones de la\nfamilia Mejiro."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡¿Toda la isla?! Listo, ¡Eso significa que podemos buscar el tesoro\ndonde nosotros queramos!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Ni se te <i>ocurra</i> usar esa pala!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Equipo Sirius toma ventaja de las vacaciones de verano para ir a\nun campamento de entrenamiento."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen pudo negociar el uso de la isla privada de su familia\npara nosotros. Sin embargo..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Wuju! ¡Esta isla realmente <i>está</i> desocupada! ¡Ahora podemos\njugar todo el día!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Vamos, no estamos acá para jugar."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eso si, no puedo decir que el entorno lleva a esa idea.",
+            "choice_data_list": [
+                "¿Porqué no nos relajamos en el primer día aca?",
+                "¿Porqué no nos relajamos en el primer día aca?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Ahh...</i> No pensé que te tendría diciendo eso también."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oye, ¿está bien que nosotras estemos acompañandolos? No es como si\nestuvieramos en su equipo..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "No me quejaría. Ellos nos mandaron la invitación después de todo."
+        },
+        {
+            "name": "<username>",
+            "text": "Mientras más mejor. ¡Bienvenidas a bordo!"
+        },
+        {},
+        {
+            "name": "Mejiro Ryan",
+            "text": "¡Gracias! ¡Agradezco estár a bordo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Y así, el campamento de entrenamiento de verano del Equipo Sirius\ncomienza con dos Mejiros extra."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Todas, una vuelta más!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Acelerala, McQueen, ¡Te voy a pasar!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Oye! ¡Se supone que yo marco el ritmo!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Vamos, Dober. ¡Tu puedes hacerlo mejor que eso!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "N-no me puedo concentrar ahora. O seguramente estoy preocupada\nsobre como todos me ven..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "¡No tienes nada de que preocuparte! ¡Eres bonita, lo sabes!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "¡N-no necesito tus alagos! ¡Yo se mas que nadie como a nadie le gusto!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡¿Gold Ship?! ¡¿Que se supone que estás haciendo?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¿Que mas voy a estar haciendo en la playa?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Recorrimos tanto hasta acá, ¡Así que voy a ir con todo\ncon el entrenamiento!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Todo lo que veo de \"ir con todo\" es solamente verte jugar!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Bueno, ¡Toca agarrar el ritmo!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡E-espera! ¡Vas muy rápido!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Haa, haa, haa...</i>",
+            "choice_data_list": [
+                "A todas, buen trabajo."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Jaja. Creo que le puse demasiado empeño. ¡Y solo es el primer día!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Aún así, bien ahi, McQueen. Me impresionó que pudieras mantener\nel ritmo cuando Ryan aceleró."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Bueno, sabía muy bien que no la dejaría ganar. Sin contar lo que\npasó en el Takarazuka Kinen."
+        },
+        {
+            "name": "Monologue",
+            "text": "Un poco antes de que el campamento comenzara, Mejiro McQueen corrió\nel Takarazuka Kinen, la carrera mas importante del primer semestre."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ella era la favorita para ganar, pero incluso despues del mejor de sus\nesfuerzos, salió segunda ante una gran Mejiro Ryan."
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "En serio, ¡El como corre McQueen no deja de sorprenderme! ¡Tanto\nentrenando como en carreras!"
+        },
+        {
+            "name": "Umamusume Cariñosa",
+            "text": "Siiiip, ¡Y por eso me uní a este equipo!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ughh... ¿Por cuanto más va a continuar esta adoración?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Por lo general una profunda admiración se gana. ¿No deberías estár\norgullosa de eso?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Sip, no te asustes de presumir tus cosas. Cuando escucho todos\nesos elogios, ¡Me coloca una sonrisa en la cara!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Está bien, ¡No puedo relajarme si quiero seguir ganandole a\nMejiro McPopular! ¡Voy de nuevo!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Ni se te ocurra que conseguiste una ventaja!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El tiempo vuela cuando corres rapido. Y cuando menos lo esperabamos,\nel sol comenzó a colocarse."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "..."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Pasa algo malo? El resto ya se entró."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¿Ah? Claro. Solo estaba pensando sobre ellas realmente."
+        }
+    ]
+}

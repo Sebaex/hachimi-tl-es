@@ -1,0 +1,184 @@
+{
+    "title": "Una Nueva Era para El Equipo Sirius",
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Por favor, Entrenador Asistente! ¡¿No puedes ir mas rapido?!"
+        },
+        {
+            "text": "Una escandalosa y apegada multitud usando\nlas gradas del Hipódromo de Nakayama."
+        },
+        {
+            "text": "Yo y Mejiro Mcqueen pasamos de manera apretujada entre los ánimos\nde la gente mientras pasamos al frente.\n"
+        },
+        {
+            "text": "Yo y Mejiro Mcqueen pasamos de manera apretujada entre los ánimos\nde la gente mientras pasamos al frente."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡No me podré perdonar si me pierdo el gran final de la señorita Oguri!"
+        },
+        {
+            "name": "<username>",
+            "text": "En ese caso, ¿Porqué no nos quedamos mirando desde la zona de staff?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Como dije, tengo que ver su brillante figura de cerca en\nesta importante carrera!"
+        },
+        {
+            "name": "Relator",
+            "text": "Los otros corredores se acercan, ¡Pero Oguri mantiene el liderato! ¡Oguri lidera!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Oh no, van a cruzar la meta! ¡Ven, toma mi mano!"
+        },
+        {
+            "text": "Mejiro McQueen agarra mi mano con un agarre empatico\ny me tira por el público."
+        },
+        {
+            "text": "Mejiro McQueen agarra mi mano con un agarre empatico\ny me tira por el público."
+        },
+        {
+            "text": "Un último tirón de McQueen y en ese instante, el espectaculo\nse abre ante nosotros."
+        },
+        {
+            "name": "Relator",
+            "text": "¡Oguri mantiene el liderato para un brillante final! ¡Oguri queda primera!\n¡Oguri gana!"
+        },
+        {
+            "name": "Relator",
+            "text": "La Umamusume Superestrella Oguri Cap lo hizo! ¡Una milagrosa victoria en su\núltima carrera de la Twinkle Series!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Waaaau!"
+        },
+        {
+            "text": "Nunca olvidaré la maravilla, el milagro que se mostró hoy en frente de mis ojos."
+        },
+        {
+            "text": "Nunca olvidaré la maravilla, el milagro que se mostró hoy en frente de mis ojos."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Asombroso... Simplemente maravilloso! ¡Ella realmente ganó!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Así que esos significa ser la <i>representante</i> del equipo..."
+        },
+        {
+            "name": "<username>",
+            "text": "Y pensar que ella estaba decayendo últimamente. La gente incluso dijo\nque ya fue cuando terminó 11va en su última carrera..."
+        },
+        {
+            "name": "Entrenador en Retiro",
+            "text": "Cuando escuché a la gente tirando cosas sin sentido, ¡Ambos sabiamos\nque teniamos que demostrarles lo contrario!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, ahí estás. Felicidades, Entrenador."
+        },
+        {
+            "text": "El entrenador principal del equipo se nos acerca. Este hombre me enseñó\ntodo lo que debería saber sobre ser un entrenador."
+        },
+        {
+            "text": "El entrenador principal del equipo se nos acerca. Este hombre me enseñó\ntodo lo que debería saber sobre ser un entrenadora."
+        },
+        {
+            "text": "Un veterano de 30 años, decidió hacer su última carrera.\nAunque...",
+            "choice_data_list": [
+                "¡No te puedes retirar ahora!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Claro. Especialmente después de que tu y Oguri mostraran\nuna carrera tan espectacular...",
+            "choice_data_list": [
+                "¡Simplemente escucha esos gritos!"
+            ]
+        },
+        {
+            "text": "<i>¡Oguri! ¡Oguri!</i>"
+        },
+        {
+            "name": "Relator",
+            "text": "¡Hoy los gritos de Oguri están haciendo temblar la tribuna hasta sus raices!\n¡Que gran eco!"
+        },
+        {
+            "text": "Una multitud superando los 100.000 gritos del nombre\nde la superestrella."
+        },
+        {
+            "text": "Cantan sobre el trabajo perfecto que mi mentór hizo preparandola para\nesta carrera."
+        },
+        {
+            "text": "Es toda la evidencia que necesito para saber que\ntiene mucho mas que dar..."
+        },
+        {
+            "name": "Entrenador en Retiro",
+            "text": "Nah, ya fue, desafortunadamente. Despues del largo camino hasta acá\nya se acabó la gasolina."
+        },
+        {
+            "name": "Entrenador en Retiro",
+            "text": "Así que el plan no cambará. ¡El Equipo Sirius está en tus manos ahora!"
+        },
+        {
+            "text": "<i>¡PA!</i>"
+        },
+        {
+            "text": "Asi que me empujarón, con un buen palmazo en el hombro."
+        },
+        {
+            "text": "Asi que me empujarón, con un buen palmazo en la espalda."
+        },
+        {
+            "text": "Todo lo que se, lo aprendí en mis dos años como\nentrenador asistente para el Equipo Sirius."
+        },
+        {
+            "text": "Voy a perder mi luz guía, la que siempre estuvo ahí en mis\ntres momentos de debilidad."
+        },
+        {
+            "name": "Entrenador en Retiro",
+            "text": "¿Estás con McQueen, verdad? ¡Ella va a alcanzar su prime con\nesa victoria en el Kikuka Sho!"
+        },
+        {
+            "name": "Entrenador en Retiro",
+            "text": "Dale con todo, y yo se que ustedes dos terminarán\ndefiniendo las carreras G1.",
+            "choice_data_list": [
+                "¡Por supuesto!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "En efecto. Has sido un poco dudoso como entrenador asistente eso si,\nasí que <i>yo</i> tendre que ser la que te ayude a <i>ti.</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Seguramente te arregles una vez que\ngane el Tenno Sho de primavera."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tengo las ganas de eso, ¿Y tu?"
+        },
+        {
+            "name": "Entrenador en Retiro",
+            "text": "¡Ajaja! ¡Ya te andan mandando con el dedo! Pero sabes, tengo\ngrandes expectativas."
+        },
+        {
+            "name": "Entrenador en Retiro",
+            "text": "¡No puedo esperar donde llevarás a mi querido Equipo Sirius!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Por supuesto!"
+        },
+        {
+            "text": "Y asi, un profundo tono carmesí cae en el pasto del Hipodromo de Nakayama."
+        },
+        {
+            "text": "Y asi, un profundo tono carmesí cae en el pasto del Hipodromo de Nakayama."
+        }
+    ]
+}

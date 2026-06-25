@@ -1,0 +1,245 @@
+{
+    "title": "¿Marea agitada o Viaje Suave?",
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Han pasado unos dias desde la remarcable victoria de Mejiro McQueen\nen el Tenno Sho de primavera."
+        },
+        {
+            "name": "Monologue",
+            "text": "Así como nuestro pequeño equipo de uno finalmente creció."
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "Desde el primer momento que ví tu elegancia, ¡SABÍA que me tenía que unir!"
+        },
+        {
+            "name": "Umamusume Cariñosa",
+            "text": "<i>Snif...</i> Tu victoria... Muy impresionante... Estaba, <i>snif...</i> ¡Muy conmovida!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "M-Me halaga."
+        },
+        {
+            "name": "Umamusume Sincera",
+            "text": "¡Quiero darlo todo y perseguir mis sueños igual como tu lo hiciste!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "D-de todas maneras... ¡Por favor hazlo!"
+        },
+        {
+            "name": "<username>",
+            "text": "Parece que todas se atrajeron por tu rendimiento, McQueen."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Lo se... pero es un poco vergonzoso."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Haa, haa...</i>\n¿Como estuvo ese tiempo?"
+        },
+        {
+            "name": "<username>",
+            "text": "1200 metros en unos buenos 80 segundos. ¡Sin quejas por aquí!"
+        },
+        {
+            "name": "<username>",
+            "text": "1200 metros en unos buenos 80 segundos. ¡Sin quejas por aquí!"
+        },
+        {
+            "name": "Umamusume Sincera",
+            "text": "¡Waaaos! ¡Así que esto significa ser una campeona del Tenno Sho!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Ay por diós! ¿M-me podrías dar un poco de espacio?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aunque, tengo que admitirlo, estoy feliz de entrenar\njunto a un Equipo Sirius bastante animado de nuevo."
+        },
+        {
+            "name": "<username>",
+            "text": "¡Se lo debemos todo a tu victoria en el Tenno Sho de primavera!"
+        },
+        {
+            "name": "<username>",
+            "text": "¡Se lo debemos todo a tu victoria en el Tenno Sho de primavera!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Y pensar que mi propia forma de correr tendría una gran influencia\nen el equipo..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aun así, no estamos del todo libres. Sigamos yendo hacia adelante,\n¡Como un equipo!"
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "McQueen, ¿Me enseñas una postura correcta para correr?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Claro, no tengo problema alguno."
+        },
+        {
+            "name": "Umamusume Cariñosa",
+            "text": "¡McQueen! ¿Como puedo salir de las puertas tan habilmente como tu?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Permiteme que ahora te muestro."
+        },
+        {
+            "name": "???",
+            "text": "McQueen, hace hambre. ¿Porque no me das una torta de zanahorias?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Claro, eso no sería un prob—"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Momento, ¡¿Quion dijo eso?! ¡No quería decir eso!"
+        },
+        {
+            "name": "???",
+            "text": "Bah, soy yo. Holi, ¡McQueen!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "G-Gold Ship...",
+            "choice_data_list": [
+                "¿Una conocida?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "\"Conocida\" seria... demasiado. Ella es mas como una peste que no me\ndeja tranquila."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ayy, ¡Vi el Tenno Sho! ¡Andabas genial como siempre!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡En especial esa parte cuando usaste tu cuerpo como escudo para\ncubrir a tus aliados de los disparos de los enemigos!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Nada de eso pasó! ¡¿Que clase de disparos pasan en una carrera?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "No tienes que explicar nada. ¡Sabemos lo que vimos! ¡La parte cuando\ncorriste me tenia llena de lágrimas!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Y por eso vine. ¡Asumí que estabas practicando mas piruetas!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No me importa si simplemente miraste, solo... No te metas."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Bueno, bueno! Me callo y miro, ¡No te preocupes!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ahora, mi gente, miren bien atentos a la aspiradora McQueen, ¡Enseñandonos\ncomo comerse 200 metros de rolls de wasabi!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, por el amor de—"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Fiu... Hoy fue bastante agotador..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "El Tenno Sho realmente te gastó esos palitos, ¿eh?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Dios santo, <i>tu</i> me tienes hasta la coronilla. Eso es todo."
+        },
+        {
+            "name": "<username>",
+            "text": "Gold Ship tiene un punto. Hiciste una gran carrera despues de todo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Y debería estar preparandome para la siguiente.\nNo hay tiempo que perder."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Mis ambiciones simplemente no terminan con el Tenno Sho"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¿Oh? Un buen sueño justo despues de otro, ¿eh?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Naturalmente! Como un miembro de la prestigiosa familia Mejiro,\nno puedo dejarme llevar."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aprte, tengo un equipo completo de corredoras que apoyar."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "...Tryhard."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Obvio que estoy haciendo todo lo que puedo! ¡Claramente no\nhay tiempo para estar bromeando!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Heh, que bueno saberlo. Y afortunadamente\nmantendrás esas piernas en el pasto."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Ya, lo decidí! ¡Tienes otro miembro nuevo en tu equipo desde ahora!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡¿Ah?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Los esfuerzos de McQueen captaron los ojos de varios a diestra y siniestra.\nY gracias a eso...",
+            "choice_data_list": [
+                "¡El equipo no se disolverá!",
+                "¡El equipo no se disolverá!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Woo! ¡Felicidades! No se de lo que hablan, ¡Pero genial!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Puede que no se disuelva el equipo,\npero de todas maneras estoy preocupada..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Si bien ella tiene un punto de que el equipo <i>fue</i> como fuese, creo\ngenuinamente que va a ser el hogar de verdaderas estrellas."
+        },
+        {},
+        {
+            "name": "Monologue",
+            "text": "Porque Sirius tiene a Mejiro McQueen como su luz guía."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Ahoy marineros! ¡Eleven anclas y a navegar, Equipo McQueen!"
+        }
+    ]
+}

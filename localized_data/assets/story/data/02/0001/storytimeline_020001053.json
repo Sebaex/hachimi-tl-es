@@ -1,0 +1,69 @@
+{
+    "title": "La Etapa Primaveral de los Sueños",
+    "text_block_list": [
+        {
+            "name": "<username>",
+            "text": "McQueen, ¡Esa carrera fue increible! ¡Felicitaciones!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "..."
+        },
+        {
+            "name": "<username>",
+            "text": "¿McQueen?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Lo logré!"
+        },
+        {
+            "name": "<username>",
+            "text": "¡Waos!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Los pasillos de las Mejiro están adornadas con incontables victorias—¡Y\nfinalmente gané una placa propia!"
+        },
+        {
+            "name": "Monologue",
+            "text": "No me esperaba semejante muestra de felicidad de la siempre\nprudente McQueen."
+        },
+        {
+            "name": "Monologue",
+            "text": "Está claro lo mucho que esta carrera significaba para ella, y por eso sintió\ntanta presión para ganarla."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Me disculpo, perdí mi compostura. Aunque, yo <i>creo</i> que me gané\nun poco de júbilo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Para añadir, quiero agradecerte por ayudarme a alcanzar este resultado."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Y pensar que dedicarías todos tus esfuerzos solo para mi...\nEstoy muy agradecida"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yo debería ser el que diera todas las gracias. Colocaste tu fé en un entrenador\nnovato como yo, ¡Y entregaste una increible victoria!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...Eso si, si fuera a decirle eso ahora, seguramente me regañaría por\nmi falta de confianza.",
+            "choice_data_list": [
+                "¡Una increible victoria para el Equipo Sirius!",
+                "¡Una increible victoria para el Equipo Sirius!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Jeje, si. ¡Aprovechemos de agarrarnos hacia donde el camino nos lleve!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ahora, voy a hacer un concierto de victoria para recordar. ¡Si eso es lo menos\nque puedo hacer para agradecer a todos los que me apoyaron!"
+        }
+    ]
+}

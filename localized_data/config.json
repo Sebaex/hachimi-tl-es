@@ -1,5 +1,6 @@
 {
     "ordinal_types": ["$ro", "$do", "$ro", "$to", "$to", "$to", "$mo", "$vo", "$no", "$mo"],
+    "ordinal_form": "n % 10",
     "months": [],
     "use_text_wrapper": false,
     "auto_adjust_story_clip_length": false,
@@ -7,5 +8,9 @@
     "now_loading_comic_title_ellipsis": false,
     "remove_ruby": false,
     "assets_dir": "assets",
-    "localize_dict": "localize_dict.json"
+    "localize_dict": "localize_dict.json",
+    "race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
+    "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
+    "character_system_text_dict": "character_system_text_dict.json",
+    "text_data_dict": "text_data_dict.json"
 }
