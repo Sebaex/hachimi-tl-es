@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "¡Por favor, Entrenador Asistente! ¡¿No puedes ir mas rapido?!"
+            "text": "¡Por favor, Entrenador Asistente! ¡¿No puedes ir más rápido?!"
         },
         {
             "text": "Una escandalosa y apegada multitud usando\nlas gradas del Hipódromo de Nakayama."
@@ -20,7 +20,7 @@
         },
         {
             "name": "<username>",
-            "text": "En ese caso, ¿Porqué no nos quedamos mirando desde la zona de staff?"
+            "text": "En ese caso, ¿Por qué no nos quedamos mirando desde la zona de staff?"
         },
         {
             "name": "Mejiro McQueen",
@@ -35,13 +35,13 @@
             "text": "¡Oh no, van a cruzar la meta! ¡Ven, toma mi mano!"
         },
         {
-            "text": "Mejiro McQueen agarra mi mano con un agarre empatico\ny me tira por el público."
+            "text": "Mejiro McQueen agarra mi mano con un agarre empático\ny me tira por el público."
         },
         {
-            "text": "Mejiro McQueen agarra mi mano con un agarre empatico\ny me tira por el público."
+            "text": "Mejiro McQueen agarra mi mano con un agarre empático\ny me tira por el público."
         },
         {
-            "text": "Un último tirón de McQueen y en ese instante, el espectaculo\nse abre ante nosotros."
+            "text": "Un último tirón de McQueen y en ese instante, el espectáculo\nse abre ante nosotros."
         },
         {
             "name": "Relatora",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Así que esos significa ser la <i>representante</i> del equipo..."
+            "text": "Así que eso significa ser la <i>representante</i> del equipo..."
         },
         {
             "name": "<username>",
@@ -75,7 +75,7 @@
         },
         {
             "name": "Entrenador en Retiro",
-            "text": "Cuando escuché a la gente tirando cosas sin sentido, ¡Ambos sabiamos\nque teniamos que demostrarles lo contrario!"
+            "text": "Cuando escuché a la gente tirando cosas sin sentido, ¡Ambos sabíamos\nque teníamos que demostrarles lo contrario!"
         },
         {
             "name": "Mejiro McQueen",
@@ -85,7 +85,7 @@
             "text": "El entrenador principal del equipo se nos acerca. Este hombre me enseñó\ntodo lo que debería saber sobre ser un entrenador."
         },
         {
-            "text": "El entrenador principal del equipo se nos acerca. Este hombre me enseñó\ntodo lo que debería saber sobre ser un entrenadora."
+            "text": "El entrenador principal del equipo se nos acerca. Este hombre me enseñó\ntodo lo que debería saber sobre ser una entrenadora."
         },
         {
             "text": "Un veterano de 30 años, decidió hacer su última carrera.\nAunque...",
@@ -95,7 +95,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Claro. Especialmente después de que tu y Oguri mostraran\nuna carrera tan espectacular...",
+            "text": "Claro. Especialmente después de que tú y Oguri mostraran\nuna carrera tan espectacular...",
             "choice_data_list": [
                 "¡Simplemente escucha esos gritos!"
             ]
@@ -105,33 +105,33 @@
         },
         {
             "name": "Relatora",
-            "text": "¡Hoy los gritos de Oguri están haciendo temblar la tribuna hasta sus raices!\n¡Que gran eco!"
+            "text": "¡Hoy los gritos de Oguri están haciendo temblar la tribuna hasta sus raíces!\n¡Qué gran eco!"
         },
         {
             "text": "Una multitud superando los 100.000 gritos del nombre\nde la superestrella."
         },
         {
-            "text": "Cantan sobre el trabajo perfecto que mi mentór hizo preparandola para\nesta carrera."
+            "text": "Cantan sobre el trabajo perfecto que mi mentor hizo preparándola para\nesta carrera."
         },
         {
-            "text": "Es toda la evidencia que necesito para saber que\ntiene mucho mas que dar..."
-        },
-        {
-            "name": "Entrenador en Retiro",
-            "text": "Nah, ya fue, desafortunadamente. Despues del largo camino hasta acá\nya se acabó la gasolina."
+            "text": "Es toda la evidencia que necesito para saber que\ntiene mucho más que dar..."
         },
         {
             "name": "Entrenador en Retiro",
-            "text": "Así que el plan no cambará. ¡El Equipo Sirius está en tus manos ahora!"
+            "text": "Nah, ya fue, desafortunadamente. Después del largo camino hasta acá\nya se acabó la gasolina."
+        },
+        {
+            "name": "Entrenador en Retiro",
+            "text": "Así que el plan no cambiará. ¡El Equipo Sirius está en tus manos ahora!"
         },
         {
             "text": "<i>¡PA!</i>"
         },
         {
-            "text": "Asi que me empujarón, con un buen palmazo en el hombro."
+            "text": "Así que me empujó, con un buen palmazo en el hombro."
         },
         {
-            "text": "Asi que me empujarón, con un buen palmazo en la espalda."
+            "text": "Así que me empujó, con un buen palmazo en la espalda."
         },
         {
             "text": "Todo lo que se, lo aprendí en mis dos años como\nentrenador asistente para el Equipo Sirius."
@@ -145,14 +145,14 @@
         },
         {
             "name": "Entrenador en Retiro",
-            "text": "Dale con todo, y yo se que ustedes dos terminarán\ndefiniendo las carreras G1.",
+            "text": "Dale con todo, y yo sé que ustedes dos terminarán\ndefiniendo las carreras G1.",
             "choice_data_list": [
                 "¡Por supuesto!"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "En efecto. Has sido un poco dudoso como entrenador asistente eso si,\nasí que <i>yo</i> tendre que ser la que te ayude a <i>ti.</i>"
+            "text": "En efecto. Has sido un poco dudoso como entrenador asistente eso sí,\nasí que <i>yo</i> tendré que ser la que te ayude a <i>ti.</i>"
         },
         {
             "name": "Mejiro McQueen",
@@ -160,7 +160,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Tengo las ganas de eso, ¿Y tu?"
+            "text": "Tengo las ganas de eso, ¿Y tú?"
         },
         {
             "name": "Entrenador en Retiro",
@@ -175,10 +175,10 @@
             "text": "¡Por supuesto!"
         },
         {
-            "text": "Y asi, un profundo tono carmesí cae en el pasto del Hipodromo de Nakayama."
+            "text": "Y así, un profundo tono carmesí cae en el pasto del Hipódromo de Nakayama."
         },
         {
-            "text": "Y asi, un profundo tono carmesí cae en el pasto del Hipodromo de Nakayama."
+            "text": "Y así, un profundo tono carmesí cae en el pasto del Hipódromo de Nakayama."
         }
     ]
 }

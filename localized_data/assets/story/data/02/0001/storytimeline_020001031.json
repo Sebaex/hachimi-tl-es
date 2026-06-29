@@ -11,7 +11,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Sin embargo, nuestra busqueda de nuevos miembros no da frutos, y\nMcQueen se mantiene como la única miembro de Sirius."
+            "text": "Sin embargo, nuestra búsqueda de nuevos miembros no da frutos, y\nMcQueen se mantiene como el único miembro de Sirius."
         },
         {
             "name": "Monólogo",
@@ -39,23 +39,23 @@
         },
         {
             "name": "Monólogo",
-            "text": "El Tenno Sho de primavera se acerca rapido eso si. Este desgaste extra es\nun riesgo."
+            "text": "El Tenno Sho de primavera se acerca rápido eso sí. Este desgaste extra es\nun riesgo."
         },
         {
             "name": "Monólogo",
-            "text": "¿Debería decirle que se detenga? ¿O deberia aceptar el riesgo y\nhacer mis sessiones mas rigurosas?"
+            "text": "¿Debería decirle que se detenga? ¿O debería aceptar el riesgo y\nhacer mis sesiones más rigurosas?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No tengo opción. ¡Ningúna opcion mas que ganar el Tenno Sho de\nprimavera!"
+            "text": "No tengo opción. ¡Ninguna opción más que ganar el Tenno Sho de\nprimavera!"
         },
         {
             "name": "Monólogo",
-            "text": "¿Que hago? El viejo sabría exactamente que decir. Si tan solo me\npudiera ayudar."
+            "text": "¿Qué hago? El viejo sabría exactamente que decir. Si tan solo me\npudiera ayudar."
         },
         {
             "name": "Monólogo",
-            "text": "Al proximo día, voy a la oficina a preparar el entrenamiento. Ahí encuentro\na McQueen esperandome con una inesperada compañía."
+            "text": "Al próximo día, voy a la oficina a preparar el entrenamiento. Ahí encuentro\na McQueen esperándome con una inesperada compañía."
         },
         {
             "name": "???",
@@ -75,7 +75,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "¡Encantada de conocerte! Es algo importante, ¡Así que\nse lo rogué practicamente!"
+            "text": "¡Encantada de conocerte! Es algo importante, ¡Así que\nse lo rogué prácticamente!"
         },
         {
             "name": "Mejiro McQueen",
@@ -98,7 +98,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Para nada! No me importa ningun secretito que quieran mantener ustedes."
+            "text": "¡Para nada! No me importa ningún secretito que quieran mantener ustedes."
         },
         {
             "name": "Mejiro McQueen",
@@ -118,18 +118,18 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Seguramente ya te diste cuenta, pero está esforzandose demasiado.",
+            "text": "Seguramente ya te diste cuenta, pero está esforzándose demasiado.",
             "choice_data_list": [
                 "...¿Es sobre sus sesiones de entrenamiento nocturno?"
             ]
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Sabía que te darías cuenta de eso. Sip, ¡McQueen tenia razón sobre tí!"
+            "text": "Sabía que te darías cuenta de eso. Sip, ¡McQueen tenía razón sobre ti!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "\"Un poco dudoso, pero siempre preocupandose por mi.\""
+            "text": "\"Un poco dudoso, pero siempre preocupándose por mí.\""
         },
         {
             "name": "Mejiro Ryan",
@@ -153,7 +153,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Nah, ella realmente confía mucho en tí."
+            "text": "Nah, ella realmente confía mucho en ti."
         },
         {
             "name": "Mejiro Ryan",
@@ -165,11 +165,11 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Se que la familia tiene altas expectativas para mi cuando hablamos de\ncarreras Clasicas. McQueen es una stayer, así que sus expectativas\nson altas para que ella gane el Tenno Sho."
+            "text": "Se que la familia tiene altas expectativas para mi cuando hablamos de\ncarreras Clásicas. McQueen es una stayer, así que sus expectativas\nson altas para que ella gane el Tenno Sho."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Especialmente lo mucho que signofica el Tenno Sho para la familia. Ella\nquiere enorgullecer a todos."
+            "text": "Especialmente lo mucho que significa el Tenno Sho para la familia. Ella\nquiere enorgullecer a todos."
         },
         {
             "name": "Mejiro Ryan",
@@ -185,11 +185,11 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Creo que ella está preocupada, ¿Sabes? Ella esta entre la carrera <i>y</i> el\nreclutamiento."
+            "text": "Creo que ella está preocupada, ¿Sabes? Ella está entre la carrera <i>y</i> el\nreclutamiento."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ella siente que es cosa de ella que todo salga perfecto. Creeme, ella\nsiempre ha sido así..."
+            "text": "Ella siente que es cosa de ella que todo salga perfecto. Créeme, ella\nsiempre ha sido así..."
         },
         {
             "name": "Monólogo",
@@ -203,8 +203,8 @@
             "name": "Mejiro Ryan",
             "text": "Seguramente ella va a escuchar cualquier cosa que le digas\nsi se lo explicas.",
             "choice_data_list": [
-                "Bueno, dejamelo a mi.",
-                "Bueno, dejamelo a mi."
+                "Bueno, déjamelo a mí.",
+                "Bueno, déjamelo a mí."
             ]
         },
         {
@@ -229,11 +229,11 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "McQueen es como mi hermanita para mi, pero también es\nuna importante rival."
+            "text": "McQueen es como mi hermanita para mí, pero también es\nuna importante rival."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "¡Te dejo el resto a tí!"
+            "text": "¡Te dejo el resto a ti!"
         }
     ]
 }

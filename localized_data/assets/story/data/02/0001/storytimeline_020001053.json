@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "<username>",
-            "text": "McQueen, ¡Esa carrera fue increible! ¡Felicitaciones!"
+            "text": "McQueen, ¡Esa carrera fue increíble! ¡Felicitaciones!"
         },
         {
             "name": "Mejiro McQueen",
@@ -43,23 +43,23 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Y pensar que dedicarías todos tus esfuerzos solo para mi...\nEstoy muy agradecida"
+            "text": "Y pensar que dedicarías todos tus esfuerzos solo para mí...\nEstoy muy agradecida"
         },
         {
             "name": "Monólogo",
-            "text": "Yo debería ser el que diera todas las gracias. Colocaste tu fé en un entrenador\nnovato como yo, ¡Y entregaste una increible victoria!"
+            "text": "Yo debería ser el que diera todas las gracias. Colocaste tu fe en un entrenador\nnovato como yo, ¡Y entregaste una increíble victoria!"
         },
         {
             "name": "Monólogo",
-            "text": "...Eso si, si fuera a decirle eso ahora, seguramente me regañaría por\nmi falta de confianza.",
+            "text": "...Eso sí, si fuera a decirle eso ahora, seguramente me regañaría por\nmi falta de confianza.",
             "choice_data_list": [
-                "¡Una increible victoria para el Equipo Sirius!",
-                "¡Una increible victoria para el Equipo Sirius!"
+                "¡Una increíble victoria para el Equipo Sirius!",
+                "¡Una increíble victoria para el Equipo Sirius!"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Jeje, si. ¡Aprovechemos de agarrarnos hacia donde el camino nos lleve!"
+            "text": "Jeje, sí. ¡Aprovechemos de agarrarnos hacia donde el camino nos lleve!"
         },
         {
             "name": "Mejiro McQueen",

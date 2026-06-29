@@ -3,14 +3,14 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Así como el Tenno Sho de Primavera se acerca, el regimen de entrenamiento\nde Mejiro McQueen se intensifica."
+            "text": "Así como el Tenno Sho de Primavera se acerca, el régimen de entrenamiento\nde Mejiro McQueen se intensifica."
         },
         {
             "text": "<i>Haah, haah, haah...</i> Creo que estoy mejorando en controlar mi\nrespiración."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Bueno, eso nos lleva al final del regimen de hoy. ¿Tienes algo más\npara mi?"
+            "text": "Bueno, eso nos lleva al final del régimen de hoy. ¿Tienes algo más\npara mí?"
         },
         {
             "name": "Mejiro McQueen",
@@ -20,14 +20,14 @@
             "name": "Monólogo",
             "text": "Parece que un poco más no dolerá. Voy a dejarle como ella quiera.",
             "choice_data_list": [
-                "Bueno, intentemoslo otra vez."
+                "Bueno, intentémoslo otra vez."
             ]
         },
         {
             "name": "Monólogo",
             "text": "Parece que un poco más no dolerá. Voy a dejarle como ella quiera.",
             "choice_data_list": [
-                "Bueno, intentemoslo otra vez."
+                "Bueno, intentémoslo otra vez."
             ]
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ahora que mi rival esta de vuelta en el juego, ¡Parece que tendré que\naumentar mi propio nivel de preparación para el Tenno Sho a un 200%!",
+            "text": "Ahora que mi rival está de vuelta en el juego, ¡Parece que tendré que\naumentar mi propio nivel de preparación para el Tenno Sho a un 200%!",
             "choice_data_list": [
                 "Gracias, Ryan."
             ]
@@ -92,7 +92,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Los proximos días pasan volando. El día del Tenno Sho de primavera\nya está encima."
+            "text": "Los próximos días pasan volando. El día del Tenno Sho de primavera\nya está encima."
         },
         {
             "name": "Mejiro McQueen",
@@ -104,11 +104,11 @@
         },
         {
             "name": "<username>",
-            "text": "¿Que estás pensando en comer despues de tu victoria?"
+            "text": "¿Que estás pensando en comer después de tu victoria?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Hm? Ah, si. Bueno... Como estamos en Kyoto, algo típico de Kyoto."
+            "text": "¿Hm? Ah, sí. Bueno... Como estamos en Kyoto, algo típico de Kyoto."
         },
         {
             "name": "<username>",
@@ -128,7 +128,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Vamos, ubicate. Eso es algo que tu ya deberías saber como entrenador."
+            "text": "Vamos, ubícate. Eso es algo que tú ya deberías saber cómo entrenador."
         },
         {
             "name": "Mejiro McQueen",

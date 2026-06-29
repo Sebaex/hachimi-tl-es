@@ -31,10 +31,10 @@
         },
         {
             "name": "Monólogo",
-            "text": "Eso si, no puedo decir que el entorno lleva a esa idea.",
+            "text": "Eso sí, no puedo decir que el entorno lleva a esa idea.",
             "choice_data_list": [
-                "¿Porqué no nos relajamos en el primer día aca?",
-                "¿Porqué no nos relajamos en el primer día aca?"
+                "¿Por qué no nos relajamos en el primer día acá?",
+                "¿Por qué no nos relajamos en el primer día acá?"
             ]
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Oye, ¿está bien que nosotras estemos acompañandolos? No es como si\nestuvieramos en su equipo..."
+            "text": "Oye, ¿está bien que nosotras estemos acompañándolos? No es como si\nestuvieramos en su equipo..."
         },
         {
             "name": "Mejiro Ryan",
@@ -51,12 +51,12 @@
         },
         {
             "name": "<username>",
-            "text": "Mientras más mejor. ¡Bienvenidas a bordo!"
+            "text": "Mientras más, mejor. ¡Bienvenidas a bordo!"
         },
         {},
         {
             "name": "Mejiro Ryan",
-            "text": "¡Gracias! ¡Agradezco estár a bordo!"
+            "text": "¡Gracias! ¡Agradezco estar a bordo!"
         },
         {
             "name": "Monólogo",
@@ -68,7 +68,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Acelerala, McQueen, ¡Te voy a pasar!"
+            "text": "Acelérala, McQueen, ¡Te voy a pasar!"
         },
         {
             "name": "Mejiro McQueen",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Vamos, Dober. ¡Tu puedes hacerlo mejor que eso!"
+            "text": "Vamos, Dober. ¡Tú puedes hacerlo mejor que eso!"
         },
         {
             "name": "Mejiro Dober",
@@ -84,11 +84,11 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "¡No tienes nada de que preocuparte! ¡Eres bonita, lo sabes!"
+            "text": "¡No tienes nada de qué preocuparte! ¡Eres bonita, lo sabes!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "¡N-no necesito tus alagos! ¡Yo se mas que nadie como a nadie le gusto!"
+            "text": "¡N-no necesito tus halagos! ¡Yo sé más que nadie como a nadie le gusto!"
         },
         {
             "name": "Mejiro McQueen",
@@ -96,7 +96,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "¿Que mas voy a estar haciendo en la playa?"
+            "text": "¿Que más voy a estar haciendo en la playa?"
         },
         {
             "name": "Gold Ship",
@@ -127,7 +127,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Aún así, bien ahi, McQueen. Me impresionó que pudieras mantener\nel ritmo cuando Ryan aceleró."
+            "text": "Aun así, bien ahí, McQueen. Me impresionó que pudieras mantener\nel ritmo cuando Ryan aceleró."
         },
         {
             "name": "Mejiro McQueen",
@@ -135,15 +135,15 @@
         },
         {
             "name": "Monólogo",
-            "text": "Un poco antes de que el campamento comenzara, Mejiro McQueen corrió\nel Takarazuka Kinen, la carrera mas importante del primer semestre."
+            "text": "Un poco antes de que el campamento comenzara, Mejiro McQueen corrió\nel Takarazuka Kinen, la carrera más importante del primer semestre."
         },
         {
             "name": "Monólogo",
-            "text": "Ella era la favorita para ganar, pero incluso despues del mejor de sus\nesfuerzos, salió segunda ante una gran Mejiro Ryan."
+            "text": "Ella era la favorita para ganar, pero incluso después del mejor de sus\nesfuerzos, salió segunda ante una gran Mejiro Ryan."
         },
         {
             "name": "Umamusume Animada",
-            "text": "En serio, ¡El como corre McQueen no deja de sorprenderme! ¡Tanto\nentrenando como en carreras!"
+            "text": "En serio, ¡El cómo corre McQueen no deja de sorprenderme! ¡Tanto\nentrenando como en carreras!"
         },
         {
             "name": "Umamusume Cariñosa",
@@ -151,11 +151,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ughh... ¿Por cuanto más va a continuar esta adoración?"
+            "text": "Ughh... ¿Por cuánto más va a continuar esta adoración?"
         },
         {
             "name": "Mejiro Dober",
-            "text": "Por lo general una profunda admiración se gana. ¿No deberías estár\norgullosa de eso?"
+            "text": "Por lo general una profunda admiración se gana. ¿No deberías estar\norgullosa de eso?"
         },
         {
             "name": "Mejiro Ryan",
@@ -163,7 +163,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Está bien, ¡No puedo relajarme si quiero seguir ganandole a\nMejiro McPopular! ¡Voy de nuevo!"
+            "text": "Está bien, ¡No puedo relajarme si quiero seguir ganándole a\nMejiro McPopular! ¡Voy de nuevo!"
         },
         {
             "name": "Mejiro McQueen",
@@ -171,7 +171,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "El tiempo vuela cuando corres rapido. Y cuando menos lo esperabamos,\nel sol comenzó a colocarse."
+            "text": "El tiempo vuela cuando corres rápido. Y cuando menos lo esperábamos,\nel sol comenzó a colocarse."
         },
         {
             "name": "Mejiro McQueen",
@@ -203,7 +203,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Posiblemente... Eso me hace orgullosa, pero tambien un poco\navergonzada. Es un sentimiento complicado."
+            "text": "Posiblemente... Eso me hace orgullosa, pero también un poco\navergonzada. Es un sentimiento complicado."
         },
         {
             "name": "Mejiro McQueen",
@@ -211,7 +211,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Pero para mi... me hizo darme cuenta que tengo más de lo\nque quería realizar.",
+            "text": "Pero para mí... me hizo darme cuenta de que tengo más de lo\nque quería realizar.",
             "choice_data_list": [
                 "¿Como por ejemplo?"
             ]

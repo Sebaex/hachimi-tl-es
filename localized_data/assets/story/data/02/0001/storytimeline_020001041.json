@@ -13,7 +13,7 @@
             "name": "Tazuna Hayakawa",
             "text": "¡Tengo noticias sobre el periodo de gracia antes de la\ndisolución del Equipo Sirius!",
             "choice_data_list": [
-                "¡¿En serio?! ¿Cuanto es?"
+                "¡¿En serio?! ¿Cuánto es?"
             ]
         },
         {
@@ -32,7 +32,7 @@
             "name": "Monólogo",
             "text": "Estoy con relajo. ¡Eso significa que podemos olvidar nuestros problemas\npara reclutar por ahora!",
             "choice_data_list": [
-                "¡Muchisimas gracias!"
+                "¡Muchísimas gracias!"
             ]
         },
         {
@@ -49,15 +49,15 @@
         },
         {
             "name": "Monólogo",
-            "text": "Pero eso no parará a McQueen. ¿Cuantas noches van?"
+            "text": "Pero eso no parará a McQueen. ¿Cuántas noches van?"
         },
         {
             "name": "Monólogo",
-            "text": "Sin embargo, se nota a simple vista que todo ese trabajo extra le ha afectado\nsu forma. Su balance superior e inferior estan deficientes."
+            "text": "Sin embargo, se nota a simple vista que todo ese trabajo extra le ha afectado\nsu forma. Su balance superior e inferior están deficientes."
         },
         {
             "name": "Monólogo",
-            "text": "No me gustaria ver que todo este entrenamiento ineficiente la deje con\nuna lesión justo antes del Tenno Sho de primavera."
+            "text": "No me gustaría ver que todo este entrenamiento ineficiente la deje con\nuna lesión justo antes del Tenno Sho de primavera."
         },
         {
             "name": "Mejiro McQueen",
@@ -93,11 +93,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Una fiebre? Oh... Seguramente estaba mas fatigada de lo que pensaba."
+            "text": "¿Una fiebre? Oh... Seguramente estaba más fatigada de lo que pensaba."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Cuando era joven, generalmente me daba fiebre despues de correr\ncuando era pequeña.",
+            "text": "Cuando era joven, generalmente me daba fiebre después de correr\ncuando era pequeña.",
             "choice_data_list": [
                 "Te esforzaste demasiado.",
                 "Te esforzaste demasiado."
@@ -123,28 +123,28 @@
             "name": "Mejiro McQueen",
             "text": "Entonces dilo, adelante. No más entrenamiento privado, ¿Verdad?",
             "choice_data_list": [
-                "No puedo tenerte sobreesforzada ahora."
+                "No puedo tenerte sobre esforzada ahora."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Considerando todo lo que me hice a mi mismo, no tengo como\nargumentarlo. Tienes mi palabra."
+            "text": "Considerando todo lo que me hice a mí mismo, no tengo como\nargumentarlo. Tienes mi palabra."
         },
         {
             "name": "<username>",
-            "text": "Entonces estás oficialmente prohibida de entrenar en la noche...\nen cambio, dejame estár aqui para ti. Sincerate conmigo."
+            "text": "Entonces estás oficialmente prohibida de entrenar en la noche...\nen cambio, déjame estar aquí para ti. Sincerate conmigo."
         },
         {
             "name": "<username>",
-            "text": "Entonces estás oficialmente prohibida de entrenar en la noche...\nen cambio, dejame estár aqui para ti. Sincerate conmigo."
+            "text": "Entonces estás oficialmente prohibida de entrenar en la noche...\nen cambio, déjame estar aquí para ti. Sincerate conmigo."
         },
         {
             "name": "<username>",
-            "text": "Dejame ayudarte a alcanzar tu sueño de ganar el Tenno Sho."
+            "text": "Déjame ayudarte a alcanzar tu sueño de ganar el Tenno Sho."
         },
         {
             "name": "<username>",
-            "text": "Dejame ayudarte a alcanzar tu sueño de ganar el Tenno Sho."
+            "text": "Déjame ayudarte a alcanzar tu sueño de ganar el Tenno Sho."
         },
         {
             "name": "Mejiro McQueen",
@@ -152,7 +152,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Así que de <i>eso</i> trataba el secretito de Ryan! Metiendose en todo como\nsiempre, esa niña."
+            "text": "¡Así que de <i>eso</i> trataba el secretito de Ryan! Metiéndose en todo como\nsiempre, esa niña."
         },
         {
             "name": "Mejiro McQueen",

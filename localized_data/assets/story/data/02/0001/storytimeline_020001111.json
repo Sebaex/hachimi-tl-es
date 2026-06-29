@@ -1,5 +1,5 @@
 {
-    "title": "Los Obstaculos de las Expectativas",
+    "title": "Los Obstáculos de las Expectativas",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -11,7 +11,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Y la Japan Cup es una carrera re loca, ¿Si? Terminar cuarta con\ntodas esas otras estrellas es bastante respetable."
+            "text": "Y la Japan Cup es una carrera re loca, ¿Sí? Terminar cuarta con\ntodas esas otras estrellas es bastante respetable."
         },
         {
             "name": "Umamusume Animada",
@@ -19,7 +19,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "También, no hubieron incidentes locos hoy. Nuestro entrenador\ndefinitivamente nos va a dar una buena comidita, ¿Verdad?"
+            "text": "También, no hubo incidentes locos hoy. Nuestro entrenador\ndefinitivamente nos va a dar una buena comidita, ¿Verdad?"
         },
         {
             "name": "<username>",
@@ -39,7 +39,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ah, y tengo que llamar a mi Abuela. Por favor vayan sin mi."
+            "text": "Ah, y tengo que llamar a mi Abuela. Por favor vayan sin mí."
         },
         {
             "name": "Mejiro McQueen",
@@ -50,7 +50,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Parece que eso no fue muy convincente... Eso si, tu igual, ¡Eres horrible\nactuando!"
+            "text": "Parece que eso no fue muy convincente... Eso sí, tu igual, ¡Eres horrible\nactuando!"
         },
         {
             "name": "<username>",
@@ -73,7 +73,7 @@
         },
         {
             "name": "Oguri Cap",
-            "text": "Obvio. Le debo bastante a este equipo, y escuché que su mejor estrella\ndebería esta corriendo."
+            "text": "Obvio. Le debo bastante a este equipo, y escuché que su mejor estrella\ndebería está corriendo."
         },
         {
             "name": "Oguri Cap",
@@ -111,7 +111,7 @@
         },
         {
             "name": "<username>",
-            "text": "¿Tu crees?"
+            "text": "¿Tú crees?"
         },
         {
             "name": "Oguri Cap",
@@ -123,34 +123,34 @@
         },
         {
             "name": "Oguri Cap",
-            "text": "Pronto, se sienten como obstaculos en el camino."
+            "text": "Pronto, se sienten como obstáculos en el camino."
         },
         {
             "name": "<username>",
-            "text": "Obstaculos... ya veo."
+            "text": "Obstáculos... ya veo."
         },
         {
-            "text": "La única razon de porqué sigue este equipo es porque Mejiro Mcqueen\nestuvo ahí para nosotros."
+            "text": "La única razón de porqué sigue este equipo es porque Mejiro Mcqueen\nestuvo ahí para nosotros."
         },
         {
             "text": "A todos le importa... aspiran a ser como ella."
         },
         {
-            "text": "Y no solo otras corredoras. Acomulé la presión con cada victoria también."
+            "text": "Y no solo otras corredoras. Acumulé la presión con cada victoria también."
         },
         {
-            "text": "Y no solo otras corredoras. Acomulé la presión con cada victoria también."
+            "text": "Y no solo otras corredoras. Acumulé la presión con cada victoria también."
         },
         {
             "text": "Es obvio que ahora le cuesta mantenerse con todo lo que tiene que\nllevar."
         },
         {
             "name": "Oguri Cap",
-            "text": "Como entrenador, seguramente puedas encontrar una manera de\nconvertir esos obstaculos en una fuente de poder."
+            "text": "Como entrenador, seguramente puedas encontrar una manera de\nconvertir esos obstáculos en una fuente de poder."
         },
         {
             "name": "<username>",
-            "text": "De obstaculos a poder..."
+            "text": "De obstáculos a poder..."
         },
         {
             "name": "<username>",
@@ -173,18 +173,17 @@
             "name": "<username>",
             "text": "El vínculo que McQueen y yo compartimos..."
         },
-        {},
         {
-            "text": "No tengo la habilidad ni el carisma que mi mentór tenía, y aún así\nMcQueen confió en mi como su entrenador."
+            "text": "No tengo la habilidad ni el carisma que mi mentor tenía, y aun así\nMcQueen confió en mi como su entrenador."
         },
         {
-            "text": "No tengo la habilidad ni el carisma que mi mentór tenía, y aún así\nMcQueen confió en mi como su entrenador."
+            "text": "No tengo la habilidad ni el carisma que mi mentor tenía, y aun así\nMcQueen confió en mi como su entrenador."
         },
         {
-            "text": "¿Aunque por qué eligió poner su fé en mi? ¿Que puedo hacer en\nmomentos que ella necesita algo?"
+            "text": "¿Aunque por qué eligió poner su fe en mí? ¿Qué puedo hacer en\nmomentos que ella necesita algo?"
         },
         {
-            "text": "¿Aunque por qué eligió poner su fé en mi? ¿Que puedo hacer en\nmomentos que ella necesita algo?"
+            "text": "¿Aunque por qué eligió poner su fe en mí? ¿Qué puedo hacer en\nmomentos que ella necesita algo?"
         },
         {
             "name": "Mejiro McQueen",
@@ -195,13 +194,13 @@
             "text": "Siempre nosotras primero..."
         },
         {
-            "text": "Eso es. Ya se lo que tengo que hacer. Tengo que estar a su lado, y\nofrecerle mi fé y apoyo.",
+            "text": "Eso es. Ya sé lo que tengo que hacer. Tengo que estar a su lado, y\nofrecerle mi fe y apoyo.",
             "choice_data_list": [
                 "Voy a ver a McQueen."
             ]
         },
         {
-            "text": "Eso es. Ya se lo que tengo que hacer. Tengo que estar a su lado, y\nofrecerle mi fé y apoyo.",
+            "text": "Eso es. Ya sé lo que tengo que hacer. Tengo que estar a su lado, y\nofrecerle mi fe y apoyo.",
             "choice_data_list": [
                 "Voy a ver a McQueen.",
                 "Voy a ver a McQueen."
@@ -217,11 +216,11 @@
         },
         {
             "name": "Umamusume Cariñosa",
-            "text": "¡Yo ire a ver por la pista de carreras!"
+            "text": "¡Yo iré a ver por la pista de carreras!"
         },
         {
             "name": "Umamusume Sincera",
-            "text": "¿Seguramente fue al templo? ¡Ire y revisaré!",
+            "text": "¿Seguramente fue al templo? ¡Iré y revisaré!",
             "choice_data_list": [
                 "Gracias, a todas ustedes. ¡Vamos!",
                 "Gracias, a todas ustedes. ¡Vamos!"

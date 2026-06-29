@@ -2,12 +2,12 @@
     "title": "Cielo Oscuro",
     "text_block_list": [
         {
-            "name": "Announcer",
+            "name": "Anunciante",
             "text": "Los jueces decidieron que la persona en primer lugar Mejiro McQueen\nilegalmente obstruyó a otra Umamusume durante la carrera."
         },
         {
-            "name": "Announcer",
-            "text": "Su posición sera ajustada a 18vo."
+            "name": " Anunciante ",
+            "text": "Su posición será ajustada a 18vo."
         },
         {
             "name": "Monólogo",
@@ -19,7 +19,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mientras esto se dió a cabo por la favorita para ganar, la reacción del\npublico fue significativa."
+            "text": "Mientras esto se dio a cabo por la favorita para ganar, la reacción del\npúblico fue significativa."
         },
         {
             "name": "Mejiro Ryan",
@@ -43,7 +43,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Simplemente no te sobreesfuerces, ¿okay?. Claramente vemos como\ndesmuestras bastante bien esto."
+            "text": "Simplemente no te sobre esfuerces, ¿okay? Claramente vemos como\ndesmuestras bastante bien esto."
         },
         {
             "name": "Umamusume Animada",
@@ -66,7 +66,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Habían varios raritos con camaras ahí fuera así que grité,\n¡Miren, varios raritos!"
+            "text": "Había varios raritos con cámaras ahí fuera así que grité,\n¡Miren, varios raritos!"
         },
         {
             "name": "Mejiro McQueen",
@@ -82,7 +82,7 @@
         },
         {
             "name": "<username>",
-            "text": "El último se debería ir luego. Eso si, saltemonos cualquier entrenamiento\nque tengamos para hoy."
+            "text": "El último se debería ir luego. Eso sí, saltémonos cualquier entrenamiento\nque tengamos para hoy."
         },
         {
             "name": "Mejiro McQueen",
@@ -106,7 +106,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "El dormitorio esta ahí solamente. No creo que deberías de acompañarme\nmás."
+            "text": "El dormitorio está ahí solamente. No creo que deberías de acompañarme\nmás."
         },
         {
             "name": "<username>",
@@ -154,7 +154,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Incluso manteniendose tranquila hasta ahora, McQueen se vio indignada\ncuando le dijeron tal pregunta."
+            "text": "Incluso manteniéndose tranquila hasta ahora, McQueen se vio indignada\ncuando le dijeron tal pregunta."
         },
         {
             "name": "Monólogo",
@@ -162,25 +162,25 @@
         },
         {
             "name": "Monólogo",
-            "text": "Aunque, al ver que intenta llevarse toda la responsabilidad ella sola\nes mucho para mi para soportar.",
+            "text": "Aunque, al ver que intenta llevarse toda la responsabilidad ella sola\nes mucho para mí para soportar.",
             "choice_data_list": [
                 "Vamos, McQueen."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Aunque, al ver que intenta llevarse toda la responsabilidad ella sola\nes mucho para mi para soportar.",
+            "text": "Aunque, al ver que intenta llevarse toda la responsabilidad ella sola\nes mucho para mí para soportar.",
             "choice_data_list": [
                 "Vamos, McQueen."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Pero si me voy ahora, ¡Van a asumur que todo esto fue tu culpa de\ntodas maneras!"
+            "text": "Pero si me voy ahora, ¡Van a asumir que todo esto fue tu culpa de\ntodas maneras!"
         },
         {
             "name": "<username>",
-            "text": "No importa quien fue el que tomó esa decision, como su entrenador,\ntomaré toda la responsabilidad de lo que pasó. Mis más\nsinceras disculpas."
+            "text": "No importa quién fue el que tomó esa decisión, como su entrenador,\ntomaré toda la responsabilidad de lo que pasó. Mis más\nsinceras disculpas."
         },
         {
             "name": "Mejiro McQueen",
@@ -196,11 +196,11 @@
         },
         {
             "name": "<username>",
-            "text": "No dejes que te moleste, McQueen. Simplemente corrias de todo corazón\nahí fuera. No hay nada en que hecharte la culpa."
+            "text": "No dejes que te moleste, McQueen. Simplemente corrías de todo corazón\nahí fuera. No hay nada en que echarte la culpa."
         },
         {
             "name": "<username>",
-            "text": "No dejes que te moleste, McQueen. Simplemente corrias de todo corazón\nahí fuera. No hay nada en que hecharte la culpa."
+            "text": "No dejes que te moleste, McQueen. Simplemente corrías de todo corazón\nahí fuera. No hay nada en que echarte la culpa."
         },
         {
             "name": "<username>",
@@ -224,7 +224,7 @@
         },
         {
             "name": "<username>",
-            "text": "Eso si, eso es tan pronto. Seguramente sigues cansada de la carrera que\nrecien corriste..."
+            "text": "Eso sí, eso es tan pronto. Seguramente sigues cansada de la carrera que\nrecién corriste..."
         },
         {
             "name": "Mejiro McQueen",
@@ -232,7 +232,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Por favor dejame entrar a la Japan Cup."
+            "text": "Por favor déjame entrar a la Japan Cup."
         },
         {
             "name": "Monólogo",
