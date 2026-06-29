@@ -2,7 +2,7 @@
     "title": "La Etapa Primaveral de los Sueños",
     "text_block_list": [
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Así como el Tenno Sho de Primavera se acerca, el regimen de entrenamiento\nde Mejiro McQueen se intensifica."
         },
         {
@@ -17,14 +17,14 @@
             "text": "Solo para que sepas, tengo bastante energía restante."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Parece que un poco más no dolerá. Voy a dejarle como ella quiera.",
             "choice_data_list": [
                 "Bueno, intentemoslo otra vez."
             ]
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Parece que un poco más no dolerá. Voy a dejarle como ella quiera.",
             "choice_data_list": [
                 "Bueno, intentemoslo otra vez."
@@ -39,15 +39,15 @@
             "text": "Bueno, ¡Allí voy!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Aunque parezca extraño, esto se siente como la primera vez que\nMcQueen y yo estamos realmente entrenando <i>juntos.</i>"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Supongo que el compartir el mismo objetivo ayuda a seguir adelante."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Supongo que el compartir el mismo objetivo ayuda a seguir adelante."
         },
         {
@@ -60,11 +60,11 @@
         },
         {},
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Mejiro Ryan sonríe bastante, como si le hubieran sacado un buen peso\nde sus hombros."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "El ánimo de McQueen sin duda mejoró gracias al consejo de Ryan."
         },
         {
@@ -83,15 +83,15 @@
             "text": "Realmente estoy esperando el día de la carrera. ¡Pero que sepas que yo\nseré la que se traiga la victoria a la casa!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "El Tenno Sho de Primavera toma la forma de una carrera que no\nolvidaremos en mucho tiempo. Tengo que asegurarme que McQueen\nesté en las mejores condiciones."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "El Tenno Sho de Primavera toma la forma de una carrera que no\nolvidaremos en mucho tiempo. Tengo que asegurarme que McQueen\nesté en las mejores condiciones."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Los proximos días pasan volando. El día del Tenno Sho de primavera\nya está encima."
         },
         {
@@ -135,18 +135,18 @@
             "text": "Me estoy comenzando a preocupar de\nmis nervios revienten y me desgasten."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "En esa clase de momentos que me gustaría tener la personalidad\nsociable de mi mentor."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Puede que no sea tan bueno ayudando a mi aprendiz a relajarse, pero...",
             "choice_data_list": [
                 "Te voy a animar el doble de fuerte para compensarlo."
             ]
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Puede que no sea tan buena ayudando a mi aprendiz a relajarse, pero...",
             "choice_data_list": [
                 "Te voy a animar el doble de fuerte para compensarlo."

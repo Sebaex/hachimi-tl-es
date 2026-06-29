@@ -1,0 +1,281 @@
+{
+    "title": "Bienvenida de vuelta, Representante",
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Mi propio capitulo en la historia del Equipo Sirius comenzó solo con\nMejiro McQueen a mi lado."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Su increible habilidad de cautivar corazones y mentes ha sido lo\nesencial del crecimiento de nuestro equipo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pero con cada persona que inspira, el peso de sus expectativas crece\naún más."
+        },
+        {
+            "name": "<username>",
+            "text": "<i>Haa, haa...</i>\n¡McQueen!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¿E-Entrenador?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eso me recuerda—algo similar que pasó anteriormente."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Justo cuando ya no daba para más, llegaste corriendo hacia mi."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Supongo que lo que pasará no sera diferente también."
+        },
+        {
+            "name": "<username>",
+            "text": "Es todo lo que puedo hacer. Todavía hay mucho que no he logrado\nfigurar como entrenador..."
+        },
+        {
+            "name": "<username>",
+            "text": "Es todo lo que puedo hacer. Todavía hay mucho que no he logrado\nfigurar como entrenadora..."
+        },
+        {
+            "name": "<username>",
+            "text": "No me dí cuenta que mis esperanzas por ti\neran obstaculos en tu camino."
+        },
+        {
+            "name": "<username>",
+            "text": "No me dí cuenta que mis esperanzas por ti\neran obstaculos en tu camino."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "..."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero no es que esperabamos mucho de tí... Inspiraste a todas en el\nEquipo Sirius."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero no es que esperabamos mucho de tí... Inspiraste a todas en el\nEquipo Sirius."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¿Como puedes encontrar inspiración en alguien que ni puede correr\nacorde a las reglas de la carrera?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¿Alguien que ha causado mucha molestia a mis queridas corredoras,\ne incluso mi entrenador?"
+        },
+        {
+            "name": "<username>",
+            "text": "Porque tenemos fé en ti."
+        },
+        {
+            "name": "<username>",
+            "text": "Porque tenemos fé en ti."
+        },
+        {
+            "name": "<username>",
+            "text": "No importa cuantos errores te tropiezen en el camino..."
+        },
+        {
+            "name": "<username>",
+            "text": "No importa cuantos errores te tropiezen en el camino..."
+        },
+        {
+            "name": "<username>",
+            "text": "Seguirás yendo hacia adelante, y seguiremos apoyandote."
+        },
+        {
+            "name": "<username>",
+            "text": "Seguirás yendo hacia adelante, y seguiremos apoyandote."
+        },
+        {
+            "name": "<username>",
+            "text": "¡Creemos en <i>ti,</i> y eso no cambiará solo por\nuna mala carrera o dos!"
+        },
+        {
+            "name": "<username>",
+            "text": "¡Creemos en <i>ti,</i> y eso no cambiará solo por\nuna mala carrera o dos!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Entrenador..."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Te acuerdas lo que dijeron de Oguri? ¿Que ella no podría ganar más?"
+        },
+        {
+            "name": "<username>",
+            "text": "Pero todo el equipo apoyó a Oguri hasta el final."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero todo el equipo apoyó a Oguri hasta el final."
+        },
+        {
+            "name": "<username>",
+            "text": "Sin importar los resultados, ella fue a cualquier carrera determinada de\nhacernos orgullosos—y eso es lo que la hizo nuestra representante."
+        },
+        {
+            "name": "<username>",
+            "text": "Sin importar los resultados, ella fue a cualquier carrera determinada de\nhacernos orgullosas—y eso es lo que la hizo nuestra representante."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Una \"representante\"... Alguien que toma orgullo en, victorias o\nderrotas..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yo... ¿Realmente me converti en semejante Umamusume en los\nojos de otras?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¿Realmente soy su representante? ¿Inspiro a todos a alcanzar sus sueños?",
+            "choice_data_list": [
+                "Obvio que lo eres.",
+                "Obvio que lo eres."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Hip...</i> Ah... ¡Waaaaa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro McQueen explota en lagrimas, sacando toda la presión que se\nle ha acomulado."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Em... Volví."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, ¡Holi!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "¡Bienvenida de vuelta, McQueen!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "¿Que pensaría Abuela si supiera que una de sus preciosas damas\nestá fuera a altas horas de la noche?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Estabamos preocupadas de ti, McQueen."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No solo fallé en ganar la carrera de hoy, pero les causé mucha\npreocupación. No estoy segura que decir..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "A ver, ¡Ese <i>claramente</i> no es el punto! ¡No mas palabras depresivas\nde parte tuya, señorita!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡O-oye! ¡Que—que haces!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Tienes algo que decir, ¿Verdad? La gente te escucha mejor cuando\nhablas desde arriba, ¿si?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Y-yo..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Voy salir ahí fuera y correr, ¡Con la cabeza bien arriba!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Puede que pierda, ¡Y seguramente puede que llore!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Pero sin importar eso, voy a llevar sus esperanzas y seguir\ncorriendo—¡Como la representante de este equipo!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "¡Dale, McQueen!"
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "¡Yo siempre, siempre voy a creer en ti!"
+        },
+        {
+            "name": "Umamusume Cariñosa",
+            "text": "¡Vamos, representante!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Sabes, eso fue bastante genial, McQueen."
+        },
+        {
+            "name": "Umamusume Sincera",
+            "text": "¡Sigamos corriendo juntas lo más que se podamos!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Parece que lograste saber como convertir esas espectativas en\nfuerzas, McQueen."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "D-dios, dije todo lo que tenía en mente. ¡Bajame ahora!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Las risas que vienen de la habitación de entrenadores continúa\nresonando por los pasillos tarde en la noche."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Un mes después..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Fiu..."
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "Ahhhh... ¡Me estoy poniendo nerviosa!"
+        },
+        {
+            "name": "Umamusume Cariñosa",
+            "text": "Si, ¿Por qué se siente así cuando ni siquiera es nuestra carrera?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eso es porque ves un poco de tus sueños y esperanzas en mi."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Y eso exactamente lo que me impulsará hoy."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ahora sal y robate ese titulo de Umamusume Grand Prix,\n¡McQueen!",
+            "choice_data_list": [
+                "Buena suerte, McQueen."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Gracias. ¡Vuelvo luego!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hace un año, Oguri Cap hizo aparecer un milagro en el Arima Kinen.\nY hoy, estamos listos para dejar nuestra marca en la misma carrera."
+        },
+        {},
+        {
+            "name": "Relatora",
+            "text": "Bienvenidos al último gran encuentro del año, ¡El Arima Kinen!\n¡La carrera está por comenzar!"
+        }
+    ]
+}

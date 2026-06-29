@@ -2,11 +2,11 @@
     "title": "¿Marea agitada o Viaje Suave?",
     "text_block_list": [
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Han pasado unos dias desde la remarcable victoria de Mejiro McQueen\nen el Tenno Sho de primavera."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Así como nuestro pequeño equipo de uno finalmente creció."
         },
         {
@@ -95,7 +95,7 @@
         },
         {
             "name": "???",
-            "text": "McQueen, hace hambre. ¿Porque no me das una torta de zanahorias?"
+            "text": "McQueen, hace hambre. ¿Por qué no me das una torta de zanahorias?"
         },
         {
             "name": "Mejiro McQueen",
@@ -213,7 +213,7 @@
             "text": "¡¿Ah?!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Los esfuerzos de McQueen captaron los ojos de varios a diestra y siniestra.\nY gracias a eso...",
             "choice_data_list": [
                 "¡El equipo no se disolverá!",
@@ -229,12 +229,12 @@
             "text": "Puede que no se disuelva el equipo,\npero de todas maneras estoy preocupada..."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Si bien ella tiene un punto de que el equipo <i>fue</i> como fuese, creo\ngenuinamente que va a ser el hogar de verdaderas estrellas."
         },
         {},
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Porque Sirius tiene a Mejiro McQueen como su luz guía."
         },
         {
