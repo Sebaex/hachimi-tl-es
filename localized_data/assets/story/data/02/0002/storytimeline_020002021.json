@@ -1,0 +1,288 @@
+{
+    "title": "Sigue al lider",
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "Bien, creo que eso es todo por hoy... ¿Mm?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Pasa algo?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No, pero parece que tenemos una espectadora."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...¡Ah!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Una conocida tuya, ¿Asumo?"
+        },
+        {
+            "name": "<username>",
+            "text": "Nop. Pero si recuerdo correctamente..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Fiu. ¡Otro día honesto de trabajo! Y ahora, el evento que todas\nestabamos esperando—¡Enrollar a McQueen!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡¿Disculpame?! ¡Pero que nombre tan horroroso! Sea lo que sea, ¡<i>no</i>\nlo vamos a hacer!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Oye! ¡Vuelve!"
+        },
+        {
+            "name": "<username>",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yo no la <i>conocía</i>, pero la había visto por ahí. Ella siempre es la\núltima practicando."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Haa, haa...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Y allí estaba de nuevo, corriendo y corriendo, ella sola."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Haa, haa...</i> ¡Ah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>¡Pum!</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Nngh... Au..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Tanto correr, y nadie para mostrarselo..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Era como ver a McQueen todo de nuevo, entrenando para el\nTenno Sho como si su vida dependiera de eso."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Estás bien?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Estás bien?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¿Ah? Oh... Tu eres el entrenador de McQueen..."
+        },
+        {
+            "name": "<username>",
+            "text": "No deberías de aguantar los dolores. No si quieres ganar tu próxima\ncarrera."
+        },
+        {
+            "name": "<username>",
+            "text": "No deberías de aguantar los dolores. No si quieres ganar tu próxima\ncarrera."
+        },
+        {
+            "name": "<username>",
+            "text": "Es molesto que no puedas hacer más <i>ahora,</i> lo se. Pero solo mantén\nese sentimiento, y te llevará donde están las ganadoras."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Sniff... Sob...</i>"
+        },
+        {
+            "name": "<username>",
+            "text": "Woa, eh... No creas que te lesionaste tan mal."
+        },
+        {
+            "name": "<username>",
+            "text": "Woa, eh... No creas que te lesionaste tan mal."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "N-no, perdón, es... es solo que..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Me encanta correr... pero no pareciera que puedo ganar. Y cuando veo\na McQueen correr—"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yo... ¡Yo también quiero ganar!"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Yo quiero ganar.\" Es facil decir esas palabras una vez. Pero para\nRice Shower eran un mantra."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¿Yo? En el Derby..."
+        },
+        {
+            "name": "<username>",
+            "text": "Se que puedes hacerlo. Te he visto correr más que nadie."
+        },
+        {
+            "name": "<username>",
+            "text": "Se que puedes hacerlo. Te he visto correr más que nadie."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "P-pero... yo no estoy a ese nivel."
+        },
+        {
+            "name": "Monologue",
+            "text": "No puedo hecharle la culpa por ser intimidada. El Derby trae a las\ncontrincantes más fuertes de acá."
+        },
+        {
+            "name": "Monologue",
+            "text": "Aún así, Rice tiene las piernas para mantenerse con McQueen. Y lo\nmás importante...",
+            "choice_data_list": [
+                "Todavía quieres ganar, ¿no?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah..."
+        },
+        {
+            "name": "<username>",
+            "text": "Esa ambición es la que lleva al trabajo duro. Y el trabajo duro es el que\nlleva a la confianza."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Así que qué dices? ¡El Derby llama!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...O-ok. Lo intentaré."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tomó insistir un poco, pero ella tomó el primer paso hacia ese gran\nmundo que la espera."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¿Así que todo lo que tengo que hacer es seguir a McQueen?"
+        },
+        {
+            "name": "<username>",
+            "text": "Sip. Solo sigue al lider, sí o sí."
+        },
+        {},
+        {
+            "name": "Mejiro McQueen",
+            "text": "Dentro de las contendientes del Derby de este año, hay una clara\nfavorita: la invicta Mihono Bourbon."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ella toma el liderato y coloca un ritmo preciso, tal como una maquina.\nEs todo una maravilla verlo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Si quieres llegar a ella, primero necesitas poder mantenerte conmigo."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Ok. Haré mi mejor esfuerzo para no quedarme atrás."
+        },
+        {
+            "name": "Monologue",
+            "text": "No es facil, mantener la distancia perfecta para perseguir. Necesita\ntanto resistencia y concentración, en especial contra alguien como\nMcQueen."
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice tiene una dificil comienzo, quedandose atrás una y otra vez, pero\nse mantiene. Y luego de unos cuantos días..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Haa, haa...</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Huu... Pff...</i>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Oye, mira! ¡No te quedaste atrás ninguna vez hoy!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Bien hecho. Esa resistencia te servirá bastante.",
+            "choice_data_list": [
+                "¡Así tal cual! ¡Así es como ganarás el Derby!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡S-si!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Bueno, adiós a todas."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Ahí nos olemos!"
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "¡Te veo mañana!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Solo sigue, solo sigue..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Solo sigue, solo sigue..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Ah...</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Solo sigue, solo sigue..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Emm, Rice."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¿Aueh?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¿Vas a dormir a mi lado de nuevo? No estoy segura de si seguirme\n<i>a todos lados</i> te beneficiará en algo..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "P-pero el Entrenador dijo que te siguiera, sin importarlo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(...Eso claramente no es lo que el Entrenador tenía en mente.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Después de varios días de incesante entrenamiento, la destacada\nde la Twinkle Series, el Japanese Derby, finalmente está aquí."
+        }
+    ]
+}
