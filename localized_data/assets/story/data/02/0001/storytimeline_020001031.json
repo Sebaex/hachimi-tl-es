@@ -3,19 +3,19 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "McQueen y Yo continuamos en dividir nuestro tiempo entre reclutar\ny entrenar."
+            "text": "McQueen y Yo continuamos en dividir<n>nuestro tiempo entre reclutar\ny<n>entrenar."
         },
         {
             "name": "Monólogo",
-            "text": "McQueen y Yo continuamos en dividir nuestro tiempo entre reclutar\ny entrenar."
+            "text": "McQueen y Yo continuamos en dividir<n>nuestro tiempo entre reclutar\ny<n>entrenar."
         },
         {
             "name": "Monólogo",
-            "text": "Sin embargo, nuestra búsqueda de nuevos miembros no da frutos, y\nMcQueen se mantiene como el único miembro de Sirius."
+            "text": "Sin embargo, nuestra búsqueda de<n>nuevos miembros no da frutos, y<n>\nMcQueen se mantiene como el único<n>miembro de Sirius."
         },
         {
             "name": "Monólogo",
-            "text": "Mientras eso sea un problema, es la menor de mis preocupaciones."
+            "text": "Mientras eso sea un problema, es la<n>menor de mis preocupaciones."
         },
         {
             "name": "Mejiro McQueen",
@@ -23,39 +23,39 @@
         },
         {
             "name": "Monólogo",
-            "text": "McQueen ha estado saliendo tarde en la noche a entrenar sola en una\npista vacía."
+            "text": "McQueen ha estado saliendo tarde en<n>la noche a entrenar sola en\nuna<n>pista vacía."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Solo necesito alcanzar el ritmo un poco más!"
+            "text": "¡Solo necesito alcanzar el ritmo un<n>poco más!"
         },
         {
             "name": "Monólogo",
-            "text": "Como esperaba, ella no está satisfecha con los regímenes que le\nhe preparado."
+            "text": "Como esperaba, ella no está<n>satisfecha con los regímenes que le<n>he\npreparado."
         },
         {
             "name": "Monólogo",
-            "text": "Como esperaba, ella no está satisfecha con los regímenes que le\nhe preparado."
+            "text": "Como esperaba, ella no está<n>satisfecha con los regímenes que le<n>he\npreparado."
         },
         {
             "name": "Monólogo",
-            "text": "El Tenno Sho de primavera se acerca rápido eso sí. Este desgaste extra es\nun riesgo."
+            "text": "El Tenno Sho de primavera se acerca<n>rápido eso sí. Este desgaste\nextra<n>es un riesgo."
         },
         {
             "name": "Monólogo",
-            "text": "¿Debería decirle que se detenga? ¿O debería aceptar el riesgo y\nhacer mis sesiones más rigurosas?"
+            "text": "¿Debería decirle que se detenga? ¿O<n>debería aceptar el riesgo y\nhacer<n>mis sesiones más rigurosas?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No tengo opción. ¡Ninguna opción más que ganar el Tenno Sho de\nprimavera!"
+            "text": "No tengo opción. ¡Ninguna opción<n>más que ganar el Tenno Sho de<n>\nprimavera!"
         },
         {
             "name": "Monólogo",
-            "text": "¿Qué hago? El viejo sabría exactamente que decir. Si tan solo me\npudiera ayudar."
+            "text": "¿Qué hago? El viejo sabría<n>exactamente que decir. Si tan solo<n>me\npudiera ayudar."
         },
         {
             "name": "Monólogo",
-            "text": "Al próximo día, voy a la oficina a preparar el entrenamiento. Ahí encuentro\na McQueen esperándome con una inesperada compañía."
+            "text": "Al próximo día, voy a la oficina a<n>preparar el entrenamiento. Ahí<n>\nencuentro a McQueen esperándome con<n>una inesperada compañía."
         },
         {
             "name": "???",
@@ -67,50 +67,50 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Desafortunadamente no. Esta es Mejiro Ryan,\nalguien de mi querida familia."
+            "text": "Desafortunadamente no. Esta es<n>Mejiro Ryan, alguien de mi querida<n>\nfamilia."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Parece que ella deseaba hablar contigo sobre algo, así que la traje."
+            "text": "Parece que ella deseaba hablar<n>contigo sobre algo, así que la<n>\ntraje."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "¡Encantada de conocerte! Es algo importante, ¡Así que\nse lo rogué prácticamente!"
+            "text": "¡Encantada de conocerte! Es algo<n>importante, ¡Así que se lo rogué<n>\nprácticamente!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ahora si me disculpas, tengo algunas compañeras potenciales que reclutar."
+            "text": "Ahora si me disculpas, tengo<n>algunas compañeras potenciales que<n>\nreclutar."
         },
         {
             "name": "<username>",
-            "text": "¿Eh? ¿No te vas a quedar a la conversación?"
+            "text": "¿Eh? ¿No te vas a quedar a la<n>conversación?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Parece ser algo un poco secreto, así que Ryan <i>insistió</i> que\nsolo sean ustedes dos."
+            "text": "Parece ser algo un poco secreto,<n>así que Ryan <i>insistió</i> que<n>\nsolo sean ustedes dos."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Se la distracción que puedo ser, así que me desaparezco.",
+            "text": "Se la distracción que puedo ser,<n>así que me desaparezco.",
             "choice_data_list": [
                 "Espera, ¿Estás enojada?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Para nada! No me importa ningún secretito que quieran mantener ustedes."
+            "text": "¡Para nada! No me importa ningún<n>secretito que quieran mantener<n>\nustedes."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Así que por favor, de cualquier manera, ¡Tomate tu tiempo!"
+            "text": "Así que por favor, de cualquier<n>manera, ¡Tomate tu tiempo!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ejeje. Aww, parece que se puso celosa. No es como que le fuera a quitar\nsu entrenador así tal cual."
+            "text": "Ejeje. Aww, parece que se puso<n>celosa. No es como que le fuera a<n>\nquitar su entrenador así tal cual."
         },
         {
             "name": "<username>",
-            "text": "¿Así que de que trata esta importante conversación?"
+            "text": "¿Así que de que trata esta<n>importante conversación?"
         },
         {
             "name": "Mejiro Ryan",
@@ -118,90 +118,90 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Seguramente ya te diste cuenta, pero está esforzándose demasiado.",
+            "text": "Seguramente ya te diste cuenta,<n>pero está esforzándose demasiado.",
             "choice_data_list": [
                 "...¿Es sobre sus sesiones de entrenamiento nocturno?"
             ]
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Sabía que te darías cuenta de eso. Sip, ¡McQueen tenía razón sobre ti!"
+            "text": "Sabía que te darías cuenta de eso.<n>Sip, ¡McQueen tenía razón sobre\nti!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "\"Un poco dudoso, pero siempre preocupándose por mí.\""
+            "text": "\"Un poco dudoso, pero siempre<n>preocupándose por mí.\""
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Así es como ella siempre te describe."
+            "text": "Así es como ella siempre te<n>describe."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ella incluso dijo que estará contigo hasta el final,\nsin importar lo que pase."
+            "text": "Ella incluso dijo que estará<n>contigo hasta el final, sin<n>importar\nlo que pase."
         },
         {
             "name": "<username>",
-            "text": "¿En serio? Y yo pensando que ella no me tenía confianza."
+            "text": "¿En serio? Y yo pensando que ella<n>no me tenía confianza."
         },
         {
             "name": "<username>",
-            "text": "¿En serio? Y yo pensando que ella no me tenía confianza."
+            "text": "¿En serio? Y yo pensando que ella<n>no me tenía confianza."
         },
         {
             "name": "Monólogo",
-            "text": "Y yo pensando que ella entrenaba sola porque estaba insatisfecha\ncon mi entrenamiento."
+            "text": "Y yo pensando que ella entrenaba<n>sola porque estaba insatisfecha\ncon<n>mi entrenamiento."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Nah, ella realmente confía mucho en ti."
+            "text": "Nah, ella realmente confía mucho en<n>ti."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Pero si tuviera que adivinar, sus objetivos personales le están ganando."
+            "text": "Pero si tuviera que adivinar, sus<n>objetivos personales le están<n>\nganando."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Mira, cuando una carrera aprovecha nuestras fortalezas, se espera\nque una Mejiro la gane."
+            "text": "Mira, cuando una carrera aprovecha<n>nuestras fortalezas, se espera\nque<n>una Mejiro la gane."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Se que la familia tiene altas expectativas para mi cuando hablamos de\ncarreras Clásicas. McQueen es una stayer, así que sus expectativas\nson altas para que ella gane el Tenno Sho."
+            "text": "Se que la familia tiene altas<n>expectativas para mi cuando<n>hablamos\nde carreras Clásicas.<n>McQueen es una stayer, así que sus<n>\nexpectativas son altas para que<n>ella gane el Tenno Sho."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Especialmente lo mucho que significa el Tenno Sho para la familia. Ella\nquiere enorgullecer a todos."
+            "text": "Especialmente lo mucho que<n>significa el Tenno Sho para la<n>familia.\nElla quiere enorgullecer a<n>todos."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Las expectativas para ella de correr en el Tenno Sho existen desde que\nella era joven. Sobre esa presión, McQueen probablemente siente que\n<i>ella</i> tiene que ganar."
+            "text": "Las expectativas para ella de<n>correr en el Tenno Sho existen<n>desde\nque ella era joven. Sobre esa<n>presión, McQueen probablemente<n>\nsiente que <i>ella</i> tiene que<n>ganar."
         },
         {
             "name": "<username>",
-            "text": "Ah, por eso ella ha estado entrenando sola todas las noches."
+            "text": "Ah, por eso ella ha estado<n>entrenando sola todas las noches."
         },
         {
             "name": "<username>",
-            "text": "Ah, por eso ella ha estado entrenando sola todas las noches."
+            "text": "Ah, por eso ella ha estado<n>entrenando sola todas las noches."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Creo que ella está preocupada, ¿Sabes? Ella está entre la carrera <i>y</i> el\nreclutamiento."
+            "text": "Creo que ella está preocupada,<n>¿Sabes? Ella está entre la carrera<n>\n<i>y</i> el reclutamiento."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ella siente que es cosa de ella que todo salga perfecto. Créeme, ella\nsiempre ha sido así..."
+            "text": "Ella siente que es cosa de ella que<n>todo salga perfecto. Créeme,\nella<n>siempre ha sido así..."
         },
         {
             "name": "Monólogo",
-            "text": "Ella se cree bien fortachona. Seguramente ese entrenamiento extra es su\nmanera de salir adelante."
+            "text": "Ella se cree bien fortachona.<n>Seguramente ese entrenamiento extra<n>\nes su manera de salir adelante."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Así que por favor, parala antes de que se haga algo."
+            "text": "Así que por favor, parala antes de<n>que se haga algo."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Seguramente ella va a escuchar cualquier cosa que le digas\nsi se lo explicas.",
+            "text": "Seguramente ella va a escuchar<n>cualquier cosa que le digas si se<n>\nlo explicas.",
             "choice_data_list": [
                 "Bueno, déjamelo a mí.",
                 "Bueno, déjamelo a mí."
@@ -209,19 +209,19 @@
         },
         {
             "name": "Monólogo",
-            "text": "Pfff, ¿Lo mismo que he estado haciendo todo el tiempo?"
+            "text": "Pfff, ¿Lo mismo que he estado<n>haciendo todo el tiempo?"
         },
         {
             "name": "Monólogo",
-            "text": "Ahh, ¿Lo mismo que he estado haciendo todo el tiempo?"
+            "text": "Ahh, ¿Lo mismo que he estado<n>haciendo todo el tiempo?"
         },
         {
             "name": "Monólogo",
-            "text": "Todo lo que hice fue subir un poco los niveles. No creí que eso\nfuera a cegarme."
+            "text": "Todo lo que hice fue subir un poco<n>los niveles. No creí que eso\nfuera a<n>cegarme."
         },
         {
             "name": "<username>",
-            "text": "Gracias, Ryan. Me ayudaste a volver a\nconcentrarme en lo que realmente es importante."
+            "text": "Gracias, Ryan. Me ayudaste a volver<n>a concentrarme en lo que\nrealmente<n>es importante."
         },
         {
             "name": "Mejiro Ryan",
@@ -229,7 +229,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "McQueen es como mi hermanita para mí, pero también es\nuna importante rival."
+            "text": "McQueen es como mi hermanita para<n>mí, pero también es una\nimportante<n>rival."
         },
         {
             "name": "Mejiro Ryan",

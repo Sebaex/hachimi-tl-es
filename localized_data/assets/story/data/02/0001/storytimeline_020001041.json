@@ -3,45 +3,45 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Decidí ir a la pista de la academia esa noche para hablar\ncon McQueen. Por el camino..."
+            "text": "Decidí ir a la pista de la academia<n>esa noche para hablar con\nMcQueen.<n>Por el camino..."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "¡Oh, ahí estás! ¡Tenía la intención de hablar contigo!"
+            "text": "¡Oh, ahí estás! ¡Tenía la intención<n>de hablar contigo!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "¡Tengo noticias sobre el periodo de gracia antes de la\ndisolución del Equipo Sirius!",
+            "text": "¡Tengo noticias sobre el periodo de<n>gracia antes de la disolución\ndel<n>Equipo Sirius!",
             "choice_data_list": [
                 "¡¿En serio?! ¿Cuánto es?"
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Jeje, estarás feliz de escuchar esto. Tienes hasta finales de este\nsemestre, así que hasta finales de Junio."
+            "text": "Jeje, estarás feliz de escuchar<n>esto. Tienes hasta finales de este<n>\nsemestre, así que hasta finales de<n>Junio."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Sobre todo, la academia reconoce que las estudiantes tienen carreras las\ncuales concentrarse."
+            "text": "Sobre todo, la academia reconoce<n>que las estudiantes tienen\ncarreras<n>las cuales concentrarse."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ellos decidieron de darte un buen tiempo para entrenar."
+            "text": "Ellos decidieron de darte un buen<n>tiempo para entrenar."
         },
         {
             "name": "Monólogo",
-            "text": "Estoy con relajo. ¡Eso significa que podemos olvidar nuestros problemas\npara reclutar por ahora!",
+            "text": "Estoy con relajo. ¡Eso significa<n>que podemos olvidar nuestros<n>\nproblemas para reclutar por ahora!",
             "choice_data_list": [
                 "¡Muchísimas gracias!"
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "No es necesario, ¡Solo soy la mensajera! Pero estoy agradecida igualmente.\n¡Buena suerte en el Tenno Sho!"
+            "text": "No es necesario, ¡Solo soy la<n>mensajera! Pero estoy agradecida<n>\nigualmente. ¡Buena suerte en el<n>Tenno Sho!"
         },
         {
             "name": "Monólogo",
-            "text": "La pista está vacía a estas horas de la noche. La mayoría de las\nUmamusume ya se fueron a dormir ahora..."
+            "text": "La pista está vacía a estas horas<n>de la noche. La mayoría de las<n>\nUmamusume ya se fueron a dormir<n>ahora..."
         },
         {
             "name": "Mejiro McQueen",
@@ -49,23 +49,23 @@
         },
         {
             "name": "Monólogo",
-            "text": "Pero eso no parará a McQueen. ¿Cuántas noches van?"
+            "text": "Pero eso no parará a McQueen.<n>¿Cuántas noches van?"
         },
         {
             "name": "Monólogo",
-            "text": "Sin embargo, se nota a simple vista que todo ese trabajo extra le ha afectado\nsu forma. Su balance superior e inferior están deficientes."
+            "text": "Sin embargo, se nota a simple vista<n>que todo ese trabajo extra le\nha<n>afectado su forma. Su balance<n>superior e inferior están<n>\ndeficientes."
         },
         {
             "name": "Monólogo",
-            "text": "No me gustaría ver que todo este entrenamiento ineficiente la deje con\nuna lesión justo antes del Tenno Sho de primavera."
+            "text": "No me gustaría ver que todo este<n>entrenamiento ineficiente la deje<n>\ncon una lesión justo antes del<n>Tenno Sho de primavera."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Haah, haah...</i> Mmmh, ah...  ¡Ahh!"
+            "text": "<i>Haah, haah...</i> Mmmh, ah...<n>¡Ahh!"
         },
         {
             "name": "Monólogo",
-            "text": "En ese momento, McQueen se tambalea y se cae al suelo entre toda una\nnube de tierra."
+            "text": "En ese momento, McQueen se tambalea<n>y se cae al suelo entre toda\nuna<n>nube de tierra."
         },
         {
             "name": "<username>",
@@ -81,23 +81,23 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Donde estoy... Oh. ¿Entrenador? Porque estás—"
+            "text": "Donde estoy... Oh. ¿Entrenador?<n>Porque estás—"
         },
         {
             "name": "<username>",
-            "text": "Estamos en la enfermería. Deberías acostarte. Parece que tienes fiebre."
+            "text": "Estamos en la enfermería. Deberías<n>acostarte. Parece que tienes<n>\nfiebre."
         },
         {
             "name": "<username>",
-            "text": "Estamos en la enfermería. Deberías acostarte. Parece que tienes fiebre."
+            "text": "Estamos en la enfermería. Deberías<n>acostarte. Parece que tienes<n>\nfiebre."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Una fiebre? Oh... Seguramente estaba más fatigada de lo que pensaba."
+            "text": "¿Una fiebre? Oh... Seguramente<n>estaba más fatigada de lo que<n>\npensaba."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Cuando era joven, generalmente me daba fiebre después de correr\ncuando era pequeña.",
+            "text": "Cuando era joven, generalmente me<n>daba fiebre después de correr<n>\ncuando era pequeña.",
             "choice_data_list": [
                 "Te esforzaste demasiado.",
                 "Te esforzaste demasiado."
@@ -109,58 +109,58 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "E-espera, ¡¿Sabías sobre esto todo el tiempo?! ¿So-sobre mis salidas\nde noche?"
+            "text": "E-espera, ¡¿Sabías sobre esto todo<n>el tiempo?! ¿So-sobre mis\nsalidas de<n>noche?"
         },
         {
             "name": "<username>",
-            "text": "Si, y planeaba confrontarte sobre eso anoche."
+            "text": "Si, y planeaba confrontarte sobre<n>eso anoche."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ya veo... Siempre eres tan hábil cuando se trata de estas cosas."
+            "text": "Ya veo... Siempre eres tan hábil<n>cuando se trata de estas cosas."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Entonces dilo, adelante. No más entrenamiento privado, ¿Verdad?",
+            "text": "Entonces dilo, adelante. No más<n>entrenamiento privado, ¿Verdad?",
             "choice_data_list": [
                 "No puedo tenerte sobre esforzada ahora."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Considerando todo lo que me hice a mí mismo, no tengo como\nargumentarlo. Tienes mi palabra."
+            "text": "Considerando todo lo que me hice a<n>mí mismo, no tengo como<n>\nargumentarlo. Tienes mi palabra."
         },
         {
             "name": "<username>",
-            "text": "Entonces estás oficialmente prohibida de entrenar en la noche...\nen cambio, déjame estar aquí para ti. Sincerate conmigo."
+            "text": "Entonces estás oficialmente<n>prohibida de entrenar en la<n>noche... en\ncambio, déjame estar<n>aquí para ti. Sincerate conmigo."
         },
         {
             "name": "<username>",
-            "text": "Entonces estás oficialmente prohibida de entrenar en la noche...\nen cambio, déjame estar aquí para ti. Sincerate conmigo."
+            "text": "Entonces estás oficialmente<n>prohibida de entrenar en la<n>noche... en\ncambio, déjame estar<n>aquí para ti. Sincerate conmigo."
         },
         {
             "name": "<username>",
-            "text": "Déjame ayudarte a alcanzar tu sueño de ganar el Tenno Sho."
+            "text": "Déjame ayudarte a alcanzar tu sueño<n>de ganar el Tenno Sho."
         },
         {
             "name": "<username>",
-            "text": "Déjame ayudarte a alcanzar tu sueño de ganar el Tenno Sho."
+            "text": "Déjame ayudarte a alcanzar tu sueño<n>de ganar el Tenno Sho."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Como es que... ¡Ah! ¡¿Escuchaste eso por Ryan?!"
+            "text": "Como es que... ¡Ah! ¡¿Escuchaste<n>eso por Ryan?!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Así que de <i>eso</i> trataba el secretito de Ryan! Metiéndose en todo como\nsiempre, esa niña."
+            "text": "¡Así que de <i>eso</i> trataba el<n>secretito de Ryan! Metiéndose en<n>\ntodo como siempre, esa niña."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Pero estás seguro? Si andas serio sobre ayudarme, necesitarás estar listo\npara manejar la responsabilidad de entrenar a una Mejiro."
+            "text": "¿Pero estás seguro? Si andas serio<n>sobre ayudarme, necesitarás\nestar<n>listo para manejar la<n>responsabilidad de entrenar a una<n>\nMejiro."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Estas listo para eso? Para... bueno... ¿Volvernos uno en corazón y mente?",
+            "text": "¿Estas listo para eso? Para...<n>bueno... ¿Volvernos uno en corazón<n>\ny mente?",
             "choice_data_list": [
                 "¡Ya lo sabes!",
                 "¡Ya lo sabes!"
@@ -168,7 +168,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Jeje, sin dudarlo. Esa parte de ti no ha cambiado para nada desde tus días\nde asistente de entrenador."
+            "text": "Jeje, sin dudarlo. Esa parte de ti<n>no ha cambiado para nada desde\ntus<n>días de asistente de entrenador."
         },
         {
             "name": "Mejiro McQueen",
@@ -176,11 +176,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Muy bien. Entonces no me guardaré nada más."
+            "text": "Muy bien. Entonces no me guardaré<n>nada más."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Seré lo suficientemente egoísta como para convertir realidad mis sueños mi\nvictoria en el Tenno Sho."
+            "text": "Seré lo suficientemente egoísta<n>como para convertir realidad mis<n>\nsueños mi victoria en el Tenno Sho."
         },
         {
             "name": "Mejiro McQueen",

@@ -1,0 +1,187 @@
+{
+    "title": "Prueba de la Ambición",
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Dios, realmente me pasé ahora."
+        },
+        {
+            "name": "Monologue",
+            "text": "La herida de McQueen parece ser más<n>seria de lo que pensaba.",
+            "choice_data_list": [
+                "¿Como se siente?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Voy a tener el diagnostico correcto<n>pronto, pero parece que tendré\nque<n>rendirme del Takarazuka Kinen."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "McQueen..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No es necesario ponerse triste. Fue<n>desafortunado, pero todavía\ntengo<n>que trabajar en mi tercera victoria<n>consecutiva del Tenno\nSho."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "La carrera significa mucho para mi,<n>y si voy a cumplir esa meta,\ntengo<n>que concentrarme en mi recuperación<n>sobre todo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Esto significa que no podré<n>entrenar contigo, pero estoy segura<n>\nque otros miembros del equipo<n>podrán ocupar mi lugar."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "S-seh..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Nuestro entrrenador, nuestras<n>compañera—yo incluida—tenemos mucha<n>\nesperanza sobre ti."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Así que por favor, muestranos una<n>carrera que encenderá el fuego\nen<n>nuestros corazones."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Okey... Voy a correr con todo lo<n>que tengo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Jeje. De todos modos, estaré bien<n>aquí sola con el Entrenador.\nRice,<n>lo mejor sería que volvieras a tu<n>entrenamiento."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Seh. Te veré luego."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ella se va con determinación<n>plasmada en su cara. Seguramente se<n>\nespabiló con las palabras de<n>McQueen."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Ahora que la veo, siento un<n>poder misterioso. Uno que nos va a<n>\nimpulsar a todas."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tiene razon. Tener a alguien que<n>trabaja tan duro a su mitad de<n>\ncarrera ha hecho maravillas al<n>resto del equipo.",
+            "choice_data_list": [
+                "Eso significa que te puedes concentrar en mejorarte."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "En efecto. Necesito trabajar igual<n>de duro que ella si voy a<n>\nrecuperarme por completo."
+        },
+        {
+            "name": "Monologue",
+            "text": "El llenar el hoyo que dejó la<n>ausencia de McQueen trae a todo el<n>\nequipo a ayudar a Rice a entrenar."
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "<i>Haa, haa...</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Solo sigue, solo sigue..."
+        },
+        {
+            "name": "Umamusume Bondadosa",
+            "text": "Okey Rice, ahora sigueme a mi."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Está bien. Sigue al lider."
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "<i>Haa, haa...</i> Rice es muy<n>buena en esto."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Poniendole duro al trabajo, ya veo.<n>Parece que su entrenamiento es\nuna<n>bendición a todo el equipo."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Puedes decir eso de nuevo. Mis<n>piernas se me mueven como un<n>\ncabrito."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oye, ahora que no puedes<n>ejercitarte, mejor revisa tu peso.<n>Vi esas\nporciones extra de postres<n>ayer."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡¿T-tu viste eso?! ¡Culpa del pudín<n>por ser demasiado delicioso!\n¡Yo no<n>hice nada malo!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Dejando de lado los postres, Rice<n>realmente se esta poniendo en<n>\nforma."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Gracias a ti y las otras. Todas ahí<n>metidas la impulsan a trabajar\nmas<n>duro."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "En todo caso, verla trabajar tan<n>duro <i>me da</i> fuerzas."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Jeje. Weno, voy a ir a correr<n>dandolo todo. ¡Acuestate o algo!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Oye! ... Ugh, me lo restriega solo<n>porque sabe lo mucho que me\npica<n>correr de nuevo."
+        },
+        {
+            "name": "Monologue",
+            "text": "Con todas trabajando juntas, el<n>entrenamiento procede fluidamente."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Heh. Aprende a deleitarte con esta<n>sensación, nervios y todo."
+        },
+        {
+            "name": "Umamusume Bondadosa",
+            "text": "¡Rice, tu puedes! ¡Solo piensa en<n>todo el entrenamiento que\nhicimos!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "S-si... Trabajé duro para esto. Voy<n>a divertirme, y..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y voy a tener mi victoria contra<n>Mihono Bourbon."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Si! ¡Eso es lo que quería<n>escuchar!"
+        },
+        {
+            "name": "Umamusume Sincera",
+            "text": "¡Estaremos apoyandote!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Gracias. Ok, bueno, ¡Aquí vamos!",
+            "choice_data_list": [
+                "Ponte detrás de Bourbon, ¡Y no la dejes irse!",
+                "Ponte detrás de Bourbon, ¡Y no la dejes irse!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Esta Bien! ¡Sigue al lider!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Quiero ganar. Ella me dijo esas<n>palabras en la rueda de la\nfortuna."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ahora es hora para que ella me<n>demuestre cuanto la quiere."
+        }
+    ]
+}

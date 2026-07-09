@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Anunciante",
-            "text": "Los jueces decidieron que la persona en primer lugar Mejiro McQueen\nilegalmente obstruyó a otra Umamusume durante la carrera."
+            "text": "Los jueces decidieron que la<n>persona en primer lugar Mejiro<n>\nMcQueen ilegalmente obstruyó a otra<n>Umamusume durante la carrera."
         },
         {
             "name": " Anunciante ",
@@ -11,15 +11,15 @@
         },
         {
             "name": "Monólogo",
-            "text": "La carrera se desenvolvió con un gran comienzo para Mejiro McQueen.\nElla se movió a la zona interior en un intento de encontrar una buena\nposición."
+            "text": "La carrera se desenvolvió con un<n>gran comienzo para Mejiro\nMcQueen.<n>Ella se movió a la zona interior en<n>un intento de\nencontrar una buena<n>posición."
         },
         {
             "name": "Monólogo",
-            "text": "Desafortunadamente, esto estorbó el movimiento de corredoras\ndetrás de ella, resultando en una situación donde varias estuvieron\nen peligro de caerse."
+            "text": "Desafortunadamente, esto estorbó el<n>movimiento de corredoras\ndetrás de<n>ella, resultando en una situación<n>donde varias estuvieron\nen peligro<n>de caerse."
         },
         {
             "name": "Monólogo",
-            "text": "Mientras esto se dio a cabo por la favorita para ganar, la reacción del\npúblico fue significativa."
+            "text": "Mientras esto se dio a cabo por la<n>favorita para ganar, la\nreacción del<n>público fue significativa."
         },
         {
             "name": "Mejiro Ryan",
@@ -31,23 +31,23 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No puedo negar que mis acciones fueron un riesgo para otras\ncompetidoras, traicionando las altas expectativas que se me impusieron."
+            "text": "No puedo negar que mis acciones<n>fueron un riesgo para otras<n>\ncompetidoras, traicionando las<n>altas expectativas que se me<n>\nimpusieron."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Simplemente tengo que seguir adelante y mejorar."
+            "text": "Simplemente tengo que seguir<n>adelante y mejorar."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Voy a poner este fracaso de carrera por detrás y conseguir la siguiente."
+            "text": "Voy a poner este fracaso de carrera<n>por detrás y conseguir la<n>\nsiguiente."
         },
         {
             "name": "Mejiro Dober",
-            "text": "Simplemente no te sobre esfuerces, ¿okay? Claramente vemos como\ndesmuestras bastante bien esto."
+            "text": "Simplemente no te sobre esfuerces,<n>¿okay? Claramente vemos como<n>\ndesmuestras bastante bien esto."
         },
         {
             "name": "Umamusume Animada",
-            "text": "¡Así es! ¡Espero con ansias tu próxima carrera!"
+            "text": "¡Así es! ¡Espero con ansias tu<n>próxima carrera!"
         },
         {
             "name": "Umamusume Cariñosa",
@@ -66,7 +66,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Había varios raritos con cámaras ahí fuera así que grité,\n¡Miren, varios raritos!"
+            "text": "Había varios raritos con cámaras<n>ahí fuera así que grité, ¡Miren,<n>\nvarios raritos!"
         },
         {
             "name": "Mejiro McQueen",
@@ -74,113 +74,113 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Me imagino que simplemente están esperando para una oportunidad\nde encontrarme."
+            "text": "Me imagino que simplemente están<n>esperando para una oportunidad de<n>\nencontrarme."
         },
         {
             "name": "Gold Ship",
-            "text": "Bueno, no te preocupes. No se supone que deberían estar en la academia\nde todas maneras, así que realmente eran raritos."
+            "text": "Bueno, no te preocupes. No se<n>supone que deberían estar en la<n>\nacademia de todas maneras, así que<n>realmente eran raritos."
         },
         {
             "name": "<username>",
-            "text": "El último se debería ir luego. Eso sí, saltémonos cualquier entrenamiento\nque tengamos para hoy."
+            "text": "El último se debería ir luego. Eso<n>sí, saltémonos cualquier<n>\nentrenamiento que tengamos para<n>hoy."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No es que esté particularmente molesta con la idea de responder sus\npreguntas. Lo haría con completa honestidad."
+            "text": "No es que esté particularmente<n>molesta con la idea de responder<n>\nsus preguntas. Lo haría con<n>completa honestidad."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Y en algún punto, tendría que hablar con ellos sobre los planes para\nganar mi próxima carrera."
+            "text": "Y en algún punto, tendría que<n>hablar con ellos sobre los planes<n>\npara ganar mi próxima carrera."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Estoy con los ánimos de moverme. ¡Vamos, Entrenador!"
-        },
-        {
-            "name": "<username>",
-            "text": "...Bueno."
+            "text": "Estoy con los ánimos de moverme.<n>¡Vamos, Entrenador!"
         },
         {
             "name": "<username>",
             "text": "...Bueno."
         },
         {
+            "name": "<username>",
+            "text": "...Bueno."
+        },
+        {
             "name": "Mejiro McQueen",
-            "text": "El dormitorio está ahí solamente. No creo que deberías de acompañarme\nmás."
+            "text": "El dormitorio está ahí solamente.<n>No creo que deberías de\nacompañarme<n>más."
         },
         {
             "name": "<username>",
-            "text": "No quiero que te encuentres sola por un montón de odiosos\nreporteros."
+            "text": "No quiero que te encuentres sola<n>por un montón de odiosos<n>\nreporteros."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Como dije, no me importa responder sus preguntas."
+            "text": "Como dije, no me importa responder<n>sus preguntas."
         },
         {
             "name": "Reportero A",
-            "text": "¡Ah, McQueen! ¿Podrías dar comentarios acerca del\nTenno Sho de otoño?"
+            "text": "¡Ah, McQueen! ¿Podrías dar<n>comentarios acerca del Tenno Sho de<n>\notoño?"
         },
         {
             "name": "Reportero B",
-            "text": "¿Por qué decidiste correr de tal peligrosa manera?"
+            "text": "¿Por qué decidiste correr de tal<n>peligrosa manera?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Me disculpo por causar tal extrema molestia hacia todas las involucradas\ncon la carrera."
+            "text": "Me disculpo por causar tal extrema<n>molestia hacia todas las<n>\ninvolucradas con la carrera."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Este incidente fue el resultado de mi propia tonta inexperiencia. No\npuedo dar excusas."
+            "text": "Este incidente fue el resultado de<n>mi propia tonta inexperiencia.\nNo<n>puedo dar excusas."
         },
         {
             "name": "Reportero A",
-            "text": "¿Has hablado con las corredoras que se atoraron detrás tuyo?"
+            "text": "¿Has hablado con las corredoras que<n>se atoraron detrás tuyo?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Visité a cada una para disculparme personalmente."
+            "text": "Visité a cada una para disculparme<n>personalmente."
         },
         {
             "name": "Reportero B",
-            "text": "¿Fue tu entrenador el que te instruyó en forzar ese camino hacia el\ninterior?"
+            "text": "¿Fue tu entrenador el que te<n>instruyó en forzar ese camino hacia<n>\nel interior?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Instrucciones de mi entrenador? ¡No discutimos nada de eso!"
+            "text": "¿Instrucciones de mi entrenador?<n>¡No discutimos nada de eso!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Eso fue completamente el resultado de mi propio juicio. ¡Mi\nentrenador no tiene nada que ver con este incidente!"
+            "text": "Eso fue completamente el resultado<n>de mi propio juicio. ¡Mi\nentrenador<n>no tiene nada que ver con este<n>incidente!"
         },
         {
             "name": "Monólogo",
-            "text": "Incluso manteniéndose tranquila hasta ahora, McQueen se vio indignada\ncuando le dijeron tal pregunta."
+            "text": "Incluso manteniéndose tranquila<n>hasta ahora, McQueen se vio<n>\nindignada cuando le dijeron tal<n>pregunta."
         },
         {
             "name": "Monólogo",
-            "text": "Se que quiere responder sus preguntas con honestidad, y yo le\ndejé hacer eso para ayudar a controlar sus propias emociones."
+            "text": "Se que quiere responder sus<n>preguntas con honestidad, y yo le<n>dejé\nhacer eso para ayudar a<n>controlar sus propias emociones."
         },
         {
             "name": "Monólogo",
-            "text": "Aunque, al ver que intenta llevarse toda la responsabilidad ella sola\nes mucho para mí para soportar.",
+            "text": "Aunque, al ver que intenta llevarse<n>toda la responsabilidad ella\nsola es<n>mucho para mí para soportar.",
             "choice_data_list": [
                 "Vamos, McQueen."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Aunque, al ver que intenta llevarse toda la responsabilidad ella sola\nes mucho para mí para soportar.",
+            "text": "Aunque, al ver que intenta llevarse<n>toda la responsabilidad ella\nsola es<n>mucho para mí para soportar.",
             "choice_data_list": [
                 "Vamos, McQueen."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Pero si me voy ahora, ¡Van a asumir que todo esto fue tu culpa de\ntodas maneras!"
+            "text": "Pero si me voy ahora, ¡Van a asumir<n>que todo esto fue tu culpa de\ntodas<n>maneras!"
         },
         {
             "name": "<username>",
-            "text": "No importa quién fue el que tomó esa decisión, como su entrenador,\ntomaré toda la responsabilidad de lo que pasó. Mis más\nsinceras disculpas."
+            "text": "No importa quién fue el que tomó<n>esa decisión, como su entrenador,<n>\ntomaré toda la responsabilidad de<n>lo que pasó. Mis más sinceras<n>\ndisculpas."
         },
         {
             "name": "Mejiro McQueen",
@@ -196,19 +196,19 @@
         },
         {
             "name": "<username>",
-            "text": "No dejes que te moleste, McQueen. Simplemente corrías de todo corazón\nahí fuera. No hay nada en que echarte la culpa."
+            "text": "No dejes que te moleste, McQueen.<n>Simplemente corrías de todo\ncorazón<n>ahí fuera. No hay nada en que<n>echarte la culpa."
         },
         {
             "name": "<username>",
-            "text": "No dejes que te moleste, McQueen. Simplemente corrías de todo corazón\nahí fuera. No hay nada en que echarte la culpa."
+            "text": "No dejes que te moleste, McQueen.<n>Simplemente corrías de todo\ncorazón<n>ahí fuera. No hay nada en que<n>echarte la culpa."
         },
         {
             "name": "<username>",
-            "text": "Dijiste que dejarías todo esto atrás, ¿Verdad?, entonces pongamos\ntodas nuestras energías para la otra carrera."
+            "text": "Dijiste que dejarías todo esto<n>atrás, ¿Verdad?, entonces pongamos<n>\ntodas nuestras energías para la<n>otra carrera."
         },
         {
             "name": "<username>",
-            "text": "Dijiste que dejarías todo esto atrás, ¿Verdad?, entonces pongamos\ntodas nuestras energías para la otra carrera."
+            "text": "Dijiste que dejarías todo esto<n>atrás, ¿Verdad?, entonces pongamos<n>\ntodas nuestras energías para la<n>otra carrera."
         },
         {
             "name": "Mejiro McQueen",
@@ -220,27 +220,27 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Decidí que quiero correr en la Japan Cup antes del Arima Kinen."
+            "text": "Decidí que quiero correr en la<n>Japan Cup antes del Arima Kinen."
         },
         {
             "name": "<username>",
-            "text": "Eso sí, eso es tan pronto. Seguramente sigues cansada de la carrera que\nrecién corriste..."
+            "text": "Eso sí, eso es tan pronto.<n>Seguramente sigues cansada de la<n>\ncarrera que recién corriste..."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No, me siento perfecta. Estoy lista para darlo todo."
+            "text": "No, me siento perfecta. Estoy lista<n>para darlo todo."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Por favor déjame entrar a la Japan Cup."
+            "text": "Por favor déjame entrar a la Japan<n>Cup."
         },
         {
             "name": "Monólogo",
-            "text": "Me imagino que ella espera olvidarse de este incidente lo antes que\npueda."
+            "text": "Me imagino que ella espera<n>olvidarse de este incidente lo<n>antes que\npueda."
         },
         {
             "name": "Monólogo",
-            "text": "No solo eso, pero seguramente cree que es una manera de redimirse en\nlos ojos de los fans y a las que les causó problemas.",
+            "text": "No solo eso, pero seguramente cree<n>que es una manera de redimirse\nen<n>los ojos de los fans y a las que<n>les causó problemas.",
             "choice_data_list": [
                 "Bueno. Nuestra próxima carrera será la Japan Cup",
                 "Bueno. Nuestra próxima carrera será la Japan Cup"
@@ -248,7 +248,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Gracias. Yo definitivamente... definitivamente voy a ganar."
+            "text": "Gracias. Yo definitivamente...<n>definitivamente voy a ganar."
         },
         {
             "name": "Monólogo",
@@ -256,11 +256,11 @@
         },
         {
             "name": "Relatora",
-            "text": "A McQueen le cuesta mantenerse. ¡La diferencia aumenta!"
+            "text": "A McQueen le cuesta mantenerse. ¡La<n>diferencia aumenta!"
         },
         {
             "name": "Relatora",
-            "text": "La favorita de hoy, Mejiro McQueen, ¡Termina cuarta!"
+            "text": "La favorita de hoy, Mejiro McQueen,<n>¡Termina cuarta!"
         }
     ]
 }

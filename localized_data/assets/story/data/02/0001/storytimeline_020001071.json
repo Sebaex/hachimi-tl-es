@@ -3,27 +3,27 @@
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "Deberías ser capaz de verla. Esa isla es la zona de vacaciones de la\nfamilia Mejiro."
+            "text": "Deberías ser capaz de verla. Esa<n>isla es la zona de vacaciones de\nla<n>familia Mejiro."
         },
         {
             "name": "Gold Ship",
-            "text": "¡¿Toda la isla?! Listo, ¡Eso significa que podemos buscar el tesoro\ndonde nosotros queramos!"
+            "text": "¡¿Toda la isla?! Listo, ¡Eso<n>significa que podemos buscar el<n>\ntesoro donde nosotros queramos!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Ni se te <i>ocurra</i> usar esa pala!"
+            "text": "¡Ni se te <i>ocurra</i> usar esa<n>pala!"
         },
         {
             "name": "Monólogo",
-            "text": "El Equipo Sirius toma ventaja de las vacaciones de verano para ir a\nun campamento de entrenamiento."
+            "text": "El Equipo Sirius toma ventaja de<n>las vacaciones de verano para ir\na<n>un campamento de entrenamiento."
         },
         {
             "name": "Monólogo",
-            "text": "Mejiro McQueen pudo negociar el uso de la isla privada de su familia\npara nosotros. Sin embargo..."
+            "text": "Mejiro McQueen pudo negociar el uso<n>de la isla privada de su\nfamilia<n>para nosotros. Sin embargo..."
         },
         {
             "name": "Gold Ship",
-            "text": "¡Wuju! ¡Esta isla realmente <i>está</i> desocupada! ¡Ahora podemos\njugar todo el día!"
+            "text": "¡Wuju! ¡Esta isla realmente<n><i>está</i> desocupada! ¡Ahora<n>podemos\njugar todo el día!"
         },
         {
             "name": "Mejiro McQueen",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Eso sí, no puedo decir que el entorno lleva a esa idea.",
+            "text": "Eso sí, no puedo decir que el<n>entorno lleva a esa idea.",
             "choice_data_list": [
                 "¿Por qué no nos relajamos en el primer día acá?",
                 "¿Por qué no nos relajamos en el primer día acá?"
@@ -39,28 +39,31 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Ahh...</i> No pensé que te tendría diciendo eso también."
+            "text": "<i>Ahh...</i> No pensé que te<n>tendría diciendo eso también."
         },
         {
             "name": "Mejiro Dober",
-            "text": "Oye, ¿está bien que nosotras estemos acompañándolos? No es como si\nestuvieramos en su equipo..."
+            "text": "Oye, ¿está bien que nosotras<n>estemos acompañándolos? No es como<n>si\nestuvieramos en su equipo..."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "No me quejaría. Ellos nos mandaron la invitación después de todo."
+            "text": "No me quejaría. Ellos nos mandaron<n>la invitación después de todo."
         },
         {
             "name": "<username>",
-            "text": "Mientras más, mejor. ¡Bienvenidas a bordo!"
+            "text": "Mientras más, mejor. ¡Bienvenidas a<n>bordo!"
         },
-        {},
+        {
+            "name": "<username>",
+            "text": "Mientras más, mejor. ¡Bienvenidas a<n>bordo!"
+        },
         {
             "name": "Mejiro Ryan",
             "text": "¡Gracias! ¡Agradezco estar a bordo!"
         },
         {
             "name": "Monólogo",
-            "text": "Y así, el campamento de entrenamiento de verano del Equipo Sirius\ncomienza con dos Mejiros extra."
+            "text": "Y así, el campamento de<n>entrenamiento de verano del Equipo<n>Sirius\ncomienza con dos Mejiros<n>extra."
         },
         {
             "name": "Mejiro McQueen",
@@ -68,43 +71,43 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Acelérala, McQueen, ¡Te voy a pasar!"
+            "text": "Acelérala, McQueen, ¡Te voy a<n>pasar!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Oye! ¡Se supone que yo marco el ritmo!"
+            "text": "¡Oye! ¡Se supone que yo marco el<n>ritmo!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Vamos, Dober. ¡Tú puedes hacerlo mejor que eso!"
+            "text": "Vamos, Dober. ¡Tú puedes hacerlo<n>mejor que eso!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "N-no me puedo concentrar ahora. O seguramente estoy preocupada\nsobre como todos me ven..."
+            "text": "N-no me puedo concentrar ahora. O<n>seguramente estoy preocupada\nsobre<n>como todos me ven..."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "¡No tienes nada de qué preocuparte! ¡Eres bonita, lo sabes!"
+            "text": "¡No tienes nada de qué preocuparte!<n>¡Eres bonita, lo sabes!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "¡N-no necesito tus halagos! ¡Yo sé más que nadie como a nadie le gusto!"
+            "text": "¡N-no necesito tus halagos! ¡Yo sé<n>más que nadie como a nadie le<n>\ngusto!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡¿Gold Ship?! ¡¿Que se supone que estás haciendo?!"
+            "text": "¡¿Gold Ship?! ¡¿Que se supone que<n>estás haciendo?!"
         },
         {
             "name": "Gold Ship",
-            "text": "¿Que más voy a estar haciendo en la playa?"
+            "text": "¿Que más voy a estar haciendo en la<n>playa?"
         },
         {
             "name": "Gold Ship",
-            "text": "Recorrimos tanto hasta acá, ¡Así que voy a ir con todo\ncon el entrenamiento!"
+            "text": "Recorrimos tanto hasta acá, ¡Así<n>que voy a ir con todo con el<n>\nentrenamiento!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Todo lo que veo de \"ir con todo\" es solamente verte jugar!"
+            "text": "¡Todo lo que veo de \"ir con todo\"<n>es solamente verte jugar!"
         },
         {
             "name": "Mejiro Ryan",
@@ -123,55 +126,55 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Jaja. Creo que le puse demasiado empeño. ¡Y solo es el primer día!"
+            "text": "Jaja. Creo que le puse demasiado<n>empeño. ¡Y solo es el primer día!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "Aun así, bien ahí, McQueen. Me impresionó que pudieras mantener\nel ritmo cuando Ryan aceleró."
+            "text": "Aun así, bien ahí, McQueen. Me<n>impresionó que pudieras mantener el<n>\nritmo cuando Ryan aceleró."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Bueno, sabía muy bien que no la dejaría ganar. Sin contar lo que\npasó en el Takarazuka Kinen."
+            "text": "Bueno, sabía muy bien que no la<n>dejaría ganar. Sin contar lo que<n>\npasó en el Takarazuka Kinen."
         },
         {
             "name": "Monólogo",
-            "text": "Un poco antes de que el campamento comenzara, Mejiro McQueen corrió\nel Takarazuka Kinen, la carrera más importante del primer semestre."
+            "text": "Un poco antes de que el campamento<n>comenzara, Mejiro McQueen\ncorrió el<n>Takarazuka Kinen, la carrera más<n>importante del primer\nsemestre."
         },
         {
             "name": "Monólogo",
-            "text": "Ella era la favorita para ganar, pero incluso después del mejor de sus\nesfuerzos, salió segunda ante una gran Mejiro Ryan."
+            "text": "Ella era la favorita para ganar,<n>pero incluso después del mejor de<n>\nsus esfuerzos, salió segunda ante<n>una gran Mejiro Ryan."
         },
         {
             "name": "Umamusume Animada",
-            "text": "En serio, ¡El cómo corre McQueen no deja de sorprenderme! ¡Tanto\nentrenando como en carreras!"
+            "text": "En serio, ¡El cómo corre McQueen no<n>deja de sorprenderme! ¡Tanto<n>\nentrenando como en carreras!"
         },
         {
             "name": "Umamusume Cariñosa",
-            "text": "Siiiip, ¡Y por eso me uní a este equipo!"
+            "text": "Siiiip, ¡Y por eso me uní a este<n>equipo!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ughh... ¿Por cuánto más va a continuar esta adoración?"
+            "text": "Ughh... ¿Por cuánto más va a<n>continuar esta adoración?"
         },
         {
             "name": "Mejiro Dober",
-            "text": "Por lo general una profunda admiración se gana. ¿No deberías estar\norgullosa de eso?"
+            "text": "Por lo general una profunda<n>admiración se gana. ¿No deberías<n>estar\norgullosa de eso?"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Sip, no te asustes de presumir tus cosas. Cuando escucho todos\nesos elogios, ¡Me coloca una sonrisa en la cara!"
+            "text": "Sip, no te asustes de presumir tus<n>cosas. Cuando escucho todos\nesos<n>elogios, ¡Me coloca una sonrisa en<n>la cara!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Está bien, ¡No puedo relajarme si quiero seguir ganándole a\nMejiro McPopular! ¡Voy de nuevo!"
+            "text": "Está bien, ¡No puedo relajarme si<n>quiero seguir ganándole a Mejiro<n>\nMcPopular! ¡Voy de nuevo!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Ni se te ocurra que conseguiste una ventaja!"
+            "text": "¡Ni se te ocurra que conseguiste<n>una ventaja!"
         },
         {
             "name": "Monólogo",
-            "text": "El tiempo vuela cuando corres rápido. Y cuando menos lo esperábamos,\nel sol comenzó a colocarse."
+            "text": "El tiempo vuela cuando corres<n>rápido. Y cuando menos lo<n>\nesperábamos, el sol comenzó a<n>colocarse."
         },
         {
             "name": "Mejiro McQueen",
@@ -179,57 +182,57 @@
         },
         {
             "name": "<username>",
-            "text": "¿Pasa algo malo? El resto ya se entró."
+            "text": "¿Pasa algo malo? El resto ya se<n>entró."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Ah? Claro. Solo estaba pensando sobre ellas realmente."
+            "text": "¿Ah? Claro. Solo estaba pensando<n>sobre ellas realmente."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Hace no mucho, este equipo era la nada de lo que solía ser,\npero ahora, varios miembros lo llaman hogar."
+            "text": "Hace no mucho, este equipo era la<n>nada de lo que solía ser, pero<n>\nahora, varios miembros lo llaman<n>hogar."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Mi propio correr parece que inspiró a varias. Y pensar que ellas\ndeseaban correr junto a mi..."
+            "text": "Mi propio correr parece que inspiró<n>a varias. Y pensar que ellas<n>\ndeseaban correr junto a mi..."
         },
         {
             "name": "<username>",
-            "text": "Les prendiste un fuego en sus corazones. Algo así como\nOguri Cap nos inspiró."
+            "text": "Les prendiste un fuego en sus<n>corazones. Algo así como Oguri Cap<n>\nnos inspiró."
         },
         {
             "name": "<username>",
-            "text": "Les prendiste un fuego en sus corazones. Algo así como\nOguri Cap nos inspiró."
+            "text": "Les prendiste un fuego en sus<n>corazones. Algo así como Oguri Cap<n>\nnos inspiró."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Posiblemente... Eso me hace orgullosa, pero también un poco\navergonzada. Es un sentimiento complicado."
+            "text": "Posiblemente... Eso me hace<n>orgullosa, pero también un poco<n>\navergonzada. Es un sentimiento<n>complicado."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Para algunas, ganar el Tenno Sho de primavera y salvar un equipo\nestrella puede ser más que suficiente..."
+            "text": "Para algunas, ganar el Tenno Sho de<n>primavera y salvar un equipo<n>\nestrella puede ser más que<n>suficiente..."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Pero para mí... me hizo darme cuenta de que tengo más de lo\nque quería realizar.",
+            "text": "Pero para mí... me hizo darme<n>cuenta de que tengo más de lo que<n>\nquería realizar.",
             "choice_data_list": [
                 "¿Como por ejemplo?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Quiero seguir corriendo. Cumplir con las expectativas de todos\nganando incluso más carreras."
+            "text": "Quiero seguir corriendo. Cumplir<n>con las expectativas de todos<n>\nganando incluso más carreras."
         },
         {
             "name": "Monólogo",
-            "text": "Incluso más fuerte que la sonrisa de Mejiro McQueen es la\ndeterminación brillando en sus ojos.",
+            "text": "Incluso más fuerte que la sonrisa<n>de Mejiro McQueen es la<n>\ndeterminación brillando en sus<n>ojos.",
             "choice_data_list": [
                 "Entonces estaré esperando grandes cosas, McQueen."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Si, y no tengo intención de decepcionarte."
+            "text": "Si, y no tengo intención de<n>decepcionarte."
         }
     ]
 }

@@ -15,11 +15,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Todas volvieron para juntarse conmigo? Me conmueve."
+            "text": "¿Todas volvieron para juntarse<n>conmigo? Me conmueve."
         },
         {
             "name": "Gold Ship",
-            "text": "Segundo lugar—¡Estuviste bastante cerca! ¡Jue' una buena carrera!",
+            "text": "Segundo lugar—¡Estuviste bastante<n>cerca! ¡Jue' una buena carrera!",
             "choice_data_list": [
                 "Todas ahí fuera estaban en su mejor forma.",
                 "Todas ahí fuera estaban en su mejor forma."
@@ -27,23 +27,23 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Si, no hay dudas sobre eso. Podía sentir como todas se habían\npreparado bien, y estaban enfocadas como un láser."
+            "text": "Si, no hay dudas sobre eso. Podía<n>sentir como todas se habían<n>\npreparado bien, y estaban enfocadas<n>como un láser."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Esta vez, me ganaron de buena y justa manera."
+            "text": "Esta vez, me ganaron de buena y<n>justa manera."
         },
         {
             "name": "<username>",
-            "text": "Te ves bastante satisfecha, considerándolo."
+            "text": "Te ves bastante satisfecha,<n>considerándolo."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Esta carrera fue fructífera. Tuve una clara idea de lo que necesito\nmejorar para la próxima vez."
+            "text": "Esta carrera fue fructífera. Tuve<n>una clara idea de lo que\nnecesito<n>mejorar para la próxima vez."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Cada carrera sirve para aprender. También..."
+            "text": "Cada carrera sirve para aprender.<n>También..."
         },
         {
             "name": "Umamusume Sincera",
@@ -51,15 +51,15 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No como la Japan Cup, me sentí satisfecha conmigo misma y\nmi forma de correr."
+            "text": "No como la Japan Cup, me sentí<n>satisfecha conmigo misma y mi forma<n>\nde correr."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Pude convertir todas sus expectativas en poder."
+            "text": "Pude convertir todas sus<n>expectativas en poder."
         },
         {
             "name": "Umamusume Animada",
-            "text": "¡Dalo todo en la otra también, McQueen!"
+            "text": "¡Dalo todo en la otra también,<n>McQueen!"
         },
         {
             "name": "Mejiro McQueen",
@@ -71,23 +71,23 @@
         },
         {
             "name": "Umamusume Sincera",
-            "text": "¡Ya sé que será una carrera fabulosa!"
+            "text": "¡Ya sé que será una carrera<n>fabulosa!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Espero mostrarles exactamente de lo capaz que es una\nrepresentante."
+            "text": "Espero mostrarles exactamente de lo<n>capaz que es una\nrepresentante."
         },
         {
             "name": "Gold Ship",
-            "text": "Ya, creo que terminamos acá. ¡Escuché que el entrenador tiene\nun gran banquete listo para nosotras!"
+            "text": "Ya, creo que terminamos acá.<n>¡Escuché que el entrenador tiene un<n>\ngran banquete listo para nosotras!"
         },
         {
             "name": "<username>",
-            "text": "¡Obvio! Incluso puse un poco de mi último pago solo para esto!"
+            "text": "¡Obvio! Incluso puse un poco de mi<n>último pago solo para esto!"
         },
         {
             "name": "<username>",
-            "text": "¡Obvio! Incluso puse un poco de mi último pago solo para esto!"
+            "text": "¡Obvio! Incluso puse un poco de mi<n>último pago solo para esto!"
         },
         {
             "name": "Mejiro McQueen",
@@ -95,11 +95,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Como sabes, estaba revisando cuanto comí en preparación para\nesta carrera. Estoy <i>bastante</i> hambrienta."
+            "text": "Como sabes, estaba revisando cuanto<n>comí en preparación para esta<n>\ncarrera. Estoy <i>bastante</i><n>hambrienta."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Alguna vez has cenado junto a varias Umamusume hambrientas\na la vez?"
+            "text": "¿Alguna vez has cenado junto a<n>varias Umamusume hambrientas a la<n>\nvez?"
         },
         {
             "name": "<username>",
@@ -107,15 +107,15 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Oh ey, ¡Realmente deberíamos invitar a Oguri y a Ryan también!"
+            "text": "Oh ey, ¡Realmente deberíamos<n>invitar a Oguri y a Ryan también!"
         },
         {
             "name": "<username>",
-            "text": "¡E-espérate un momento! ¡Mi billetera no tiene tanto para eso!"
+            "text": "¡E-espérate un momento! ¡Mi<n>billetera no tiene tanto para eso!"
         },
         {
             "name": "<username>",
-            "text": "¡E-espérate un momento! ¡Mi billetera no tiene tanto para eso!"
+            "text": "¡E-espérate un momento! ¡Mi<n>billetera no tiene tanto para eso!"
         },
         {
             "name": "Gold Ship",
@@ -127,19 +127,19 @@
         },
         {
             "name": "Monólogo",
-            "text": "Un año después del milagroso desempeño de Oguri Cap en el\nArima Kinen... El Equipo Sirius comienza otra vez un nuevo capítulo.\n"
+            "text": "Un año después del milagroso<n>desempeño de Oguri Cap en el Arima<n>\nKinen... El Equipo Sirius comienza<n>otra vez un nuevo capítulo."
         },
         {
             "name": "Monólogo",
-            "text": "Aunque se hayan tropezado un poco durante el camino, la representante\nnovata y el entrenador novato nunca dejaron de seguir adelante."
+            "text": "Aunque se hayan tropezado un poco<n>durante el camino, la\nrepresentante<n>novata y el entrenador novato nunca<n>dejaron de seguir\nadelante."
         },
         {
             "name": "Monólogo",
-            "text": "Aún queda mucho por mejorar antes de que Sirius alcance la misma\naltura mientras el tiempo pase..."
+            "text": "Aún queda mucho por mejorar antes<n>de que Sirius alcance la misma<n>\naltura mientras el tiempo pase..."
         },
         {
             "name": "Monólogo",
-            "text": "Sin embargo, la pasión heredada por la antigua generación está\nfirmemente plasmado en las raíces del equipo."
+            "text": "Sin embargo, la pasión heredada por<n>la antigua generación está<n>\nfirmemente plasmado en las raíces<n>del equipo."
         },
         {
             "name": "Mejiro McQueen",
@@ -147,11 +147,11 @@
         },
         {
             "name": "Umamusume Animada",
-            "text": "¡Tú puedes hacerlo, representante! ♪"
+            "text": "¡Tú puedes hacerlo, representante!<n>♪"
         },
         {
             "name": "Gold Ship",
-            "text": "Escuché que si te sacas esta doble-W, ¡Hay un montón de dulces esperándote!"
+            "text": "Escuché que si te sacas esta<n>doble-W, ¡Hay un montón de dulces<n>\nesperándote!"
         },
         {
             "name": "Mejiro McQueen",
@@ -159,37 +159,43 @@
         },
         {
             "name": "Umamusume Sincera",
-            "text": "No le debiste decir eso. ¡¿Como se va a concentrar ahora?!"
+            "text": "No le debiste decir eso. ¡¿Como se<n>va a concentrar ahora?!"
         },
         {
             "name": "Gold Ship",
-            "text": "O sea, pensaba que con eso la prendería. ¿Salió mal?"
+            "text": "O sea, pensaba que con eso la<n>prendería. ¿Salió mal?"
         },
         {
             "name": "Umamusume Cariñosa",
-            "text": "¡Oye, representante! ¡Enfócate en la pista!"
+            "text": "¡Oye, representante! ¡Enfócate en<n>la pista!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "S-sí, ¡Estás en lo correcto! La pista... Concéntrate en...\nel postre... la pista..."
+            "text": "S-sí, ¡Estás en lo correcto! La<n>pista... Concéntrate en... el<n>\npostre... la pista..."
         },
         {
             "name": "<username>",
-            "text": "McQueen, tu rival hoy es la invicta Tokai Teio."
-        },
-        {},
-        {
-            "name": "<username>",
-            "text": "Juzgando por como ella corre hasta ahora, ella es alguien con una\nfuerza a considerar. Y para respaldarlo, es la favorita de hoy."
+            "text": "McQueen, tu rival hoy es la invicta<n>Tokai Teio."
         },
         {
             "name": "<username>",
-            "text": "Pero al final, ¡Tú vas a cruzar la meta primero!"
+            "text": "McQueen, tu rival hoy es la invicta<n>Tokai Teio."
         },
-        {},
+        {
+            "name": "<username>",
+            "text": "Juzgando por como ella corre hasta<n>ahora, ella es alguien con una<n>\nfuerza a considerar. Y para<n>respaldarlo, es la favorita de hoy."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero al final, ¡Tú vas a cruzar la<n>meta primero!"
+        },
+        {
+            "name": "<username>",
+            "text": "Pero al final, ¡Tú vas a cruzar la<n>meta primero!"
+        },
         {
             "name": "Mejiro McQueen",
-            "text": "Jeje... Sí. Debería. Con todo su apoyo como mi rebufo, ¡Me siento\nlista para volar cualquier distancia!",
+            "text": "Jeje... Sí. Debería. Con todo su<n>apoyo como mi rebufo, ¡Me siento<n>\nlista para volar cualquier<n>distancia!",
             "choice_data_list": [
                 "¡Esperamos grandes cosas, representante!"
             ]
@@ -204,11 +210,11 @@
         },
         {
             "name": "Relatora",
-            "text": "¡Mejiro McQueen! ¡Mejiro McQueen! ¡Extiende su liderato hasta\ntres cuerpos!"
+            "text": "¡Mejiro McQueen! ¡Mejiro McQueen!<n>¡Extiende su liderato hasta tres<n>\ncuerpos!"
         },
         {
             "name": "Relatora",
-            "text": "¡Mejiro McQueen cruza la meta! ¡Es la primera Umamusume en la historia\nen conseguir dos victorias consecutivas en el Tenno Sho de primavera!"
+            "text": "¡Mejiro McQueen cruza la meta! ¡Es<n>la primera Umamusume en la\nhistoria<n>en conseguir dos victorias<n>consecutivas en el Tenno Sho de<n>\nprimavera!"
         },
         {
             "name": "Monólogo",
@@ -224,7 +230,7 @@
         },
         {
             "name": "Umamusume Sincera",
-            "text": "Nuestra representante es la mejor..."
+            "text": "Nuestra representante es la<n>mejor..."
         },
         {
             "name": "Mejiro McQueen",
@@ -232,7 +238,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Seguiré corriendo—¡Para llevar sus sueños adelante!"
+            "text": "Seguiré corriendo—¡Para llevar sus<n>sueños adelante!"
         }
     ]
 }

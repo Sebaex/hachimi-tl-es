@@ -3,19 +3,19 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Han pasado unos días desde la remarcable victoria de Mejiro McQueen\nen el Tenno Sho de primavera."
+            "text": "Han pasado unos días desde la<n>remarcable victoria de Mejiro<n>\nMcQueen en el Tenno Sho de<n>primavera."
         },
         {
             "name": "Monólogo",
-            "text": "Así como nuestro pequeño equipo de uno finalmente creció."
+            "text": "Así como nuestro pequeño equipo de<n>uno finalmente creció."
         },
         {
             "name": "Umamusume Animada",
-            "text": "Desde el primer momento que ví tu elegancia, ¡SABÍA que me tenía que unir!"
+            "text": "Desde el primer momento que ví tu<n>elegancia, ¡SABÍA que me tenía\nque<n>unir!"
         },
         {
             "name": "Umamusume Cariñosa",
-            "text": "<i>Snif...</i> Tu victoria... Muy impresionante... Estaba, <i>snif...</i> ¡Muy conmovida!"
+            "text": "<i>Snif...</i> Tu victoria... Muy<n>impresionante... Estaba,<n>\n<i>snif...</i> ¡Muy conmovida!"
         },
         {
             "name": "Mejiro McQueen",
@@ -23,63 +23,63 @@
         },
         {
             "name": "Umamusume Sincera",
-            "text": "¡Quiero darlo todo y perseguir mis sueños igual como tú lo hiciste!"
+            "text": "¡Quiero darlo todo y perseguir mis<n>sueños igual como tú lo\nhiciste!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "D-de todas maneras... ¡Por favor hazlo!"
+            "text": "D-de todas maneras... ¡Por favor<n>hazlo!"
         },
         {
             "name": "<username>",
-            "text": "Parece que todas se atrajeron por tu rendimiento, McQueen."
+            "text": "Parece que todas se atrajeron por<n>tu rendimiento, McQueen."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Lo sé... pero es un poco vergonzoso."
+            "text": "Lo sé... pero es un poco<n>vergonzoso."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Haa, haa...</i>\n¿Cómo estuvo ese tiempo?"
+            "text": "<i>Haa, haa...</i> ¿Cómo estuvo ese<n>tiempo?"
         },
         {
             "name": "<username>",
-            "text": "1200 metros en unos buenos 80 segundos. ¡Sin quejas por aquí!"
+            "text": "1200 metros en unos buenos 80<n>segundos. ¡Sin quejas por aquí!"
         },
         {
             "name": "<username>",
-            "text": "1200 metros en unos buenos 80 segundos. ¡Sin quejas por aquí!"
+            "text": "1200 metros en unos buenos 80<n>segundos. ¡Sin quejas por aquí!"
         },
         {
             "name": "Umamusume Sincera",
-            "text": "¡Waaaos! ¡Así que esto significa ser una campeona del Tenno Sho!"
+            "text": "¡Waaaos! ¡Así que esto significa<n>ser una campeona del Tenno Sho!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Ay por dios! ¿M-me podrías dar un poco de espacio?"
+            "text": "¡Ay por dios! ¿M-me podrías dar un<n>poco de espacio?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Aunque, tengo que admitirlo, estoy feliz de entrenar\njunto a un Equipo Sirius bastante animado de nuevo."
+            "text": "Aunque, tengo que admitirlo, estoy<n>feliz de entrenar junto a un\nEquipo<n>Sirius bastante animado de nuevo."
         },
         {
             "name": "<username>",
-            "text": "¡Se lo debemos todo a tu victoria en el Tenno Sho de primavera!"
+            "text": "¡Se lo debemos todo a tu victoria<n>en el Tenno Sho de primavera!"
         },
         {
             "name": "<username>",
-            "text": "¡Se lo debemos todo a tu victoria en el Tenno Sho de primavera!"
+            "text": "¡Se lo debemos todo a tu victoria<n>en el Tenno Sho de primavera!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Y pensar que mi propia forma de correr tendría una gran influencia\nen el equipo..."
+            "text": "Y pensar que mi propia forma de<n>correr tendría una gran influencia<n>\nen el equipo..."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Aun así, no estamos del todo libres. Sigamos yendo hacia adelante,\n¿Cómo un equipo!"
+            "text": "Aun así, no estamos del todo<n>libres. Sigamos yendo hacia<n>adelante,\n¿Cómo un equipo!"
         },
         {
             "name": "Umamusume Animada",
-            "text": "McQueen, ¿Me enseñas una postura correcta para correr?"
+            "text": "McQueen, ¿Me enseñas una postura<n>correcta para correr?"
         },
         {
             "name": "Mejiro McQueen",
@@ -87,7 +87,7 @@
         },
         {
             "name": "Umamusume Cariñosa",
-            "text": "¡McQueen! ¿Como puedo salir de las puertas tan hábilmente como tú?"
+            "text": "¡McQueen! ¿Como puedo salir de las<n>puertas tan hábilmente como tú?"
         },
         {
             "name": "Mejiro McQueen",
@@ -95,7 +95,7 @@
         },
         {
             "name": "???",
-            "text": "McQueen, hace hambre. ¿Por qué no me das una torta de zanahorias?"
+            "text": "McQueen, hace hambre. ¿Por qué no<n>me das una torta de zanahorias?"
         },
         {
             "name": "Mejiro McQueen",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Momento, ¡¿Quion dijo eso?! ¡No quería decir eso!"
+            "text": "Momento, ¡¿Quion dijo eso?! ¡No<n>quería decir eso!"
         },
         {
             "name": "???",
@@ -118,39 +118,39 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "\"Conocida\" seria... demasiado. Ella es más como una peste que no me\ndeja tranquila."
+            "text": "\"Conocida\" seria... demasiado. Ella<n>es más como una peste que no\nme deja<n>tranquila."
         },
         {
             "name": "Gold Ship",
-            "text": "Ayy, ¡Vi el Tenno Sho! ¡Andabas genial como siempre!"
+            "text": "Ayy, ¡Vi el Tenno Sho! ¡Andabas<n>genial como siempre!"
         },
         {
             "name": "Gold Ship",
-            "text": "¡En especial esa parte cuando usaste tu cuerpo como escudo para\ncubrir a tus aliados de los disparos de los enemigos!"
+            "text": "¡En especial esa parte cuando<n>usaste tu cuerpo como escudo para<n>\ncubrir a tus aliados de los<n>disparos de los enemigos!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Nada de eso pasó! ¡¿Qué clase de disparos pasan en una carrera?!"
+            "text": "¡Nada de eso pasó! ¡¿Qué clase de<n>disparos pasan en una carrera?!"
         },
         {
             "name": "Gold Ship",
-            "text": "No tienes que explicar nada. ¡Sabemos lo que vimos! ¡La parte cuando\ncorriste me tenía llena de lágrimas!"
+            "text": "No tienes que explicar nada.<n>¡Sabemos lo que vimos! ¡La parte<n>\ncuando corriste me tenía llena de<n>lágrimas!"
         },
         {
             "name": "Gold Ship",
-            "text": "Y por eso vine. ¡Asumí que estabas practicando más piruetas!"
+            "text": "Y por eso vine. ¡Asumí que estabas<n>practicando más piruetas!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No me importa si simplemente miraste, solo... No te metas."
+            "text": "No me importa si simplemente<n>miraste, solo... No te metas."
         },
         {
             "name": "Gold Ship",
-            "text": "¡Bueno, bueno! Me callo y miro, ¡No te preocupes!"
+            "text": "¡Bueno, bueno! Me callo y miro, ¡No<n>te preocupes!"
         },
         {
             "name": "Gold Ship",
-            "text": "Ahora, mi gente, miren bien atentos a la aspiradora McQueen, ¡Enseñandonos\ncomo comerse 200 metros de rolls de wasabi!"
+            "text": "Ahora, mi gente, miren bien atentos<n>a la aspiradora McQueen,<n>\n¡Enseñandonos como comerse 200<n>metros de rolls de wasabi!"
         },
         {
             "name": "Mejiro McQueen",
@@ -162,35 +162,35 @@
         },
         {
             "name": "Gold Ship",
-            "text": "El Tenno Sho realmente te gastó esos palitos, ¿eh?"
+            "text": "El Tenno Sho realmente te gastó<n>esos palitos, ¿eh?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Dios santo, <i>tu</i> me tienes hasta la coronilla. Eso es todo."
+            "text": "Dios santo, <i>tu</i> me tienes<n>hasta la coronilla. Eso es todo."
         },
         {
             "name": "<username>",
-            "text": "Gold Ship tiene un punto. Hiciste una gran carrera después de todo."
+            "text": "Gold Ship tiene un punto. Hiciste<n>una gran carrera después de\ntodo."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Y debería estar preparándome para la siguiente.\nNo hay tiempo que perder."
+            "text": "Y debería estar preparándome para<n>la siguiente. No hay tiempo que<n>\nperder."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Mis ambiciones simplemente no terminan con el Tenno Sho"
+            "text": "Mis ambiciones simplemente no<n>terminan con el Tenno Sho"
         },
         {
             "name": "Gold Ship",
-            "text": "¿Oh? Un buen sueño justo después de otro, ¿eh?"
+            "text": "¿Oh? Un buen sueño justo después de<n>otro, ¿eh?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Naturalmente! Como un miembro de la prestigiosa familia Mejiro,\nno puedo dejarme llevar."
+            "text": "¡Naturalmente! Como un miembro de<n>la prestigiosa familia Mejiro,\nno<n>puedo dejarme llevar."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Aparte, tengo un equipo completo de corredoras que apoyar."
+            "text": "Aparte, tengo un equipo completo de<n>corredoras que apoyar."
         },
         {
             "name": "Gold Ship",
@@ -198,15 +198,15 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Obvio que estoy haciendo todo lo que puedo! ¡Claramente no\nhay tiempo para estar bromeando!"
+            "text": "¡Obvio que estoy haciendo todo lo<n>que puedo! ¡Claramente no hay<n>\ntiempo para estar bromeando!"
         },
         {
             "name": "Gold Ship",
-            "text": "Heh, que bueno saberlo. Y afortunadamente\nmantendrás esas piernas en el pasto."
+            "text": "Heh, que bueno saberlo. Y<n>afortunadamente mantendrás esas<n>piernas\nen el pasto."
         },
         {
             "name": "Gold Ship",
-            "text": "¡Ya, lo decidí! ¡Tienes otro miembro nuevo en tu equipo desde ahora!"
+            "text": "¡Ya, lo decidí! ¡Tienes otro<n>miembro nuevo en tu equipo desde<n>\nahora!"
         },
         {
             "name": "Mejiro McQueen",
@@ -214,7 +214,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Los esfuerzos de McQueen captaron los ojos de varios a diestra y siniestra.\nY gracias a eso...",
+            "text": "Los esfuerzos de McQueen captaron<n>los ojos de varios a diestra y<n>\nsiniestra. Y gracias a eso...",
             "choice_data_list": [
                 "¡El equipo no se disolverá!",
                 "¡El equipo no se disolverá!"
@@ -222,24 +222,27 @@
         },
         {
             "name": "Gold Ship",
-            "text": "¡Woo! ¡Felicidades! No sé de lo que hablan, ¡Pero genial!"
+            "text": "¡Woo! ¡Felicidades! No sé de lo que<n>hablan, ¡Pero genial!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Puede que no se disuelva el equipo,\npero de todas maneras estoy preocupada..."
+            "text": "Puede que no se disuelva el equipo,<n>pero de todas maneras estoy<n>\npreocupada..."
         },
         {
             "name": "Monólogo",
-            "text": "Si bien ella tiene un punto de que el equipo <i>fue</i> como fuese, creo\ngenuinamente que va a ser el hogar de verdaderas estrellas."
+            "text": "Si bien ella tiene un punto de que<n>el equipo <i>fue</i> como\nfuese,<n>creo genuinamente que va a ser el<n>hogar de verdaderas\nestrellas."
         },
-        {},
         {
             "name": "Monólogo",
-            "text": "Porque Sirius tiene a Mejiro McQueen como su luz guía."
+            "text": "Si bien ella tiene un punto de que<n>el equipo <i>fue</i> como\nfuese,<n>creo genuinamente que va a ser el<n>hogar de verdaderas\nestrellas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Porque Sirius tiene a Mejiro<n>McQueen como su luz guía."
         },
         {
             "name": "Gold Ship",
-            "text": "¡Ahoy marineros! ¡Eleven anclas y a navegar, Equipo McQueen!"
+            "text": "¡Ahoy marineros! ¡Eleven anclas y a<n>navegar, Equipo McQueen!"
         }
     ]
 }

@@ -3,43 +3,43 @@
     "text_block_list": [
         {
             "name": "Relatora",
-            "text": "¡Mihono Bourbon comienza con una ventaja de cuatro cuerpos! ¡Y\nparece que va a mantenerla!"
+            "text": "¡Mihono Bourbon comienza con una<n>ventaja de cuatro cuerpos! ¡Y<n>\nparece que va a mantenerla!"
         },
         {
             "name": "Relatora",
-            "text": "¡Bourbon lidera! ¡Los 2.400 metros no la detienen yendo de punta a punta!\n¡Seis de seis! ¡La Doble Corona invicta es de ella!"
+            "text": "¡Bourbon lidera! ¡Los 2.400 metros<n>no la detienen yendo de punta a<n>\npunta! ¡Seis de seis! ¡La Doble<n>Corona invicta es de ella!"
         },
         {
             "name": "Monologue",
-            "text": "Rice termina el Japanese Derby segunda. Seguramente falló en pasar a\nMihono Bourbon, pero de todas maneras es un inmenso progreso."
+            "text": "Rice termina el Japanese Derby<n>segunda. Seguramente falló en pasar<n>\na Mihono Bourbon, pero de todas<n>maneras es un inmenso progreso."
         },
         {
             "name": "Monologue",
-            "text": "Unos días despues, llevo al equipo a un parque de diversiones en Chiba."
+            "text": "Unos días despues, llevo al equipo<n>a un parque de diversiones en<n>\nChiba."
         },
         {
             "name": "Rice Shower",
-            "text": "¡Woa! Aquí estamos—¡El parque de diversiones de los sueños! ¡Con el\ncastillo de la princesa, y la Montaña Iluminada!"
+            "text": "¡Woa! Aquí estamos—¡El parque de<n>diversiones de los sueños! ¡Con\nel<n>castillo de la princesa, y la<n>Montaña Iluminada!"
         },
         {
             "name": "Monologue",
-            "text": "Pensé que sería bueno de invitarla al parque de diversiones que ella\nsiempre quiso ir, pero, bueno..."
+            "text": "Pensé que sería bueno de invitarla<n>al parque de diversiones que\nella<n>siempre quiso ir, pero, bueno..."
         },
         {
             "name": "Rice Shower",
-            "text": "Espera... No hay nadie más acá. Es como nuestro propio reino. Jeje. Eso\nsuena bien. ♪"
+            "text": "Espera... No hay nadie más acá. Es<n>como nuestro propio reino.\nJeje. Eso<n>suena bien. ♪"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Entrenador... Rice realmente cree que este es el lugar que realmente le\ninteresaba visitar..."
+            "text": "Entrenador... Rice realmente cree<n>que este es el lugar que\nrealmente<n>le interesaba visitar..."
         },
         {
             "name": "Monologue",
-            "text": "McQueen me susurra al oído mientras una Rice Shower despistada\nirradiaba emoción."
+            "text": "McQueen me susurra al oído mientras<n>una Rice Shower despistada<n>\nirradiaba emoción."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Yo se que estamos cortos de dinero este mes, ¿pero realmente la tenías\nque traer a <i>este</i> parque de diversiones?"
+            "text": "Yo se que estamos cortos de dinero<n>este mes, ¿pero realmente la\ntenías<n>que traer a <i>este</i> parque de<n>diversiones?"
         },
         {
             "name": "<username>",
@@ -51,11 +51,11 @@
         },
         {
             "name": "Gold Ship",
-            "text": "¡Vamo', McQueen! Los rumores dicen que hay una atracción misteriosa\npor debajo. ¡Hay que mostrar la verdad!"
+            "text": "¡Vamo', McQueen! Los rumores dicen<n>que hay una atracción\nmisteriosa por<n>debajo. ¡Hay que mostrar la verdad!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡O-oye! ¡Esa puerta es solo para trabajadores!"
+            "text": "¡O-oye! ¡Esa puerta es solo para<n>trabajadores!"
         },
         {
             "name": "Rice Shower",
@@ -67,7 +67,205 @@
         },
         {
             "name": "Monologue",
-            "text": "Dicen que el tiempo vuela cuando te diviertes, así que asumo que significa\nque nos divertimos, a pesar del lugar."
+            "text": "Dicen que el tiempo vuela cuando te<n>diviertes, así que asumo que<n>\nsignifica que nos divertimos, a<n>pesar del lugar."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Tenemos que subirnos a casi todas<n>las atracciones. Que bueno que\nno<n>hay tanta gente hoy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Cada vez que ella expresa alegría<n>pura al estar acá, siento una<n>\npequeña puntada de culpa."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hey, em... ¿Entrenador?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Quiero ir a la rueda de la fortuna<n>al final del dia. Así que,\nem...<n>¿Irías conmigo?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ay no, es muy pura—mi corazón no<n>logra soportarlo... Si quiere ir\na<n>la rueda, a la rueda será.",
+            "choice_data_list": [
+                "Claro."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Jeje... ¡Yay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "La ciudad se despliega hasta lo mas<n>lejos que logra ver el ojo,\nteñido<n>de naranja por el sol al atardecer."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "...Pero la increible vista está<n>perdida en Rice Shower. Algo debe<n>\nestar molestandole desde que nos<n>subimos.",
+            "choice_data_list": [
+                "¿Pasa algo?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, em... es solo que..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Quería decirte que gracias. Por<n>todo. Realmente no pensaba que<n>\npodía lograr tanto."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Osea, tampoco me lo creo de que<n><i>yo</i> saqué segundo lugar en\nel<n>Derby.",
+            "choice_data_list": [
+                "Todo gracias a tu trabajo duro.",
+                "Todo gracias a tu trabajo duro."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Jeje..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Así que, me tenía pensando.<n>Estoy feliz con el segundo lugar,<n>\npero... ¿Que hubiera pasado si<n>salía primera?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yo... Yo quiero ganar. Contra<n>Mihono Bourbon."
+        },
+        {
+            "name": "Monologue",
+            "text": "Quiero ganar."
+        },
+        {
+            "name": "Monologue",
+            "text": "Su ambición solo crecía y crecía,<n>al igual que la diferencia entre<n>\nella y su rival invicta se encogía."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "El querer ganar contra alguien como<n>ella—No podría haberlo hecho\nsin ti.<n>Así que tenía que hacertelo saber."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ohh, ahora que lo digo, es un poco<n>vergonzoso..."
+        },
+        {
+            "name": "<username>",
+            "text": "Puede ser tu nueva confianza<n>hablando. La próxima carrera,<n>saldrás\nprimera. Vamos a ganarle a<n>Bourbon juntos."
+        },
+        {
+            "name": "<username>",
+            "text": "Puede ser tu nueva confianza<n>hablando. La próxima carrera,<n>saldrás\nprimera. Vamos a ganarle a<n>Bourbon juntas."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Juntos... Si, ¡Podemos hacerlo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Fiu! ¡Nunca había entretenido<n>tanto en mi vida! ¿Que hay de ti,<n>\nRice?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Si, era como un mundo de sueños. Me<n>divertí mucho. ♪"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Entrenador, gracias por el trato<n>hoy. ¡Voy a mantener el trabajo<n>\nduro!",
+            "choice_data_list": [
+                "Y estaré justo a tu lado.",
+                "Y estaré justo a tu lado."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Parece que alguien tuvo un tiempo<n>mágico. Supongo que estabas en\nlo<n>correcto de traerla acá."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Pero asegurate de que tu próximo<n>trato sea un poco más\nadecuado."
+        },
+        {
+            "name": "<username>",
+            "text": "H-haré lo mejor que pueda."
+        },
+        {
+            "name": "Monologue",
+            "text": "Al día siguiente. Rice se devuelve<n>al entrenamiento con un vigor<n>\nrenovado."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Haa, haa...</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Solo siguela, solo siguela..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Ooh! ¡Se está manteniendo!"
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "McQueen sigue subiendo el ritmo,<n>pero Rice no se aleja."
+        },
+        {
+            "name": "<username>",
+            "text": "Esto pasa cuando tienes un claro<n>objetivo para ti. Te ayuda a\nsacar<n>lo mejor de ti."
+        },
+        {
+            "name": "<username>",
+            "text": "Esto pasa cuando tienes un claro<n>objetivo para ti. Te ayuda a\nsacar<n>lo mejor de ti."
+        },
+        {
+            "name": "<username>",
+            "text": "Especialmente en su caso,<n>pareciera."
+        },
+        {
+            "name": "<username>",
+            "text": "Especialmente en su caso,<n>pareciera."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Por un objetivo claro, ¿Te refieres<n>a McQueen? ¿O a Mihono\nBourbon?"
+        },
+        {
+            "name": "<username>",
+            "text": "No solo ellas. Cuando Rice pone su<n>mente en algo, ella nunca se\nrinde<n>en eso—no importa lo que sea."
+        },
+        {
+            "name": "<username>",
+            "text": "No solo ellas. Cuando Rice pone su<n>mente en algo, ella nunca se\nrinde<n>en eso—no importa lo que sea."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eh-huh. Entiendo."
+        },
+        {
+            "name": "Monologue",
+            "text": "A este paso, ella podrá dar su<n>mejor rendimiento hasta ahora en su<n>\nrevancha contra Bourbon."
+        },
+        {
+            "name": "Monologue",
+            "text": "El entrenamiento le hará bien a<n>McQueen también, que tiene el<n>\nTakarazuka Kinen en camino."
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice parece elevar aún mas al<n>equipo. Pero a veces, la realidad<n>te\ntira hacia abajo."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡¿McQueen?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Su llanto desesperado hace eco en<n>la pista..."
         }
     ]
 }

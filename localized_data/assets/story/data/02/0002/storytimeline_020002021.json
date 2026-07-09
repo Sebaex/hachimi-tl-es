@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "Bien, creo que eso es todo por hoy... ¿Mm?"
+            "text": "Bien, creo que eso es todo por<n>hoy... ¿Mm?"
         },
         {
             "name": "<username>",
@@ -11,7 +11,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No, pero parece que tenemos una espectadora."
+            "text": "No, pero parece que tenemos una<n>espectadora."
         },
         {
             "name": "Rice Shower",
@@ -23,15 +23,15 @@
         },
         {
             "name": "<username>",
-            "text": "Nop. Pero si recuerdo correctamente..."
+            "text": "Nop. Pero si recuerdo<n>correctamente..."
         },
         {
             "name": "Gold Ship",
-            "text": "Fiu. ¡Otro día honesto de trabajo! Y ahora, el evento que todas\nestabamos esperando—¡Enrollar a McQueen!"
+            "text": "Fiu. ¡Otro día honesto de trabajo!<n>Y ahora, el evento que todas<n>\nestabamos esperando—¡Enrollar a<n>McQueen!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡¿Disculpame?! ¡Pero que nombre tan horroroso! Sea lo que sea, ¡<i>no</i>\nlo vamos a hacer!"
+            "text": "¡¿Disculpame?! ¡Pero que nombre tan<n>horroroso! Sea lo que sea,<n>\n¡<i>no</i> lo vamos a hacer!"
         },
         {
             "name": "Gold Ship",
@@ -43,7 +43,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Yo no la <i>conocía</i>, pero la había visto por ahí. Ella siempre es la\núltima practicando."
+            "text": "Yo no la <i>conocía</i>, pero la<n>había visto por ahí. Ella siempre<n>\nes la última practicando."
         },
         {
             "name": "Rice Shower",
@@ -51,7 +51,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Y allí estaba de nuevo, corriendo y corriendo, ella sola."
+            "text": "Y allí estaba de nuevo, corriendo y<n>corriendo, ella sola."
         },
         {
             "name": "Rice Shower",
@@ -67,11 +67,11 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Tanto correr, y nadie para mostrarselo..."
+            "text": "Tanto correr, y nadie para<n>mostrarselo..."
         },
         {
             "name": "Monologue",
-            "text": "Era como ver a McQueen todo de nuevo, entrenando para el\nTenno Sho como si su vida dependiera de eso."
+            "text": "Era como ver a McQueen todo de<n>nuevo, entrenando para el Tenno Sho<n>\ncomo si su vida dependiera de eso."
         },
         {
             "name": "<username>",
@@ -83,19 +83,19 @@
         },
         {
             "name": "Rice Shower",
-            "text": "¿Ah? Oh... Tu eres el entrenador de McQueen..."
+            "text": "¿Ah? Oh... Tu eres el entrenador de<n>McQueen..."
         },
         {
             "name": "<username>",
-            "text": "No deberías de aguantar los dolores. No si quieres ganar tu próxima\ncarrera."
+            "text": "No deberías de aguantar los<n>dolores. No si quieres ganar tu<n>\npróxima carrera."
         },
         {
             "name": "<username>",
-            "text": "No deberías de aguantar los dolores. No si quieres ganar tu próxima\ncarrera."
+            "text": "No deberías de aguantar los<n>dolores. No si quieres ganar tu<n>\npróxima carrera."
         },
         {
             "name": "<username>",
-            "text": "Es molesto que no puedas hacer más <i>ahora,</i> lo se. Pero solo mantén\nese sentimiento, y te llevará donde están las ganadoras."
+            "text": "Es molesto que no puedas hacer más<n><i>ahora,</i> lo se. Pero solo<n>\nmantén ese sentimiento, y te<n>llevará donde están las ganadoras."
         },
         {
             "name": "Rice Shower",
@@ -103,11 +103,11 @@
         },
         {
             "name": "<username>",
-            "text": "Woa, eh... No creas que te lesionaste tan mal."
+            "text": "Woa, eh... No creas que te<n>lesionaste tan mal."
         },
         {
             "name": "<username>",
-            "text": "Woa, eh... No creas que te lesionaste tan mal."
+            "text": "Woa, eh... No creas que te<n>lesionaste tan mal."
         },
         {
             "name": "Rice Shower",
@@ -115,7 +115,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Me encanta correr... pero no pareciera que puedo ganar. Y cuando veo\na McQueen correr—"
+            "text": "Me encanta correr... pero no<n>pareciera que puedo ganar. Y cuando<n>\nveo a McQueen correr—"
         },
         {
             "name": "Rice Shower",
@@ -123,7 +123,7 @@
         },
         {
             "name": "Monologue",
-            "text": "\"Yo quiero ganar.\" Es facil decir esas palabras una vez. Pero para\nRice Shower eran un mantra."
+            "text": "\"Yo quiero ganar.\" Es facil decir<n>esas palabras una vez. Pero para<n>\nRice Shower eran un mantra."
         },
         {
             "name": "Rice Shower",
@@ -131,11 +131,11 @@
         },
         {
             "name": "<username>",
-            "text": "Se que puedes hacerlo. Te he visto correr más que nadie."
+            "text": "Se que puedes hacerlo. Te he visto<n>correr más que nadie."
         },
         {
             "name": "<username>",
-            "text": "Se que puedes hacerlo. Te he visto correr más que nadie."
+            "text": "Se que puedes hacerlo. Te he visto<n>correr más que nadie."
         },
         {
             "name": "Rice Shower",
@@ -143,11 +143,11 @@
         },
         {
             "name": "Monologue",
-            "text": "No puedo hecharle la culpa por ser intimidada. El Derby trae a las\ncontrincantes más fuertes de acá."
+            "text": "No puedo hecharle la culpa por ser<n>intimidada. El Derby trae a las<n>\ncontrincantes más fuertes de acá."
         },
         {
             "name": "Monologue",
-            "text": "Aún así, Rice tiene las piernas para mantenerse con McQueen. Y lo\nmás importante...",
+            "text": "Aún así, Rice tiene las piernas<n>para mantenerse con McQueen. Y lo<n>\nmás importante...",
             "choice_data_list": [
                 "Todavía quieres ganar, ¿no?"
             ]
@@ -158,11 +158,11 @@
         },
         {
             "name": "<username>",
-            "text": "Esa ambición es la que lleva al trabajo duro. Y el trabajo duro es el que\nlleva a la confianza."
+            "text": "Esa ambición es la que lleva al<n>trabajo duro. Y el trabajo duro es<n>\nel que lleva a la confianza."
         },
         {
             "name": "<username>",
-            "text": "¿Así que qué dices? ¡El Derby llama!"
+            "text": "¿Así que qué dices? ¡El Derby<n>llama!"
         },
         {
             "name": "Rice Shower",
@@ -170,40 +170,39 @@
         },
         {
             "name": "Monologue",
-            "text": "Tomó insistir un poco, pero ella tomó el primer paso hacia ese gran\nmundo que la espera."
+            "text": "Tomó insistir un poco, pero ella<n>tomó el primer paso hacia ese\ngran<n>mundo que la espera."
         },
         {
             "name": "Rice Shower",
-            "text": "¿Así que todo lo que tengo que hacer es seguir a McQueen?"
+            "text": "¿Así que todo lo que tengo que<n>hacer es seguir a McQueen?"
         },
         {
             "name": "<username>",
             "text": "Sip. Solo sigue al lider, sí o sí."
         },
-        {},
         {
             "name": "Mejiro McQueen",
-            "text": "Dentro de las contendientes del Derby de este año, hay una clara\nfavorita: la invicta Mihono Bourbon."
+            "text": "Dentro de las contendientes del<n>Derby de este año, hay una clara<n>\nfavorita: la invicta Mihono<n>Bourbon."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ella toma el liderato y coloca un ritmo preciso, tal como una maquina.\nEs todo una maravilla verlo."
+            "text": "Ella toma el liderato y coloca un<n>ritmo preciso, tal como una<n>\nmaquina. Es todo una maravilla<n>verlo."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Si quieres llegar a ella, primero necesitas poder mantenerte conmigo."
+            "text": "Si quieres llegar a ella, primero<n>necesitas poder mantenerte\nconmigo."
         },
         {
             "name": "Rice Shower",
-            "text": "...Ok. Haré mi mejor esfuerzo para no quedarme atrás."
+            "text": "...Ok. Haré mi mejor esfuerzo para<n>no quedarme atrás."
         },
         {
             "name": "Monologue",
-            "text": "No es facil, mantener la distancia perfecta para perseguir. Necesita\ntanto resistencia y concentración, en especial contra alguien como\nMcQueen."
+            "text": "No es facil, mantener la distancia<n>perfecta para perseguir.\nNecesita<n>tanto resistencia y concentración,<n>en especial contra\nalguien como<n>McQueen."
         },
         {
             "name": "Monologue",
-            "text": "Rice tiene una dificil comienzo, quedandose atrás una y otra vez, pero\nse mantiene. Y luego de unos cuantos días..."
+            "text": "Rice tiene una dificil comienzo,<n>quedandose atrás una y otra vez,<n>\npero se mantiene. Y luego de unos<n>cuantos días..."
         },
         {
             "name": "Mejiro McQueen",
@@ -215,11 +214,11 @@
         },
         {
             "name": "Gold Ship",
-            "text": "¡Oye, mira! ¡No te quedaste atrás ninguna vez hoy!"
+            "text": "¡Oye, mira! ¡No te quedaste atrás<n>ninguna vez hoy!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Bien hecho. Esa resistencia te servirá bastante.",
+            "text": "Bien hecho. Esa resistencia te<n>servirá bastante.",
             "choice_data_list": [
                 "¡Así tal cual! ¡Así es como ganarás el Derby!"
             ]
@@ -270,19 +269,19 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Vas a dormir a mi lado de nuevo? No estoy segura de si seguirme\n<i>a todos lados</i> te beneficiará en algo..."
+            "text": "¿Vas a dormir a mi lado de nuevo?<n>No estoy segura de si seguirme\n<i>a<n>todos lados</i> te beneficiará en<n>algo..."
         },
         {
             "name": "Rice Shower",
-            "text": "P-pero el Entrenador dijo que te siguiera, sin importarlo."
+            "text": "P-pero el Entrenador dijo que te<n>siguiera, sin importarlo."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "(...Eso claramente no es lo que el Entrenador tenía en mente.)"
+            "text": "(...Eso claramente no es lo que el<n>Entrenador tenía en mente.)"
         },
         {
             "name": "Monologue",
-            "text": "Después de varios días de incesante entrenamiento, la destacada\nde la Twinkle Series, el Japanese Derby, finalmente está aquí."
+            "text": "Después de varios días de incesante<n>entrenamiento, la destacada de\nla<n>Twinkle Series, el Japanese Derby,<n>finalmente está aquí."
         }
     ]
 }

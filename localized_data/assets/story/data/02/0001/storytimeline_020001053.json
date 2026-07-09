@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "<username>",
-            "text": "McQueen, ¡Esa carrera fue increíble! ¡Felicitaciones!"
+            "text": "McQueen, ¡Esa carrera fue<n>increíble! ¡Felicitaciones!"
         },
         {
             "name": "Mejiro McQueen",
@@ -23,35 +23,35 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Los pasillos de las Mejiro están adornadas con incontables victorias—¡Y\nfinalmente gané una placa propia!"
+            "text": "Los pasillos de las Mejiro están<n>adornadas con incontables<n>\nvictorias—¡Y finalmente gané una<n>placa propia!"
         },
         {
             "name": "Monólogo",
-            "text": "No me esperaba semejante muestra de felicidad de la siempre\nprudente McQueen."
+            "text": "No me esperaba semejante muestra de<n>felicidad de la siempre\nprudente<n>McQueen."
         },
         {
             "name": "Monólogo",
-            "text": "Está claro lo mucho que esta carrera significaba para ella, y por eso sintió\ntanta presión para ganarla."
+            "text": "Está claro lo mucho que esta<n>carrera significaba para ella, y<n>por\neso sintió tanta presión para<n>ganarla."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Me disculpo, perdí mi compostura. Aunque, yo <i>creo</i> que me gané\nun poco de júbilo."
+            "text": "Me disculpo, perdí mi compostura.<n>Aunque, yo <i>creo</i> que me\ngané<n>un poco de júbilo."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Para añadir, quiero agradecerte por ayudarme a alcanzar este resultado."
+            "text": "Para añadir, quiero agradecerte por<n>ayudarme a alcanzar este\nresultado."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Y pensar que dedicarías todos tus esfuerzos solo para mí...\nEstoy muy agradecida"
+            "text": "Y pensar que dedicarías todos tus<n>esfuerzos solo para mí... Estoy\nmuy<n>agradecida"
         },
         {
             "name": "Monólogo",
-            "text": "Yo debería ser el que diera todas las gracias. Colocaste tu fe en un entrenador\nnovato como yo, ¡Y entregaste una increíble victoria!"
+            "text": "Yo debería ser el que diera todas<n>las gracias. Colocaste tu fe en\nun<n>entrenador novato como yo, ¡Y<n>entregaste una increíble victoria!"
         },
         {
             "name": "Monólogo",
-            "text": "...Eso sí, si fuera a decirle eso ahora, seguramente me regañaría por\nmi falta de confianza.",
+            "text": "...Eso sí, si fuera a decirle eso<n>ahora, seguramente me regañaría\npor<n>mi falta de confianza.",
             "choice_data_list": [
                 "¡Una increíble victoria para el Equipo Sirius!",
                 "¡Una increíble victoria para el Equipo Sirius!"
@@ -59,11 +59,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Jeje, sí. ¡Aprovechemos de agarrarnos hacia donde el camino nos lleve!"
+            "text": "Jeje, sí. ¡Aprovechemos de<n>agarrarnos hacia donde el camino<n>nos\nlleve!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ahora, voy a hacer un concierto de victoria para recordar. ¡Si eso es lo menos\nque puedo hacer para agradecer a todos los que me apoyaron!"
+            "text": "Ahora, voy a hacer un concierto de<n>victoria para recordar. ¡Si eso\nes<n>lo menos que puedo hacer para<n>agradecer a todos los que me<n>\napoyaron!"
         }
     ]
 }

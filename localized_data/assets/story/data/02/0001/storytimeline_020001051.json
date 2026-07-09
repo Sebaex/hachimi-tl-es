@@ -3,36 +3,36 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Así como el Tenno Sho de Primavera se acerca, el régimen de entrenamiento\nde Mejiro McQueen se intensifica."
+            "text": "Así como el Tenno Sho de Primavera<n>se acerca, el régimen de<n>\nentrenamiento de Mejiro McQueen se<n>intensifica."
         },
         {
-            "text": "<i>Haah, haah, haah...</i> Creo que estoy mejorando en controlar mi\nrespiración."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Bueno, eso nos lleva al final del régimen de hoy. ¿Tienes algo más\npara mí?"
+            "text": "<i>Haah, haah, haah...</i> Creo que<n>estoy mejorando en controlar\nmi<n>respiración."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Solo para que sepas, tengo bastante energía restante."
+            "text": "Bueno, eso nos lleva al final del<n>régimen de hoy. ¿Tienes algo más<n>\npara mí?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Solo para que sepas, tengo bastante<n>energía restante."
         },
         {
             "name": "Monólogo",
-            "text": "Parece que un poco más no dolerá. Voy a dejarle como ella quiera.",
+            "text": "Parece que un poco más no dolerá.<n>Voy a dejarle como ella quiera.",
             "choice_data_list": [
                 "Bueno, intentémoslo otra vez."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Parece que un poco más no dolerá. Voy a dejarle como ella quiera.",
+            "text": "Parece que un poco más no dolerá.<n>Voy a dejarle como ella quiera.",
             "choice_data_list": [
                 "Bueno, intentémoslo otra vez."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Jeje, claro. Es muy temprano para detenerse hoy."
+            "text": "Jeje, claro. Es muy temprano para<n>detenerse hoy."
         },
         {
             "name": "Mejiro McQueen",
@@ -40,59 +40,62 @@
         },
         {
             "name": "Monólogo",
-            "text": "Aunque parezca extraño, esto se siente como la primera vez que\nMcQueen y yo estamos realmente entrenando <i>juntos.</i>"
+            "text": "Aunque parezca extraño, esto se<n>siente como la primera vez que<n>\nMcQueen y yo estamos realmente<n>entrenando <i>juntos.</i>"
         },
         {
             "name": "Monólogo",
-            "text": "Supongo que el compartir el mismo objetivo ayuda a seguir adelante."
+            "text": "Supongo que el compartir el mismo<n>objetivo ayuda a seguir\nadelante."
         },
         {
             "name": "Monólogo",
-            "text": "Supongo que el compartir el mismo objetivo ayuda a seguir adelante."
+            "text": "Supongo que el compartir el mismo<n>objetivo ayuda a seguir\nadelante."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "¡Oye, Entrenador! ¡McQueen se ve mejor que nunca!"
+            "text": "¡Oye, Entrenador! ¡McQueen se ve<n>mejor que nunca!"
         },
         {
             "name": "<username>",
             "text": "Hola, Ryan."
         },
-        {},
         {
-            "name": "Monólogo",
-            "text": "Mejiro Ryan sonríe bastante, como si le hubieran sacado un buen peso\nde sus hombros."
+            "name": "<username>",
+            "text": "Hola, Ryan."
         },
         {
             "name": "Monólogo",
-            "text": "El ánimo de McQueen sin duda mejoró gracias al consejo de Ryan."
+            "text": "Mejiro Ryan sonríe bastante, como<n>si le hubieran sacado un buen\npeso<n>de sus hombros."
+        },
+        {
+            "name": "Monólogo",
+            "text": "El ánimo de McQueen sin duda mejoró<n>gracias al consejo de Ryan."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ahora que mi rival está de vuelta en el juego, ¡Parece que tendré que\naumentar mi propio nivel de preparación para el Tenno Sho a un 200%!",
+            "text": "Ahora que mi rival está de vuelta<n>en el juego, ¡Parece que tendré\nque<n>aumentar mi propio nivel de<n>preparación para el Tenno Sho a un<n>\n200%!",
             "choice_data_list": [
                 "Gracias, Ryan."
             ]
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Jejeje, ¡Ni lo menciones! Ahh, estoy agradecida de haber hablado contigo\nsobre eso."
+            "text": "Jejeje, ¡Ni lo menciones! Ahh,<n>estoy agradecida de haber hablado<n>\ncontigo sobre eso."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Realmente estoy esperando el día de la carrera. ¡Pero que sepas que yo\nseré la que se traiga la victoria a la casa!"
+            "text": "Realmente estoy esperando el día de<n>la carrera. ¡Pero que sepas\nque yo<n>seré la que se traiga la victoria a<n>la casa!"
         },
         {
             "name": "Monólogo",
-            "text": "El Tenno Sho de Primavera toma la forma de una carrera que no\nolvidaremos en mucho tiempo. Tengo que asegurarme que McQueen\nesté en las mejores condiciones."
+            "text": "El Tenno Sho de Primavera toma la<n>forma de una carrera que no<n>\nolvidaremos en mucho tiempo. Tengo<n>que asegurarme que McQueen esté\nen<n>las mejores condiciones."
         },
         {
             "name": "Monólogo",
-            "text": "El Tenno Sho de Primavera toma la forma de una carrera que no\nolvidaremos en mucho tiempo. Tengo que asegurarme que McQueen\nesté en las mejores condiciones."
+            "text": "El Tenno Sho de Primavera toma la<n>forma de una carrera que no<n>\nolvidaremos en mucho tiempo. Tengo<n>que asegurarme que McQueen esté\nen<n>las mejores condiciones."
         },
         {
             "name": "Monólogo",
-            "text": "Los próximos días pasan volando. El día del Tenno Sho de primavera\nya está encima."
+            "text": "Los próximos días pasan volando. El<n>día del Tenno Sho de primavera\nya<n>está encima."
         },
         {
             "name": "Mejiro McQueen",
@@ -104,11 +107,11 @@
         },
         {
             "name": "<username>",
-            "text": "¿Que estás pensando en comer después de tu victoria?"
+            "text": "¿Que estás pensando en comer<n>después de tu victoria?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Hm? Ah, sí. Bueno... Como estamos en Kyoto, algo típico de Kyoto."
+            "text": "¿Hm? Ah, sí. Bueno... Como estamos<n>en Kyoto, algo típico de Kyoto."
         },
         {
             "name": "<username>",
@@ -120,7 +123,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Entrenador... Eres <i>horripilante</i> para aligerar el ánimo."
+            "text": "Entrenador... Eres<n><i>horripilante</i> para aligerar<n>el ánimo."
         },
         {
             "name": "<username>",
@@ -128,26 +131,26 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Vamos, ubícate. Eso es algo que tú ya deberías saber cómo entrenador."
+            "text": "Vamos, ubícate. Eso es algo que tú<n>ya deberías saber cómo\nentrenador."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Me estoy comenzando a preocupar de\nmis nervios revienten y me desgasten."
+            "text": "Me estoy comenzando a preocupar de<n>mis nervios revienten y me<n>\ndesgasten."
         },
         {
             "name": "Monólogo",
-            "text": "En esa clase de momentos que me gustaría tener la personalidad\nsociable de mi mentor."
+            "text": "En esa clase de momentos que me<n>gustaría tener la personalidad<n>\nsociable de mi mentor."
         },
         {
             "name": "Monólogo",
-            "text": "Puede que no sea tan bueno ayudando a mi aprendiz a relajarse, pero...",
+            "text": "Puede que no sea tan bueno ayudando<n>a mi aprendiz a relajarse,\npero...",
             "choice_data_list": [
                 "Te voy a animar el doble de fuerte para compensarlo."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Puede que no sea tan buena ayudando a mi aprendiz a relajarse, pero...",
+            "text": "Puede que no sea tan buena ayudando<n>a mi aprendiz a relajarse,\npero...",
             "choice_data_list": [
                 "Te voy a animar el doble de fuerte para compensarlo."
             ]
@@ -158,14 +161,14 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Mi sueño se oculta justo en frente de mis ojos. Todo lo que queda es\nsalir y tomarlo.",
+            "text": "Mi sueño se oculta justo en frente<n>de mis ojos. Todo lo que queda\nes<n>salir y tomarlo.",
             "choice_data_list": [
                 "¡Buena suerte ahí fuera, McQueen!"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Gracias! ¡Volveré de vuelta con trofeo en mano!"
+            "text": "¡Gracias! ¡Volveré de vuelta con<n>trofeo en mano!"
         }
     ]
 }
