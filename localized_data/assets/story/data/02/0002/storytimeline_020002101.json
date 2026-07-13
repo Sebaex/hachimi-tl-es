@@ -3,115 +3,115 @@
     "text_block_list": [
         {
             "name": "Relatora",
-            "text": "¡Es Rice Shower! ¡Rice Shower no retrocedió! ¡Un final perfecto en primer lugar!"
+            "text": "¡Es Rice Shower! ¡Rice Shower no<n>retrocedió! ¡Un final perfecto en<n>\nprimer lugar!"
         },
         {
-            "name": "Monologue",
-            "text": "Con el Tenno Sho a la vuelta de la esquina, Rice corre como su antigua ella otra vez en el Nikkei Sho."
+            "name": "Monólogo",
+            "text": "Con el Tenno Sho a la vuelta de la<n>esquina, Rice corre como su\nantigua<n>ella otra vez en el Nikkei Sho."
         },
         {
-            "name": "Monologue",
-            "text": "Y como si fuera impulsada por esa ejecución, McQueen se toma el Osaka Hai con record de pista."
+            "name": "Monólogo",
+            "text": "Y como si fuera impulsada por esa<n>ejecución, McQueen se toma el\nOsaka<n>Hai con récord de pista."
         },
         {
-            "name": "Monologue",
-            "text": "Ambas han estado entrenando más duro que nunca, empujandose una a la otra a nuevas alturas."
+            "name": "Monólogo",
+            "text": "Ambas han estado entrenando más<n>duro que nunca, empujándose una a<n>\nla otra a nuevas alturas."
         },
         {
-            "name": "Monologue",
-            "text": "Y en poco tiempo, llega el día del Tenno Sho."
+            "name": "Monólogo",
+            "text": "Y en poco tiempo, llega el día del<n>Tenno Sho."
         },
         {
             "name": "Relatora",
-            "text": "En la sección dos, partidor tres, está la stayer del sable que le denegó a Mihono Bourbon su Triple Corona—¡Rice Shower!"
+            "text": "En la sección dos, partidor tres,<n>está la stayer del sable que le<n>\ndenegó a Mihono Bourbon su Triple<n>Corona—¡Rice Shower!"
         },
         {
             "name": "Rice Shower",
-            "text": "Solo sigue a McQueen... Solo siguela..."
+            "text": "Solo sigue a McQueen... Solo<n>síguela..."
         },
         {
-            "name": "Monologue",
-            "text": "Sin inmutarse por la gran multitud ante ella, Rice fija su mirada en McQueen."
+            "name": "Monólogo",
+            "text": "Sin inmutarse por la gran multitud<n>ante ella, Rice fija su mirada\nen<n>McQueen."
         },
         {
-            "name": "Monologue",
-            "text": "Ella quiere ganar contra su rival más que cualquier cosa. Sus ojos me lo dicen."
+            "name": "Monólogo",
+            "text": "Ella quiere ganar contra su rival<n>más que cualquier cosa. Sus ojos\nme<n>lo dicen."
         },
         {
-            "name": "Monologue",
-            "text": "Mientras tanto, la favorita de la multitud es, por supuesto..."
+            "name": "Monólogo",
+            "text": "Mientras tanto, la favorita de la<n>multitud es, por supuesto..."
         },
         {
             "name": "Relatora",
-            "text": "En la sección ocho, partidor catorce, la favorita de hoy con un tercer Tenno Sho de primavera seguido en juego, es la reina en persona—¡Mejiro McQueen!"
+            "text": "En la sección ocho, partidor<n>catorce, la favorita de hoy con un<n>\ntercer Tenno Sho de primavera<n>seguido en juego, es la reina en<n>\npersona—¡Mejiro McQueen!"
         },
         {
             "name": "Fans",
             "text": "<i>¡Wooo!</i>"
         },
         {
-            "name": "Monologue",
-            "text": "La fanfarria más fuerte del día resuena para ella, pero McQueen parece no escuchar."
+            "name": "Monólogo",
+            "text": "La fanfarria más fuerte del día<n>resuena para ella, pero McQueen<n>\nparece no escuchar."
         },
         {
-            "name": "Monologue",
-            "text": "Como su rival, está concentrada en una cosa, y en solo una cosa—la victoria."
-        },
-        {
-            "name": "<username>",
-            "text": "La multitúd esta emocionada de verte."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Oh, Entrenador. ¿No deberías ir a revisar a Rice?"
+            "name": "Monólogo",
+            "text": "Como su rival, está concentrada en<n>una cosa, y en solo una cosa—la<n>\nvictoria."
         },
         {
             "name": "<username>",
-            "text": "Soy tu entrenador también, tu sabes."
+            "text": "La multitud esta emocionada de<n>verte."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Heh. Y tengo suerte de tener uno tan ejemplar. Pero por favor, ve a ver como ella está."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Después de todo ese entrenamiento, estoy segura que armó suficiente confianza, pero ella aún así debe estar sintiendose ansiosa."
+            "text": "Oh, Entrenador. ¿No deberías ir a<n>revisar a Rice?"
         },
         {
             "name": "<username>",
-            "text": "<i>Yo</i> tengo suerte de tener semejante representante ejemplar en mi equipo. Siempre preocupandose de otras, incluso un rival."
+            "text": "Soy tu entrenador también, tú<n>sabes."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Heh. Y tengo suerte de tener uno<n>tan ejemplar. Pero por favor, ve\na<n>ver como ella está."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Después de todo ese entrenamiento,<n>estoy segura de que armó\nsuficiente<n>confianza, pero ella aun así debe<n>estar sintiéndose\nansiosa."
         },
         {
             "name": "<username>",
-            "text": "<i>Yo</i> tengo suerte de tener semejante representante ejemplar en mi equipo. Siempre preocupandose de otras, incluso un rival."
+            "text": "<i>Yo</i> tengo suerte de tener<n>semejante representante ejemplar\nen<n>mi equipo. Siempre preocupándose de<n>otras, incluso un rival."
+        },
+        {
+            "name": "<username>",
+            "text": "<i>Yo</i> tengo suerte de tener<n>semejante representante ejemplar\nen<n>mi equipo. Siempre preocupándose de<n>otras, incluso un rival."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Por ahora, si. Allí en el pasto, no puedo garantizar nada."
+            "text": "Por ahora, sí. Allí en el pasto, no<n>puedo garantizar nada."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Voy a poner todo lo que tengo en esta carrera. No me voy a limitar."
+            "text": "Voy a poner todo lo que tengo en<n>esta carrera. No me voy a\nlimitar."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "La multitud espera ver el nacimiento de una triple campeona del Tenno Sho. Y sus esperanzas me dan fuerzas."
+            "text": "La multitud espera ver el<n>nacimiento de una triple campeona<n>del\nTenno Sho. Y sus esperanzas me<n>dan fuerzas."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Yo <i>seré</i> la primera que cruce esa linea de meta."
+            "text": "Yo <i>seré</i> la primera que cruce<n>esa línea de meta."
         },
         {
-            "name": "Monologue",
-            "text": "No puedo detectar ni una pizca de duda en sus ojos. Ella dice en serio cada palabra."
+            "name": "Monólogo",
+            "text": "No puedo detectar ni una pizca de<n>duda en sus ojos. Ella dice en<n>\nserio cada palabra."
         },
         {
             "name": "Mejiro McQueen",
             "text": "Obvio. No decepcionaré."
         },
         {
-            "name": "Monologue",
-            "text": "Después de hablar con McQueen, voy trotando hacia Rice Shower."
+            "name": "Monólogo",
+            "text": "Después de hablar con McQueen, voy<n>trotando hacia Rice Shower."
         },
         {
             "name": "Rice Shower",
@@ -119,58 +119,67 @@
         },
         {
             "name": "<username>",
-            "text": "¿Nerviosa? El truco es escribir \"Umamusume\" en tu palma y tragarte la palabra tres veces."
+            "text": "¿Nerviosa? El truco es escribir<n>\"Umamusume\" en tu palma y tragarte<n>\nla palabra tres veces."
         },
         {
             "name": "<username>",
-            "text": "¿Nerviosa? El truco es escribir \"Umamusume\" en tu palma y tragarte la palabra tres veces."
+            "text": "¿Nerviosa? El truco es escribir<n>\"Umamusume\" en tu palma y tragarte<n>\nla palabra tres veces."
         },
         {
             "name": "Rice Shower",
-            "text": "Jejejeje. Nunca había escuchado eso antes."
+            "text": "Jejejeje. Nunca había escuchado eso<n>antes."
         },
         {
             "name": "Rice Shower",
-            "text": "De hecho, no estoy tan nerviosa. Es solo que... tengo un poco de miedo."
+            "text": "De hecho, no estoy tan nerviosa. Es<n>solo que... tengo un poco de\nmiedo."
         },
         {
             "name": "Rice Shower",
-            "text": "Tanta gente apoyando a McQueen. Se lo mucho que la quieren ver ganar su tercer Tenno Sho."
+            "text": "Tanta gente apoyando a McQueen. Se<n>lo mucho que la quieren ver\nganar su<n>tercer Tenno Sho."
         },
         {
             "name": "Rice Shower",
-            "text": "Si gano, todos estarán decepcionados. Estarán enojados conmigo por ponerme en el camino."
+            "text": "Si gano, todos estarán<n>decepcionados. Estarán enojados<n>conmigo por\nponerme en el camino."
         },
         {
             "name": "<username>",
-            "text": "El hecho de que estés preocupada me dice que estas acá para ganar."
+            "text": "El hecho de que estés preocupada me<n>dice que estas acá para ganar."
         },
         {
             "name": "Rice Shower",
             "text": "...Seh. Todavía quiero ganar."
         },
         {
-            "name": "Monologue",
-            "text": "Su expresión me recuerda a McQueen de recien. Pura determinación."
+            "name": "Monólogo",
+            "text": "Su expresión me recuerda a McQueen<n>de recién. Pura determinación."
         },
         {
             "name": "<username>",
-            "text": "Sabes, fue McQueen la que me recomendó que corrieras en el Tenno Sho."
+            "text": "Sabes, fue McQueen la que me<n>recomendó que corrieras en el Tenno<n>\nSho."
         },
-        {},
+        {
+            "name": "<username>",
+            "text": "Sabes, fue McQueen la que me<n>recomendó que corrieras en el Tenno<n>\nSho."
+        },
         {
             "name": "Rice Shower",
             "text": "¿McQueen?"
         },
         {
             "name": "<username>",
-            "text": "Aparentemente, ella quiere mostrarte algo—una vista que solo una gran corredora puede ver."
+            "text": "Aparentemente, ella quiere<n>mostrarte algo—una vista que solo<n>una\ngran corredora puede ver."
         },
-        {},
-        {},
+        {
+            "name": "<username>",
+            "text": "Aparentemente, ella quiere<n>mostrarte algo—una vista que solo<n>una\ngran corredora puede ver."
+        },
         {
             "name": "Rice Shower",
-            "text": "...Ok. Lo veré por mi misma",
+            "text": "¿Hay una... \"vista\" que ella quiere<n>que vea?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Ok. Lo veré por mí misma",
             "choice_data_list": [
                 "¡Ahora anda a ganar!",
                 "¡Ahora anda a ganar!"
@@ -182,11 +191,11 @@
         },
         {
             "name": "Relatora",
-            "text": "Se están arreglando en el partidor. El Tenno Sho de primavera—¿Quién se llevará la gloria?"
+            "text": "Se están arreglando en el partidor.<n>El Tenno Sho de\nprimavera—¿Quién se<n>llevará la gloria?"
         },
         {
             "name": "Rice Shower",
-            "text": "Solo sigue a McQueen... Siguela... Solo sigue a McQueen... Siguela... "
+            "text": "Solo sigue a McQueen... Síguela...<n>Solo sigue a McQueen...\nSíguela..."
         },
         {
             "name": "Mejiro McQueen",
@@ -194,15 +203,15 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "(Bueno... No estaba esperando sentir tanta presión por parte de Rice.)"
+            "text": "(Bueno... No estaba esperando<n>sentir tanta presión por parte de<n>\nRice.)"
         },
         {
             "name": "Relatora",
-            "text": "Oh, y aquí está la favorita, la posible triple ganadora Mejiro McQueen mostrando duda antes de entrar."
+            "text": "Oh, y aquí está la favorita, la<n>posible triple ganadora Mejiro<n>\nMcQueen mostrando duda antes de<n>entrar."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "(Aún así, soy una Mejiro, y la representante de nuestro equipo. Debo correr con todo lo que tengo.)"
+            "text": "(Aun así, soy una Mejiro, y la<n>representante de nuestro equipo.<n>\nDebo correr con todo lo que tengo.)"
         },
         {
             "name": "Mejiro McQueen",
@@ -210,11 +219,11 @@
         },
         {
             "name": "Relatora",
-            "text": "Y ahí está, Mejiro McQueen está en el partidor."
+            "text": "Y ahí está, Mejiro McQueen está en<n>el partidor."
         },
         {
             "name": "Relatora",
-            "text": "El Tenno Sho de primavera. La gloria está a 3.200. Y... ¡Partieron!"
+            "text": "El Tenno Sho de primavera. La<n>gloria está a 3.200. Y...<n>\n¡Partieron!"
         }
     ]
 }

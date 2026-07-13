@@ -1,5 +1,5 @@
 {
-    "title": "Sigue al lider",
+    "title": "Sigue al líder",
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
@@ -27,11 +27,11 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Fiu. ¡Otro día honesto de trabajo!<n>Y ahora, el evento que todas<n>\nestabamos esperando—¡Enrollar a<n>McQueen!"
+            "text": "Fiu. ¡Otro día honesto de trabajo!<n>Y ahora, el evento que todas<n>\nestábamos esperando—¡Enrollar a<n>McQueen!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡¿Disculpame?! ¡Pero que nombre tan<n>horroroso! Sea lo que sea,<n>\n¡<i>no</i> lo vamos a hacer!"
+            "text": "¡¿Discúlpame?! ¡Pero que nombre tan<n>horroroso! Sea lo que sea,<n>\n¡<i>no</i> lo vamos a hacer!"
         },
         {
             "name": "Gold Ship",
@@ -42,7 +42,7 @@
             "text": "..."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Yo no la <i>conocía</i>, pero la<n>había visto por ahí. Ella siempre<n>\nes la última practicando."
         },
         {
@@ -50,7 +50,7 @@
             "text": "<i>Haa, haa...</i>"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Y allí estaba de nuevo, corriendo y<n>corriendo, ella sola."
         },
         {
@@ -58,7 +58,7 @@
             "text": "<i>Haa, haa...</i> ¡Ah!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "<i>¡Pum!</i>"
         },
         {
@@ -67,10 +67,10 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Tanto correr, y nadie para<n>mostrarselo..."
+            "text": "Tanto correr, y nadie para<n>mostrárselo..."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Era como ver a McQueen todo de<n>nuevo, entrenando para el Tenno Sho<n>\ncomo si su vida dependiera de eso."
         },
         {
@@ -122,8 +122,8 @@
             "text": "Yo... ¡Yo también quiero ganar!"
         },
         {
-            "name": "Monologue",
-            "text": "\"Yo quiero ganar.\" Es facil decir<n>esas palabras una vez. Pero para<n>\nRice Shower eran un mantra."
+            "name": "Monólogo",
+            "text": "\"Yo quiero ganar.\" Es fácil decir<n>esas palabras una vez. Pero para<n>\nRice Shower eran un mantra."
         },
         {
             "name": "Rice Shower",
@@ -142,12 +142,12 @@
             "text": "P-pero... yo no estoy a ese nivel."
         },
         {
-            "name": "Monologue",
-            "text": "No puedo hecharle la culpa por ser<n>intimidada. El Derby trae a las<n>\ncontrincantes más fuertes de acá."
+            "name": "Monólogo",
+            "text": "No puedo echarle la culpa por ser<n>intimidada. El Derby trae a las<n>\ncontrincantes más fuertes de acá."
         },
         {
-            "name": "Monologue",
-            "text": "Aún así, Rice tiene las piernas<n>para mantenerse con McQueen. Y lo<n>\nmás importante...",
+            "name": "Monólogo",
+            "text": "Aun así, Rice tiene las piernas<n>para mantenerse con McQueen. Y lo<n>\nmás importante...",
             "choice_data_list": [
                 "Todavía quieres ganar, ¿no?"
             ]
@@ -169,7 +169,7 @@
             "text": "...O-ok. Lo intentaré."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Tomó insistir un poco, pero ella<n>tomó el primer paso hacia ese\ngran<n>mundo que la espera."
         },
         {
@@ -178,7 +178,7 @@
         },
         {
             "name": "<username>",
-            "text": "Sip. Solo sigue al lider, sí o sí."
+            "text": "Sip. Solo sigue al líder, sí o sí."
         },
         {
             "name": "Mejiro McQueen",
@@ -186,7 +186,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ella toma la delantera y coloca un<n>ritmo preciso, tal como una<n>\nmaquina. Es todo una maravilla<n>verlo."
+            "text": "Ella toma la delantera y coloca un<n>ritmo preciso, tal como una<n>\nmáquina. Es todo una maravilla<n>verlo."
         },
         {
             "name": "Mejiro McQueen",
@@ -197,12 +197,12 @@
             "text": "...Ok. Haré mi mejor esfuerzo para<n>no quedarme atrás."
         },
         {
-            "name": "Monologue",
-            "text": "No es facil, mantener la distancia<n>perfecta para perseguir.\nNecesita<n>tanto resistencia y concentración,<n>en especial contra\nalguien como<n>McQueen."
+            "name": "Monólogo",
+            "text": "No es fácil, mantener la distancia<n>perfecta para perseguir.\nNecesita<n>tanto resistencia y concentración,<n>en especial contra\nalguien como<n>McQueen."
         },
         {
-            "name": "Monologue",
-            "text": "Rice tiene una dificil comienzo,<n>quedandose atrás una y otra vez,<n>\npero se mantiene. Y luego de unos<n>cuantos días..."
+            "name": "Monólogo",
+            "text": "Rice tiene una difícil comienzo,<n>quedándose atrás una y otra vez,<n>\npero se mantiene. Y luego de unos<n>cuantos días..."
         },
         {
             "name": "Mejiro McQueen",
@@ -269,7 +269,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¿Vas a dormir a mi lado de nuevo?<n>No estoy segura de si seguirme\n<i>a<n>todos lados</i> te beneficiará en<n>algo..."
+            "text": "¿Vas a dormir a mi lado de nuevo?<n>No estoy segura de sí seguirme\n<i>a<n>todos lados</i> te beneficiará en<n>algo..."
         },
         {
             "name": "Rice Shower",
@@ -280,7 +280,7 @@
             "text": "(...Eso claramente no es lo que el<n>Entrenador tenía en mente.)"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Después de varios días de incesante<n>entrenamiento, la destacada de\nla<n>Twinkle Series, el Japanese Derby,<n>finalmente está aquí."
         }
     ]

@@ -3,15 +3,15 @@
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "El Tenno Sho de primavera el cual depende mi tercera victoria—Quiero que Rice esté ahí también."
+            "text": "El Tenno Sho de primavera el cual<n>depende mi tercera\nvictoria—Quiero<n>que Rice esté ahí también."
         },
         {
             "name": "<username>",
             "text": "Rice... ¿En el Tenno Sho?"
         },
         {
-            "name": "Monologue",
-            "text": "¿Por qué arriesgar el intento de hacer historia por dejar a otro contendiente fuerte entrar al campo?"
+            "name": "Monólogo",
+            "text": "¿Por qué arriesgar el intento de<n>hacer historia por dejar a otro<n>\ncontendiente fuerte entrar al<n>campo?"
         },
         {
             "name": "Mejiro McQueen",
@@ -19,38 +19,38 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "El denegarle la Triple Corona a Bourbon fue un logro digno de elogiar, y aún así las reacciones opuestas fueron las más fuertes."
+            "text": "El denegarle la Triple Corona a<n>Bourbon fue un logro digno de<n>\nelogiar, y aun así las reacciones<n>opuestas fueron las más fuertes."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Por mera casualidad, el interés en el Kikuka Sho se parece demasiado al Tenno Sho que viene ahora.",
+            "text": "Por mera casualidad, el interés en<n>el Kikuka Sho se parece\ndemasiado al<n>Tenno Sho que viene ahora.",
             "choice_data_list": [
                 "Así que quieres que Rice corra porque..."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Porque hay cierto punto de vista que quiero que ella vea."
+            "text": "Porque hay cierto punto de vista<n>que quiero que ella vea."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Algunas cosas solo se pueden enseñar por una querida corredora, y deseo tomar esa responsabilidad."
+            "text": "Algunas cosas solo se pueden<n>enseñar por una querida corredora,<n>y\ndeseo tomar esa responsabilidad."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Tu, Entrenador, tienes tu propia parte—poner a Rice en el Tenno Sho."
+            "text": "Tu, Entrenador, tienes tu propia<n>parte—poner a Rice en el Tenno\nSho."
         },
         {
-            "name": "Monologue",
-            "text": "La importancia de esta carrera para McQueen no puede ser subestimada."
+            "name": "Monólogo",
+            "text": "La importancia de esta carrera para<n>McQueen no puede ser\nsubestimada."
         },
         {
-            "name": "Monologue",
-            "text": "No hay duda de que lo pensó por bastante y por mucho antes de hacer esta solicitud."
+            "name": "Monólogo",
+            "text": "No hay duda de que lo pensó por<n>bastante y por mucho antes de\nhacer<n>esta solicitud."
         },
         {
-            "name": "Monologue",
-            "text": "¿Pero estará bien con esto? ¿No estará Rice ahí para distraerla mientras ella corre?",
+            "name": "Monólogo",
+            "text": "¿Pero estará bien con esto? ¿No<n>estará Rice ahí para distraerla<n>\nmientras ella corre?",
             "choice_data_list": [
                 "No puede que tengas una oportunidad para otro triplete. ¿Estás segura de esto?",
                 "No puede que tengas una oportunidad para otro triplete. ¿Estás segura de esto?"
@@ -58,23 +58,23 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Heh. Crees que voy a perder, ¿No? Me duele <i>bastante</i>."
+            "text": "Heh. Crees que voy a perder, ¿No?<n>Me duele <i>bastante</i>."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Para los registros, no tengo intención de perder. En mi orgullo como una Mejiro, yo <i>voy</i> a obtener mi tercer título consecutivo del Tenno Sho."
+            "text": "Para los registros, no tengo<n>intención de perder. En mi orgullo<n>\ncomo una Mejiro, yo <i>voy</i> a<n>obtener mi tercer título<n>\nconsecutivo del Tenno Sho."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Claramente tienes un trabajo dificil ante ti. No importa quien de nosotras gane, vas a tener que consolar a la otra."
+            "text": "Claramente tienes un trabajo<n>difícil ante ti. No importa quien<n>de\nnosotras gane, vas a tener que<n>consolar a la otra."
         },
         {
-            "name": "Monologue",
-            "text": "Ella muestra una sonrisa burlona, pero la próxima carrera es cualquier cosa menos diversion y juegos para ella."
+            "name": "Monólogo",
+            "text": "Ella muestra una sonrisa burlona,<n>pero la próxima carrera es<n>\ncualquier cosa menos diversión y<n>juegos para ella."
         },
         {
-            "name": "Monologue",
-            "text": "Si esta vista que quiere que Rice vea es tan importante para ella, ¿Entonces quien soy para decir que no?",
+            "name": "Monólogo",
+            "text": "Si esta vista que quiere que Rice<n>vea es tan importante para ella,<n>\n¿Entonces quién soy para decir que<n>no?",
             "choice_data_list": [
                 "Bueno, voy a hacer correr a Rice también.",
                 "Bueno, voy a hacer correr a Rice también."
@@ -82,39 +82,39 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Bien. Confío que cumplirás tu palabra."
+            "text": "Bien. Confío que cumplirás tu<n>palabra."
         },
         {
-            "name": "Monologue",
-            "text": "En el entrenamiento al día siguiente..."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Haa, haa...</i> Em, ¿Cómo estuvo mi tiempo?"
-        },
-        {
-            "name": "Monologue",
-            "text": "Sus tiempos no son malos. Pero cuando ella practica <i>contra</i> alguien, ella simplemente no puede ganar."
-        },
-        {
-            "name": "Monologue",
-            "text": "Los abucheos en el Kikuka Sho la han tenido timida en ser competitiva."
-        },
-        {
-            "name": "<username>",
-            "text": "Bueno. Podrás competir con las grandes ligas."
-        },
-        {
-            "name": "<username>",
-            "text": "Bueno. Podrás competir con las grandes ligas."
+            "name": "Monólogo",
+            "text": "En el entrenamiento al día<n>siguiente..."
         },
         {
             "name": "Rice Shower",
-            "text": "¿Las grandes ligas? ¿Ya decidiste mi próxima carrera?"
+            "text": "<i>Haa, haa...</i> Em, ¿Cómo estuvo<n>mi tiempo?"
         },
         {
-            "name": "Monologue",
-            "text": "A ella no le gustará la decisión. Pero si es para que ella gane de nuevo...",
+            "name": "Monólogo",
+            "text": "Sus tiempos no son malos. Pero<n>cuando ella practica <i>contra</i><n>\nalguien, ella simplemente no puede<n>ganar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Los abucheos en el Kikuka Sho la<n>han tenido tímida en ser<n>\ncompetitiva."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno. Podrás competir con las<n>grandes ligas."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno. Podrás competir con las<n>grandes ligas."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¿Las grandes ligas? ¿Ya decidiste<n>mi próxima carrera?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A ella no le gustará la decisión.<n>Pero si es para que ella gane de<n>\nnuevo...",
             "choice_data_list": [
                 "Correrás en el Tenno Sho de primavera.",
                 "Correrás en el Tenno Sho de primavera."
@@ -122,39 +122,39 @@
         },
         {
             "name": "Rice Shower",
-            "text": "...¿Qué? ¡¿El Tenno Sho de primavera?!"
+            "text": "...¿Qué? ¡¿El Tenno Sho de<n>primavera?!"
         },
         {
             "name": "<username>",
-            "text": "Tienes lo que pide. Lo demostraste en el Kikuka Sho."
+            "text": "Tienes lo que pide. Lo demostraste<n>en el Kikuka Sho."
         },
         {
             "name": "Rice Shower",
-            "text": "P-pero... McQueen tendrá su tercer Tenno Sho consecutivo en juego en esa carrera..."
+            "text": "P-pero... McQueen tendrá su tercer<n>Tenno Sho consecutivo en juego\nen<n>esa carrera..."
         },
         {
             "name": "Rice Shower",
-            "text": "Es <i>tan</i> importante para ella. No puedo competir. Incluso si gano, yo voy a..."
+            "text": "Es <i>tan</i> importante para ella.<n>No puedo competir. Incluso si\ngano,<n>yo voy a..."
         },
         {
-            "name": "Monologue",
-            "text": "Rice Shower se toma la cabeza como si pudiera escuchar de nuevo los abucheos."
+            "name": "Monólogo",
+            "text": "Rice Shower se toma la cabeza como<n>si pudiera escuchar de nuevo\nlos<n>abucheos."
         },
         {
-            "name": "Monologue",
-            "text": "La práctica termina sin que ella se decida por la carrera."
+            "name": "Monólogo",
+            "text": "La práctica termina sin que ella se<n>decida por la carrera."
         },
         {
-            "name": "Monologue",
-            "text": "No la voy a forzar a correr si es que ella no quiere, pero no puede andar así para siempre."
+            "name": "Monólogo",
+            "text": "No la voy a forzar a correr si es<n>que ella no quiere, pero no\npuede<n>andar así para siempre."
         },
         {
             "name": "Mihono Bourbon",
             "text": "¿Eres el entrenador de Rice?"
         },
         {
-            "name": "Monologue",
-            "text": "Mihono Bourbon interrumpe su entrenamiento para hablar conmigo."
+            "name": "Monólogo",
+            "text": "Mihono Bourbon interrumpe su<n>entrenamiento para hablar conmigo."
         },
         {
             "name": "<username>",
@@ -166,19 +166,19 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Si. Una lesión que tuve después del Kikuka Sho terminó de sanar."
+            "text": "Si. Una lesión que tuve después del<n>Kikuka Sho terminó de sanar."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "¿Como le va a Rice? ¿Todavía sigue enganchada con lo que pasó?"
+            "text": "¿Como le va a Rice? ¿Todavía sigue<n>enganchada con lo que pasó?"
         },
         {
-            "name": "Monologue",
-            "text": "Bourbon también estaba en el escenario, justo al lado de Rice."
+            "name": "Monólogo",
+            "text": "Bourbon también estaba en el<n>escenario, justo al lado de Rice."
         },
         {
-            "name": "Monologue",
-            "text": "Ella vió de primeras cuanto daño le hizo el abucheo.",
+            "name": "Monólogo",
+            "text": "Ella vio de primeras cuanto daño le<n>hizo el abucheo.",
             "choice_data_list": [
                 "Ella... no ha vuelto a ser como era.",
                 "Ella... no ha vuelto a ser como era."
@@ -190,43 +190,43 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Yo entreno horas extra así no por alguna directiva para alcanzar la victoria, si no porque yo quiero."
+            "text": "...Yo entreno horas extra así no<n>por alguna directiva para\nalcanzar<n>la victoria, sino porque yo quiero."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Simplemente no puedo apagar el impulso de correr. Y todo comenzó cuando perdí contra Rice."
+            "text": "Simplemente no puedo apagar el<n>impulso de correr. Y todo comenzó<n>\ncuando perdí contra Rice."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Quiero que corra de nuevo, y quiero ganar esta vez. Por eso estoy entrenando."
+            "text": "Quiero que corra de nuevo, y quiero<n>ganar esta vez. Por eso estoy<n>\nentrenando."
         },
         {
-            "name": "Monologue",
-            "text": "Rice fue la primera en poner un rayón en el record perfecto de Bourbon."
+            "name": "Monólogo",
+            "text": "Rice fue la primera en poner un<n>rayón en el récord perfecto de<n>\nBourbon."
         },
         {
-            "name": "Monologue",
-            "text": "Suena como si ella convirtió ese contratiempo en motivación."
+            "name": "Monólogo",
+            "text": "Suena como si ella convirtió ese<n>contratiempo en motivación."
         },
         {
-            "name": "Monologue",
-            "text": "Rice estaba exactamente igual. Tener un rival que empujaba su trabajo de manera más dura."
+            "name": "Monólogo",
+            "text": "Rice estaba exactamente igual.<n>Tener un rival que empujaba su<n>\ntrabajo de manera más dura."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...¿Hay algo que pueda hacer? Con tal de encontrarmela en el pasto una vez más."
+            "text": "...¿Hay algo que pueda hacer? Con<n>tal de encontrármela en el pasto<n>\nuna vez más."
         },
         {
             "name": "<username>",
             "text": "Bourbon..."
         },
         {
-            "name": "Monologue",
-            "text": "\"Quiero ganar.\" La misma ambición que Rice perdió, Bourbon lo ganó de nuevo."
+            "name": "Monólogo",
+            "text": "\"Quiero ganar.\" La misma ambición<n>que Rice perdió, Bourbon lo ganó\nde<n>nuevo."
         },
         {
-            "name": "Monologue",
-            "text": "Si tan solo Rice pudiera ver a Bourbon ahora...",
+            "name": "Monólogo",
+            "text": "Si tan solo Rice pudiera ver a<n>Bourbon ahora...",
             "choice_data_list": [
                 "Seh, podrías ayudarme.",
                 "Seh, podrías ayudarme."
@@ -234,11 +234,11 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Entiendo. Lo haré como desee—Osea, es mi deseo de ayudar."
+            "text": "Entiendo. Lo haré como desee—O sea,<n>es mi deseo de ayudar."
         },
         {
-            "name": "Monologue",
-            "text": "Notando la forma de una sonrisa en los labios de Bourbon, no puedo evitarlo pero siento que las cosas se verán bien."
+            "name": "Monólogo",
+            "text": "Notando la forma de una sonrisa en<n>los labios de Bourbon, no puedo<n>\nevitarlo pero siento que las cosas<n>se verán bien."
         }
     ]
 }
