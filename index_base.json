@@ -1,5 +1,5 @@
 {
-    "base_url": "https://raw.githubusercontent.com/Sebaex/hachimi-tl-es/main/localized_data",
-    "zip_url": "https://codeload.github.com/Sebaex/hachimi-tl-es/zip/refs/heads/main",
-    "zip_dir": "hachimi-tl-es-main/localized_data"
+    "base_url": "https://raw.githubusercontent.com/Sebaex/hachimi-tl-es/landmine/localized_data",
+    "zip_url": "https://codeload.github.com/Sebaex/hachimi-tl-es/zip/refs/heads/landmine",
+    "zip_dir": "hachimi-tl-es-landmine/localized_data"
 }
