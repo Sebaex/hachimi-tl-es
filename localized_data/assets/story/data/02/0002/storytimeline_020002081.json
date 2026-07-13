@@ -1,0 +1,244 @@
+{
+    "title": "Dolor Persistente",
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "El Tenno Sho de primavera el cual depende mi tercera victoria—Quiero que Rice esté ahí también."
+        },
+        {
+            "name": "<username>",
+            "text": "Rice... ¿En el Tenno Sho?"
+        },
+        {
+            "name": "Monologue",
+            "text": "¿Por qué arriesgar el intento de hacer historia por dejar a otro contendiente fuerte entrar al campo?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Los abucheos en el Kikuka Sho..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "El denegarle la Triple Corona a Bourbon fue un logro digno de elogiar, y aún así las reacciones opuestas fueron las más fuertes."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Por mera casualidad, el interés en el Kikuka Sho se parece demasiado al Tenno Sho que viene ahora.",
+            "choice_data_list": [
+                "Así que quieres que Rice corra porque..."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Porque hay cierto punto de vista que quiero que ella vea."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Algunas cosas solo se pueden enseñar por una querida corredora, y deseo tomar esa responsabilidad."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tu, Entrenador, tienes tu propia parte—poner a Rice en el Tenno Sho."
+        },
+        {
+            "name": "Monologue",
+            "text": "La importancia de esta carrera para McQueen no puede ser subestimada."
+        },
+        {
+            "name": "Monologue",
+            "text": "No hay duda de que lo pensó por bastante y por mucho antes de hacer esta solicitud."
+        },
+        {
+            "name": "Monologue",
+            "text": "¿Pero estará bien con esto? ¿No estará Rice ahí para distraerla mientras ella corre?",
+            "choice_data_list": [
+                "No puede que tengas una oportunidad para otro triplete. ¿Estás segura de esto?",
+                "No puede que tengas una oportunidad para otro triplete. ¿Estás segura de esto?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Heh. Crees que voy a perder, ¿No? Me duele <i>bastante</i>."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Para los registros, no tengo intención de perder. En mi orgullo como una Mejiro, yo <i>voy</i> a obtener mi tercer título consecutivo del Tenno Sho."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Claramente tienes un trabajo dificil ante ti. No importa quien de nosotras gane, vas a tener que consolar a la otra."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ella muestra una sonrisa burlona, pero la próxima carrera es cualquier cosa menos diversion y juegos para ella."
+        },
+        {
+            "name": "Monologue",
+            "text": "Si esta vista que quiere que Rice vea es tan importante para ella, ¿Entonces quien soy para decir que no?",
+            "choice_data_list": [
+                "Bueno, voy a hacer correr a Rice también.",
+                "Bueno, voy a hacer correr a Rice también."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Bien. Confío que cumplirás tu palabra."
+        },
+        {
+            "name": "Monologue",
+            "text": "En el entrenamiento al día siguiente..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Haa, haa...</i> Em, ¿Cómo estuvo mi tiempo?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sus tiempos no son malos. Pero cuando ella practica <i>contra</i> alguien, ella simplemente no puede ganar."
+        },
+        {
+            "name": "Monologue",
+            "text": "Los abucheos en el Kikuka Sho la han tenido timida en ser competitiva."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno. Podrás competir con las grandes ligas."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno. Podrás competir con las grandes ligas."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¿Las grandes ligas? ¿Ya decidiste mi próxima carrera?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A ella no le gustará la decisión. Pero si es para que ella gane de nuevo...",
+            "choice_data_list": [
+                "Correrás en el Tenno Sho de primavera.",
+                "Correrás en el Tenno Sho de primavera."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...¿Qué? ¡¿El Tenno Sho de primavera?!"
+        },
+        {
+            "name": "<username>",
+            "text": "Tienes lo que pide. Lo demostraste en el Kikuka Sho."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "P-pero... McQueen tendrá su tercer Tenno Sho consecutivo en juego en esa carrera..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Es <i>tan</i> importante para ella. No puedo competir. Incluso si gano, yo voy a..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice Shower se toma la cabeza como si pudiera escuchar de nuevo los abucheos."
+        },
+        {
+            "name": "Monologue",
+            "text": "La práctica termina sin que ella se decida por la carrera."
+        },
+        {
+            "name": "Monologue",
+            "text": "No la voy a forzar a correr si es que ella no quiere, pero no puede andar así para siempre."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "¿Eres el entrenador de Rice?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon interrumpe su entrenamiento para hablar conmigo."
+        },
+        {
+            "name": "<username>",
+            "text": "Hey, Bourbon. ¿Entrenando tu sola?"
+        },
+        {
+            "name": "<username>",
+            "text": "Hey, Bourbon. ¿Entrenando tu sola?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Si. Una lesión que tuve después del Kikuka Sho terminó de sanar."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "¿Como le va a Rice? ¿Todavía sigue enganchada con lo que pasó?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bourbon también estaba en el escenario, justo al lado de Rice."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ella vió de primeras cuanto daño le hizo el abucheo.",
+            "choice_data_list": [
+                "Ella... no ha vuelto a ser como era.",
+                "Ella... no ha vuelto a ser como era."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Ya veo..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Yo entreno horas extra así no por alguna directiva para alcanzar la victoria, si no porque yo quiero."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Simplemente no puedo apagar el impulso de correr. Y todo comenzó cuando perdí contra Rice."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Quiero que corra de nuevo, y quiero ganar esta vez. Por eso estoy entrenando."
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice fue la primera en poner un rayón en el record perfecto de Bourbon."
+        },
+        {
+            "name": "Monologue",
+            "text": "Suena como si ella convirtió ese contratiempo en motivación."
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice estaba exactamente igual. Tener un rival que empujaba su trabajo de manera más dura."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...¿Hay algo que pueda hacer? Con tal de encontrarmela en el pasto una vez más."
+        },
+        {
+            "name": "<username>",
+            "text": "Bourbon..."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Quiero ganar.\" La misma ambición que Rice perdió, Bourbon lo ganó de nuevo."
+        },
+        {
+            "name": "Monologue",
+            "text": "Si tan solo Rice pudiera ver a Bourbon ahora...",
+            "choice_data_list": [
+                "Seh, podrías ayudarme.",
+                "Seh, podrías ayudarme."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Entiendo. Lo haré como desee—Osea, es mi deseo de ayudar."
+        },
+        {
+            "name": "Monologue",
+            "text": "Notando la forma de una sonrisa en los labios de Bourbon, no puedo evitarlo pero siento que las cosas se verán bien."
+        }
+    ]
+}
