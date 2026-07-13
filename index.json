@@ -144,14 +144,9 @@
       "size": 1801
     },
     {
-      "path": "assets/race/storyrace/text/storyrace_020002042.json",
-      "hash": "cb8542a1d00494096189381e07184b21c34013bc593a7825101add3243248b98",
-      "size": 1515
-    },
-    {
-      "path": "assets/race/storyrace/text/storyrace_020002062.json",
-      "hash": "cd9843fface30ef2403c9f085717ce5bbfce15b8652ede361edc9dd5e7f3fc1b",
-      "size": 1798
+      "path": "assets/race/storyrace/text/storyrace_020002102.json",
+      "hash": "841c6e8ad909a2f004439978396af4d5bcbc750ac20315a0dc625337b184fcce",
+      "size": 1593
     },
     {
       "path": "assets/story/data/02/0001/storytimeline_020001011.json",
@@ -264,29 +259,29 @@
       "size": 6917
     },
     {
-      "path": "assets/story/data/02/0002/storytimeline_020002041.json",
-      "hash": "7be4edbb502fd5b11fd68a1799cd4f7e2af031b25172a113aba02b9e195b33c1",
-      "size": 6905
+      "path": "assets/story/data/02/0002/storytimeline_020002081.json",
+      "hash": "e074a52812132fca5c8169e037bc927fa02bd91f45e15aaeaa83e2c3c86b4199",
+      "size": 9168
     },
     {
-      "path": "assets/story/data/02/0002/storytimeline_020002051.json",
-      "hash": "99e559678dc695d22276ee7ea6fdce4c22ffca2e1c819fdfe9ff8bb11968a2b6",
-      "size": 7844
+      "path": "assets/story/data/02/0002/storytimeline_020002091.json",
+      "hash": "06695795e7ad0a61f2793baa326b4a8692058883b10f06d30518944a97cc8b6d",
+      "size": 9550
     },
     {
-      "path": "assets/story/data/02/0002/storytimeline_020002061.json",
-      "hash": "96af2d18cd15632c7f795eec7bcd46f1c05fbf3a77c2b6335b89cb0eea49d807",
-      "size": 2969
+      "path": "assets/story/data/02/0002/storytimeline_020002101.json",
+      "hash": "b1618dd92fd5e5b5f9d2ead9d41f71682800fff841980ecac6bbf933dc0eef18",
+      "size": 7966
     },
     {
-      "path": "assets/story/data/02/0002/storytimeline_020002063.json",
-      "hash": "06c551d9797e91c76305e59125dea72ff9f55cf2762ae5d431acec84eca3da18",
-      "size": 3340
+      "path": "assets/story/data/02/0002/storytimeline_020002111.json",
+      "hash": "81f052cb7a5cc2c63344889e285cc9719c0978807b17c1c06843a77798154232",
+      "size": 8865
     },
     {
-      "path": "assets/story/data/02/0002/storytimeline_020002071.json",
-      "hash": "0ed147ddfbb2712a5c6847fb66f8b3db0c134a2e2bb7a79751f956734950aaca",
-      "size": 6913
+      "path": "assets/story/data/02/0002/storytimeline_020002121.json",
+      "hash": "22f9e9f7d31775abca3f0235b724fa5404133115f486e66acc8c7fbf733afab4",
+      "size": 471
     },
     {
       "path": "config.json",
