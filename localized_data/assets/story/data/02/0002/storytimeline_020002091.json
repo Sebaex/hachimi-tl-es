@@ -1,0 +1,296 @@
+{
+    "title": "El Impulso para Ganar",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Durante el entrenamiento..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Hola. Espero que no te importe."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡¿Ehh?! ¡¿B-Bourbon?!"
+        },
+        {
+            "name": "<username>",
+            "text": "Ella va a ser tu compañera de entrenamiento."
+        },
+        {
+            "name": "<username>",
+            "text": "Ella va a ser tu compañera de entrenamiento."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Solo por hoy, seremos compañeras. Si me aceptas."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Umm..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Rice, el entrenamiento a la que estoy acostumbrada es, acorde a otras, \"demoniaco\"."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Pero viendo que me derrotaste antes, deberías ser capaz de mantenerte. Hagamos valioso el trabajo de hoy."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Ueehh!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No, no \"uueh.\" Ahora, comencemos. Primero, cuatro piques en subida."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡O-ok!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice se va corriendo como si Bourbon la estuviera persiguiendo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Bueno"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Simplemente no puedo esperar para correr con Rice. ¿No estás emocionado también, Entrenador?"
+        },
+        {
+            "name": "Monologue",
+            "text": "McQueen me mira con una sonrisa ironica."
+        },
+        {
+            "name": "Monologue",
+            "text": "Consideraré eso como que tengo que convencer a Rice para competir.",
+            "choice_data_list": [
+                "Ella correrá. Estoy seguro de eso."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Si, confío que lo harás."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Waos, ¿Como eso? ¡¿Rice va a estar en el Tenno Sho también!? Uyuyui, ¡Tengo que decirle a todos!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "O-oye, ¿Que vas a—? ¡Espera un momento! ¡Esto no se supone que debe ser publico aún!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nuestra sesión especial de entrenamiento tiene un comienzo bien avivado."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Haa, haa...</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Como lo esperaba, te lograste mantener con mi entrenamiento \"demoniaco\". Y ahora para el ejercicio final."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Rice, quiero que corras conmigo."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¿Eh? ...¿Correr contigo?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Me ganaste en el Kikuka Sho. No debería ser una tarea excesiva."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Pero, pero yo..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Viendo un increible desempeño de parte tuya, encuentro tu timidez un tanto inesperada."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "En el Kikuka Sho, me tuviste en vista desde el comienzo, y nunca me dejaste escapar por un segundo."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Trabajaste duro para vencerme, y tu forma de correr lo demostró."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Y ahora, trabajo duro para ganarte."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Sin embargo... En tu estado actual, no tendré que esforzarme del todo para ganar."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No quiero eso. La Rice que conozco no es alguien que pueda ganarle sin ponerle empeño."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Bourbon..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Así que corre, Rice."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Así como lo hiciste en la carrera, muestrame que quieres ganar."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Querer... ganar..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Me encanta correr... pero pareciera que no puedo ganar. Y cuando veo a McQueen correr—"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yo...¡Yo quiero ganar también!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Así es. Esa es la única razón por la cual me cambié de equipo, por qué entrené tan duro..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Incluso si hay gente que no le gusta cuando gano, yo... yo quiero..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Yo quiero ganar!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Veo que finalmente encontraste tu ambición de nuevo. Está bien, terminemos nuestro entrenamiento."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Ok!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¿Oh? ¡Rice y Bourbon van con todo!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Rice está manteniendo sus ojos hacia al frente ahora."
+        },
+        {
+            "name": "<username>",
+            "text": "Ella recordó por qué ella quiere ganar—contra <i>quién</i> va a ganar."
+        },
+        {
+            "name": "<username>",
+            "text": "Ella recordó por qué ella quiere ganar—contra <i>quién</i> va a ganar."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "En efecto."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Está bien, ¡Voy a ser su árbitro!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Haa, haa...</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "(¡Ella es muy rapida! Más rapida que en el Kikuka Sho...)"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "(Ella entrenó duro... porque ella quería ganar contra <i>mi.</i>)"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "(La gente se rehusó a reconocerme, pero ella lo hizo.)"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "(¡Y no la puedo decepcionar!)"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Yahhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Veo la misma ambición que irradió en el Kikuka Sho. La ambición por ganar la empuja hacia delante."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Y ahí está! ¡Gana Rice Shower!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Haa, haa...</i> Fiu."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Haa, haa...</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Rice, corriste bien. Incluso mejor que como lo hiciste en el Kikuka Sho."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Bourbon... Lo hice... Recordé lo que se sentía querer ganar contra ti."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Y pude de ver como corrías en primer plano. Parece que tengo mucho más entrenamiento que hacer."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Nuestro próximo encuentro será en la Twinkle Series... como rivales incomparables."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Seh... ¡Seh!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Entrenador, yo, em... ¡Voy a correr en el Tenno Sho!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Quiero ganar. ¡Incluso si es una carrera importante para McQueen!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Heh. Y no la cambiaría por nada.",
+            "choice_data_list": [
+                "Entonces deberíamos ir a entrenar, ¿Si?"
+            ]
+        },
+        {
+            "name": "Ambas",
+            "text": "¡Si!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice decidió de aumentar el desafío una vez más. El Tenno Sho espera."
+        }
+    ]
+}
