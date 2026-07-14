@@ -3,7 +3,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Durante el entrenamiento..."
         },
         {
@@ -16,15 +16,15 @@
         },
         {
             "name": "<username>",
-            "text": "Ella va a ser tu compañera de entrenamiento."
+            "text": "Ella va a ser tu compañera de<n>entrenamiento."
         },
         {
             "name": "<username>",
-            "text": "Ella va a ser tu compañera de entrenamiento."
+            "text": "Ella va a ser tu compañera de<n>entrenamiento."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Solo por hoy, seremos compañeras. Si me aceptas."
+            "text": "Solo por hoy, seremos compañeras.<n>Si me aceptas."
         },
         {
             "name": "Rice Shower",
@@ -32,11 +32,11 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Rice, el entrenamiento a la que estoy acostumbrada es, acorde a otras, \"demoniaco\"."
+            "text": "Rice, el entrenamiento a la que<n>estoy acostumbrada es, acorde a<n>\notras, \"demoniaco\"."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Pero viendo que me derrotaste antes, deberías ser capaz de mantenerte. Hagamos valioso el trabajo de hoy."
+            "text": "Pero viendo que me derrotaste<n>antes, deberías ser capaz de<n>\nmantenerte. Hagamos valioso el<n>trabajo de hoy."
         },
         {
             "name": "Rice Shower",
@@ -44,15 +44,15 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "No, no \"uueh.\" Ahora, comencemos. Primero, cuatro piques en subida."
+            "text": "No, no \"uueh.\" Ahora, comencemos.<n>Primero, cuatro piques en\nsubida."
         },
         {
             "name": "Rice Shower",
             "text": "¡O-ok!"
         },
         {
-            "name": "Monologue",
-            "text": "Rice se va corriendo como si Bourbon la estuviera persiguiendo."
+            "name": "Monólogo",
+            "text": "Rice se va corriendo como si<n>Bourbon la estuviera persiguiendo."
         },
         {
             "name": "Mejiro McQueen",
@@ -60,15 +60,15 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Simplemente no puedo esperar para correr con Rice. ¿No estás emocionado también, Entrenador?"
+            "text": "Simplemente no puedo esperar para<n>correr con Rice. ¿No estás<n>\nemocionado también, Entrenador?"
         },
         {
-            "name": "Monologue",
-            "text": "McQueen me mira con una sonrisa ironica."
+            "name": "Monólogo",
+            "text": "McQueen me mira con una sonrisa<n>irónica."
         },
         {
-            "name": "Monologue",
-            "text": "Consideraré eso como que tengo que convencer a Rice para competir.",
+            "name": "Monólogo",
+            "text": "Consideraré eso como que tengo que<n>convencer a Rice para competir.",
             "choice_data_list": [
                 "Ella correrá. Estoy seguro de eso."
             ]
@@ -79,15 +79,15 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Waos, ¿Como eso? ¡¿Rice va a estar en el Tenno Sho también!? Uyuyui, ¡Tengo que decirle a todos!"
+            "text": "Waos, ¿Como eso? ¡¿Rice va a estar<n>en el Tenno Sho también!?\nUyuyui,<n>¡Tengo que decirles a todos!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "O-oye, ¿Que vas a—? ¡Espera un momento! ¡Esto no se supone que debe ser publico aún!"
+            "text": "O-oye, ¿Que vas a—? ¡Espera un<n>momento! ¡Esto no se supone que<n>\ndebe ser publico aún!"
         },
         {
-            "name": "Monologue",
-            "text": "Nuestra sesión especial de entrenamiento tiene un comienzo bien avivado."
+            "name": "Monólogo",
+            "text": "Nuestra sesión especial de<n>entrenamiento tiene un comienzo<n>bien\navivado."
         },
         {
             "name": "Rice Shower",
@@ -95,7 +95,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Como lo esperaba, te lograste mantener con mi entrenamiento \"demoniaco\". Y ahora para el ejercicio final."
+            "text": "Como lo esperaba, te lograste<n>mantener con mi entrenamiento<n>\n\"demoniaco\". Y ahora para el<n>ejercicio final."
         },
         {
             "name": "Mihono Bourbon",
@@ -107,7 +107,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Me ganaste en el Kikuka Sho. No debería ser una tarea excesiva."
+            "text": "Me ganaste en el Kikuka Sho. No<n>debería ser una tarea excesiva."
         },
         {
             "name": "Rice Shower",
@@ -115,15 +115,15 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Viendo un increible desempeño de parte tuya, encuentro tu timidez un tanto inesperada."
+            "text": "Viendo un increíble desempeño de<n>parte tuya, encuentro tu timidez\nun<n>tanto inesperada."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "En el Kikuka Sho, me tuviste en vista desde el comienzo, y nunca me dejaste escapar por un segundo."
+            "text": "En el Kikuka Sho, me tuviste en<n>vista desde el comienzo, y nunca\nme<n>dejaste escapar por un segundo."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Trabajaste duro para vencerme, y tu forma de correr lo demostró."
+            "text": "Trabajaste duro para vencerme, y tu<n>forma de correr lo demostró."
         },
         {
             "name": "Rice Shower",
@@ -135,11 +135,11 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Sin embargo... En tu estado actual, no tendré que esforzarme del todo para ganar."
+            "text": "Sin embargo... En tu estado actual,<n>no tendré que esforzarme del\ntodo<n>para ganar."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "No quiero eso. La Rice que conozco no es alguien que pueda ganarle sin ponerle empeño."
+            "text": "No quiero eso. La Rice que conozco<n>no es alguien que pueda ganarle\nsin<n>ponerle empeño."
         },
         {
             "name": "Rice Shower",
@@ -151,7 +151,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Así como lo hiciste en la carrera, muestrame que quieres ganar."
+            "text": "Así como lo hiciste en la carrera,<n>muéstrame que quieres ganar."
         },
         {
             "name": "Rice Shower",
@@ -159,7 +159,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Me encanta correr... pero pareciera que no puedo ganar. Y cuando veo a McQueen correr—"
+            "text": "Me encanta correr... pero pareciera<n>que no puedo ganar. Y cuando\nveo a<n>McQueen correr—"
         },
         {
             "name": "Rice Shower",
@@ -167,11 +167,11 @@
         },
         {
             "name": "Rice Shower",
-            "text": "...Así es. Esa es la única razón por la cual me cambié de equipo, por qué entrené tan duro..."
+            "text": "...Así es. Esa es la única razón<n>por la cual me cambié de equipo,<n>\npor qué entrené tan duro..."
         },
         {
             "name": "Rice Shower",
-            "text": "Incluso si hay gente que no le gusta cuando gano, yo... yo quiero..."
+            "text": "Incluso si hay gente que no le<n>gusta cuando gano, yo... yo<n>\nquiero..."
         },
         {
             "name": "Rice Shower",
@@ -179,7 +179,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Veo que finalmente encontraste tu ambición de nuevo. Está bien, terminemos nuestro entrenamiento."
+            "text": "Veo que finalmente encontraste tu<n>ambición de nuevo. Está bien,<n>\nterminemos nuestro entrenamiento."
         },
         {
             "name": "Rice Shower",
@@ -191,15 +191,15 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Rice está manteniendo sus ojos hacia al frente ahora."
+            "text": "Rice está manteniendo sus ojos<n>hacia al frente ahora."
         },
         {
             "name": "<username>",
-            "text": "Ella recordó por qué ella quiere ganar—contra <i>quién</i> va a ganar."
+            "text": "Ella recordó por qué ella quiere<n>ganar—contra <i>quién</i> va a<n>\nganar."
         },
         {
             "name": "<username>",
-            "text": "Ella recordó por qué ella quiere ganar—contra <i>quién</i> va a ganar."
+            "text": "Ella recordó por qué ella quiere<n>ganar—contra <i>quién</i> va a<n>\nganar."
         },
         {
             "name": "Mejiro McQueen",
@@ -215,15 +215,15 @@
         },
         {
             "name": "Rice Shower",
-            "text": "(¡Ella es muy rapida! Más rapida que en el Kikuka Sho...)"
+            "text": "(¡Ella es muy rápida! Más rápida<n>que en el Kikuka Sho...)"
         },
         {
             "name": "Rice Shower",
-            "text": "(Ella entrenó duro... porque ella quería ganar contra <i>mi.</i>)"
+            "text": "(Ella entrenó duro... porque ella<n>quería ganar contra <i>mí.</i>)"
         },
         {
             "name": "Rice Shower",
-            "text": "(La gente se rehusó a reconocerme, pero ella lo hizo.)"
+            "text": "(La gente se rehusó a reconocerme,<n>pero ella lo hizo.)"
         },
         {
             "name": "Rice Shower",
@@ -234,8 +234,8 @@
             "text": "¡Yahhh!"
         },
         {
-            "name": "Monologue",
-            "text": "Veo la misma ambición que irradió en el Kikuka Sho. La ambición por ganar la empuja hacia delante."
+            "name": "Monólogo",
+            "text": "Veo la misma ambición que irradió<n>en el Kikuka Sho. La ambición\npor<n>ganar la empuja hacia delante."
         },
         {
             "name": "Gold Ship",
@@ -251,19 +251,19 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Rice, corriste bien. Incluso mejor que como lo hiciste en el Kikuka Sho."
+            "text": "...Rice, corriste bien. Incluso<n>mejor que como lo hiciste en el<n>\nKikuka Sho."
         },
         {
             "name": "Rice Shower",
-            "text": "Bourbon... Lo hice... Recordé lo que se sentía querer ganar contra ti."
+            "text": "Bourbon... Lo hice... Recordé lo<n>que se sentía querer ganar contra<n>\nti."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Y pude de ver como corrías en primer plano. Parece que tengo mucho más entrenamiento que hacer."
+            "text": "Y pude de ver como corrías en<n>primer plano. Parece que tengo<n>mucho\nmás entrenamiento que hacer."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Nuestro próximo encuentro será en la Twinkle Series... como rivales incomparables."
+            "text": "Nuestro próximo encuentro será en<n>la Twinkle Series... como\nrivales<n>incomparables."
         },
         {
             "name": "Rice Shower",
@@ -271,11 +271,11 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Entrenador, yo, em... ¡Voy a correr en el Tenno Sho!"
+            "text": "Entrenador, yo, em... ¡Voy a correr<n>en el Tenno Sho!"
         },
         {
             "name": "Rice Shower",
-            "text": "Quiero ganar. ¡Incluso si es una carrera importante para McQueen!"
+            "text": "Quiero ganar. ¡Incluso si es una<n>carrera importante para McQueen!"
         },
         {
             "name": "Mejiro McQueen",
@@ -289,8 +289,8 @@
             "text": "¡Si!"
         },
         {
-            "name": "Monologue",
-            "text": "Rice decidió de aumentar el desafío una vez más. El Tenno Sho espera."
+            "name": "Monólogo",
+            "text": "Rice decidió de aumentar el desafío<n>una vez más. El Tenno Sho\nespera."
         }
     ]
 }

@@ -2,16 +2,16 @@
     "title": "El Deber de una Victoriosa",
     "text_block_list": [
         {
-            "name": "Spectators",
+            "name": "Espectadores",
             "text": "<i>Murmur, murmur...</i>"
         },
         {
             "name": "Fan A",
-            "text": "Realmente quería que ganara McQueen hoy..."
+            "text": "Realmente quería que ganara McQueen<n>hoy..."
         },
         {
             "name": "Fan B",
-            "text": "He estado campeando este lugar por toda la semana solo para ver su tercera victoria con mis propios ojos."
+            "text": "He estado campeando este lugar por<n>toda la semana solo para ver su<n>\ntercera victoria con mis propios<n>ojos."
         },
         {
             "name": "Rice Shower",
@@ -23,27 +23,27 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Ejejeje... Están todos decepcionados."
+            "text": "Ejejeje... Están todos<n>decepcionados."
         },
         {
             "name": "Rice Shower",
-            "text": "Escuché que había una vista que querias que viera, pero todo lo que veo es que se repite lo del Kikuka Sho..."
+            "text": "Escuché que había una vista que<n>querías que viera, pero todo lo\nque<n>veo es que se repite lo del Kikuka<n>Sho..."
         },
         {
             "name": "Rice Shower",
-            "text": "Osea, sabía que esto pasaría, pero... todavia, todavía... duele."
+            "text": "O sea, sabía que esto pasaría,<n>pero... todavía, todavía... duele."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "...Cuando me descalificadon del Tenno Sho de otoño, me sentí de la misma manera."
+            "text": "...Cuando me descalificaron del<n>Tenno Sho de otoño, me sentí de la<n>\nmisma manera."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Sabiendo que decepcioné las esperanzas de tantos, me costó salir adelante."
+            "text": "Sabiendo que decepcioné las<n>esperanzas de tantos, me costó<n>salir\nadelante."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Pero luego, lo ví—la vista de la que hablo."
+            "text": "Pero luego, lo vi—la vista de la<n>que hablo."
         },
         {
             "name": "Rice Shower",
@@ -51,19 +51,19 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Estoy segura de que también lo ves. Vamos, nos toca."
+            "text": "Estoy segura de que también lo ves.<n>Vamos, nos toca."
         },
         {
             "name": "Rice Shower",
             "text": "¿Eh?... ¡Ah!"
         },
         {
-            "name": "Spectators",
+            "name": "Espectadores",
             "text": "<i>Murmur, murmur...</i>"
         },
         {
             "name": "Fan A",
-            "text": "Mira, ¡Es Rice Shower! ¡¿Por qué le denegaste su tercera victoria, eh?!"
+            "text": "Mira, ¡Es Rice Shower! ¡¿Por qué le<n>denegaste su tercera victoria,\neh?!"
         },
         {
             "name": "Fan B",
@@ -71,7 +71,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Cielos, ¡Hay que opacarlos! ¡Bien hecho, Rice! ¡Eres la mejor!"
+            "text": "Cielos, ¡Hay que opacarlos! ¡Bien<n>hecho, Rice! ¡Eres la mejor!"
         },
         {
             "name": "Umamusume Animada",
@@ -83,39 +83,39 @@
         },
         {
             "name": "Gold Ship",
-            "text": "¡Ayy! ¡Así se habla! Ahora dame uno mas, ¡En una voz que ella pueda escuchar ahora!"
+            "text": "¡Ayy! ¡Así se habla! Ahora dame uno<n>más, ¡En una voz que ella\npueda<n>escuchar ahora!"
         },
         {
             "name": "Fan C",
-            "text": "¡¿Eh?! ¡O-ok!\n¡Corriste bien!"
+            "text": "¡¿Eh?! ¡O-ok! ¡Corriste bien!"
         },
         {
             "name": "Rice Shower",
-            "text": "Hay gente celebrando... por <i>mi.</i>"
+            "text": "Hay gente celebrando... por<n><i>mí.</i>"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Y esta es la vista que solo una victoriosa puede ver."
+            "text": "Y esta es la vista que solo una<n>victoriosa puede ver."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Los que pusieron sus esperanzas en ti, los que tuvieron sus esperanzas destruidas... Al pararte aquí, puedes ver todas sus caras."
+            "text": "Los que pusieron sus esperanzas en<n>ti, los que tuvieron sus\nesperanzas<n>destruidas... Al pararte aquí,<n>puedes ver todas sus\ncaras."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Para digerir todas esas emociones—lo bueno y lo malo—es el deber de una victoriosa, y también su orgullo."
+            "text": "Para digerir todas esas<n>emociones—lo bueno y lo malo—es el<n>deber de\nuna victoriosa, y también<n>su orgullo."
         },
         {
             "name": "Rice Shower",
-            "text": "El deber de una victoriosa... y el orgullo..."
+            "text": "El deber de una victoriosa... y el<n>orgullo..."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Para esos fans que pusieron hasta la más pequeña de las esperanzas en ti... Y para los fans que esperanzaban en contra de ti. Por el bien de todos, parate firme."
+            "text": "Para esos fans que pusieron hasta<n>la más pequeña de las esperanzas\nen<n>ti... Y para los fans que<n>esperanzaban en contra de ti. Por<n>el\nbien de todos, párate firme."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ahora, muestrales lo que es una verdadera victoriosa."
+            "text": "Ahora, muestrales lo que es una<n>verdadera victoriosa."
         },
         {
             "name": "Rice Shower",
@@ -123,27 +123,27 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Toda la gente decepcionada de que gané—estarán más decepcionada de que pareciese que no pertenezco aquí."
+            "text": "Toda la gente decepcionada de que<n>gané—estarán más decepcionada de<n>\nque pareciese que no pertenezco<n>aquí."
         },
         {
             "name": "Rice Shower",
-            "text": "Tengo que pararme firme—mirarlos a los ojos, y mostrarles que seguiré corriendo..."
+            "text": "Tengo que pararme firme—mirarlos a<n>los ojos, y mostrarles que\nseguiré<n>corriendo..."
         },
         {
             "name": "Rice Shower",
-            "text": "Hasta que un día, ¡Me vuelva una Umamusume que los hará <i>feliz</i> de ver ganar!"
+            "text": "Hasta que un día, ¡Me vuelva una<n>Umamusume que los hará\n<i>feliz</i><n>de ver ganar!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Tengo muchas esperanzas para tí, Rice."
+            "text": "Tengo muchas esperanzas para ti,<n>Rice."
         },
         {
-            "name": "Monologue",
-            "text": "El concierto comienza, marcando no solo la victoria de Rice pero también la desastrosa derrota de McQueen."
+            "name": "Monólogo",
+            "text": "El concierto comienza, marcando no<n>solo la victoria de Rice pero<n>\ntambién la desastrosa derrota de<n>McQueen."
         },
         {
-            "name": "Monologue",
-            "text": "Y aún así, Rice canta con mucho más espiritu que cuando lo hizo después del Kikuka Sho."
+            "name": "Monólogo",
+            "text": "Y aun así, Rice canta con mucho más<n>espíritu que cuando lo hizo\ndespués<n>del Kikuka Sho."
         },
         {
             "name": "<username>",
@@ -155,7 +155,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Parece que Rice notó lo que le ha faltado todo este tiempo."
+            "text": "Parece que Rice notó lo que le ha<n>faltado todo este tiempo."
         },
         {
             "name": "<username>",
@@ -167,21 +167,21 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Dios, que desgracia para mi eso si. Yo fui la que te preguntó de entrarla a la carrera, y aquí estoy toda derrotada."
+            "text": "Dios, que desgracia para mí eso sí.<n>Yo fui la que te preguntó de<n>\nentrarla a la carrera, y aquí estoy<n>toda derrotada."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ella realmente... rindió de manera preciosa."
+            "text": "Ella realmente... rindió de manera<n>preciosa."
         },
         {
-            "name": "Monologue",
-            "text": "Ella no estaba exagerando. Rice corrió mejor que nunca la he visto correr."
+            "name": "Monólogo",
+            "text": "Ella no estaba exagerando. Rice<n>corrió mejor que nunca la he visto<n>\ncorrer."
         },
         {
-            "name": "Monologue",
-            "text": "Pero lo mismo va para McQueen. Pude sentir lo mucho que ella quería este tercer título.",
+            "name": "Monólogo",
+            "text": "Pero lo mismo va para McQueen. Pude<n>sentir lo mucho que ella\nquería este<n>tercer título.",
             "choice_data_list": [
-                "...Tu pusiste una pelea increible."
+                "...Tu pusiste una pelea increíble."
             ]
         },
         {
@@ -190,63 +190,63 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Solo estaba a un paso... ¡Yo quería ganar!"
+            "text": "Solo estaba a un paso... ¡Yo quería<n>ganar!"
         },
         {
             "name": "Mejiro McQueen",
             "text": "<i>Snif.</i> ¡Entrenador!"
         },
         {
-            "name": "Monologue",
-            "text": "Ella corrió con mucho en sus hombros hoy. El peso de su ambición. Sus deberes como la representante de lequipo. Y no tengo nada más que gratitud por sus esfuerzos."
+            "name": "Monólogo",
+            "text": "Ella corrió con mucho en sus<n>hombros hoy. El peso de su<n>ambición.\nSus deberes como la<n>representante del equipo. Y no<n>tengo nada más\nque gratitud por sus<n>esfuerzos."
         },
         {
-            "name": "Monologue",
-            "text": "Rice Shower también tiene que ver eso."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "La bruja que no tenía nadie con quien ir. Pero un día, un chico fue a visitarla."
+            "name": "Monólogo",
+            "text": "Rice Shower también tiene que ver<n>eso."
         },
         {
             "name": "Rice Shower",
-            "text": "\"Quiero volar a través de los cielos como un pajaro.\""
+            "text": "La bruja que no tenía nadie con<n>quien ir. Pero un día, un chico\nfue<n>a visitarla."
         },
         {
             "name": "Rice Shower",
-            "text": "La bruja agradecida lanzó un hechizo en el chico, y sonrió, por su deseo de volverse realidad. \"¡Guau! ¡Esto es increible!\""
+            "text": "\"Quiero volar a través de los<n>cielos como un pájaro.\""
         },
         {
             "name": "Rice Shower",
-            "text": "Despues de ver eso, los otros comenzaron a visitar a la bruja también."
+            "text": "La bruja agradecida lanzó un<n>hechizo en el chico, y sonrió, por<n>su\ndeseo de volverse realidad.<n>\"¡Guau! ¡Esto es increíble!\""
         },
         {
             "name": "Rice Shower",
-            "text": "Algunos todavía tenian miedo, pero día tras día, más y más gente comenzó a sonreír."
+            "text": "Después de ver eso, los otros<n>comenzaron a visitar a la bruja<n>\ntambién."
         },
         {
             "name": "Rice Shower",
-            "text": "La bruja quería hacer a todos felices, así que lanzó hechizo tras hechizo, sin limitarse en su poder."
+            "text": "Algunos todavía tenían miedo, pero<n>día tras día, más y más gente<n>\ncomenzó a sonreír."
         },
         {
             "name": "Rice Shower",
-            "text": "Pero un día, ella de la nada dejó de poder usar magia."
+            "text": "La bruja quería hacer a todos<n>felices, así que lanzó hechizo tras<n>\nhechizo, sin limitarse en su poder."
         },
         {
             "name": "Rice Shower",
-            "text": "Usar tanto la dejó cansada, y se desmayó del cansancio."
+            "text": "Pero un día, ella de la nada dejó<n>de poder usar magia."
         },
         {
             "name": "Rice Shower",
-            "text": "Todos los que le tuvieron miedo a la bruja, después se dieron cuenta lo dificil que tuvo que trabajar para hacerlos feliz."
+            "text": "Usar tanto la dejó cansada, y se<n>desmayó del cansancio."
         },
         {
             "name": "Rice Shower",
-            "text": "Ahora que saben sus verdaderos sentimientos, comenzaron a cuidarla."
+            "text": "Todos los que le tuvieron miedo a<n>la bruja, después se dieron\ncuenta<n>lo difícil que tuvo que trabajar<n>para hacerlos feliz."
         },
         {
             "name": "Rice Shower",
-            "text": "La gente ansiosa esperó el día en que ella se mejorara para volver a usar magia de nuevo."
+            "text": "Ahora que saben sus verdaderos<n>sentimientos, comenzaron a<n>\ncuidarla."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "La gente ansiosa esperó el día en<n>que ella se mejorara para volver\na<n>usar magia de nuevo."
         }
     ]
 }

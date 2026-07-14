@@ -2,12 +2,12 @@
     "title": "Expectativas y Emoción",
     "text_block_list": [
         {
-            "name": "Monologue",
-            "text": "Con una septima victoria añadida a<n>su record perfecto, todos los\nojos<n>están en Mihono Bourbon, si es que<n>todavia no estuviesen."
+            "name": "Monólogo",
+            "text": "Con una séptima victoria añadida a<n>su récord perfecto, todos los\nojos<n>están en Mihono Bourbon, si es que<n>todavía no estuviesen."
         },
         {
-            "name": "Monologue",
-            "text": "Según la opinión de los medios,<n>ella practicamenta ya ganó la<n>\nTriple Corona."
+            "name": "Monólogo",
+            "text": "Según la opinión de los medios,<n>ella prácticamente ya ganó la<n>\nTriple Corona."
         },
         {
             "name": "Admirador A",
@@ -15,11 +15,11 @@
         },
         {
             "name": "Admirador B",
-            "text": "¡Daria lo que fuera por tu<n>autografo!"
+            "text": "¡Daria lo que fuera por tu<n>autógrafo!"
         },
         {
             "name": "Gold Ship",
-            "text": "¡Por acá igual! ¡Tomaré la vieja y<n>confiable firma con ketchup en\neste<n>omurice—y lo volveré tierno!"
+            "text": "¡Por acá igual! ¡Tomaré la vieja y<n>confiable firma con kétchup en\neste<n>omurice—y lo volveré tierno!"
         },
         {
             "name": "Mihono Bourbon",
@@ -34,19 +34,19 @@
             "text": "Ooh, ¡Así es! ¡Dale un poco de<n>estilo!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "<i>Ding dong</i>"
         },
         {
             "name": "Anuncio Escolar",
-            "text": "Mihono Bourbon, la presidenta del<n>consejo estudiantil te desea\nver.<n>Por favor reportate en su oficina."
+            "text": "Mihono Bourbon, la presidenta del<n>consejo estudiantil te desea\nver.<n>Por favor repórtate en su oficina."
         },
         {
             "name": "Mihono Bourbon",
             "text": "¿Presidenta Rudolf?"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "<i>Toc, toc</i>"
         },
         {
@@ -87,7 +87,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Aunque, estoy conciente de que<n>el hecho de obtener la Triple<n>\nCorona no será una tarea fácil."
+            "text": "...Aunque, estoy consciente de que<n>el hecho de obtener la Triple<n>\nCorona no será una tarea fácil."
         },
         {
             "name": "Mihono Bourbon",
@@ -99,7 +99,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Mi posición no me permite el<n>favoritismo, pero espero ver un<n>final\nsatisfactorio a este año<n>Clasico."
+            "text": "Mi posición no me permite el<n>favoritismo, pero espero ver un<n>final\nsatisfactorio a este año<n>Clásico."
         },
         {
             "name": "Mihono Bourbon",
@@ -115,19 +115,19 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Al dar un autografo, ¿Como una lo<n>puede hacer más \"tierno\"?"
+            "text": "Al dar un autógrafo, ¿Como una lo<n>puede hacer más \"tierno\"?"
         },
         {
             "name": "Symboli Rudolf",
             "text": "...Desafortunadamente eso está<n>fuera de mi área de expertiz."
         },
         {
-            "name": "Monologue",
-            "text": "En mi oficina, antes de la<n>practica."
+            "name": "Monólogo",
+            "text": "En mi oficina, antes de la<n>práctica."
         },
         {
             "name": "Gold Ship",
-            "text": "¡Miren! Adivinen ¿Quien consiguió<n>el autografo de Bourbon?"
+            "text": "¡Miren! Adivinen ¿Quien consiguió<n>el autógrafo de Bourbon?"
         },
         {
             "name": "Mejiro McQueen",
@@ -139,7 +139,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "¡Este es para ti, Rice! ¡Yo se que<n>tienes un apetito más grande de\nlo<n>que puedes! ¡Devora!"
+            "text": "¡Este es para ti, Rice! ¡Yo sé que<n>tienes un apetito más grande de\nlo<n>que puedes! ¡Devora!"
         },
         {
             "name": "Rice Shower",
@@ -150,19 +150,19 @@
             "text": "Soy yo, o ¿<i>Todos</i> están<n>hablando sobre Bourbon?"
         },
         {
-            "name": "Monologue",
-            "text": "Dado su record de invicta, es<n>natural. No puedes ayudar pero<n>\nimaginar que tan lejos ella irá."
+            "name": "Monólogo",
+            "text": "Dado su récord de invicta, es<n>natural. No puedes ayudar pero<n>\nimaginar que tan lejos ella irá."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No tenemos nada que temer. Las<n>habilidades de Rice le hacen pelea<n>\na las de ella, y eso habla por si<n>mismo."
+            "text": "No tenemos nada que temer. Las<n>habilidades de Rice le hacen pelea<n>\na las de ella, y eso habla por sí<n>mismo."
         },
         {
-            "name": "Monologue",
-            "text": "Aunque Rice perdió contra Bourbon<n>otra vez más en su más reciente<n>\ncarrera, estuvo mas cerca que en el<n>Derby."
+            "name": "Monólogo",
+            "text": "Aunque Rice perdió contra Bourbon<n>otra vez más en su más reciente<n>\ncarrera, estuvo más cerca que en el<n>Derby."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "También, su ambición está<n>completamente enfocada en ganarle a<n>su\nrival.",
             "choice_data_list": [
                 "¡El Kikuka Sho es todo tuyo!"
@@ -178,18 +178,18 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Eso es porque el entrenar tanto con<n>ustedes me ha hecho una\ncorredora<n>mas fuerte."
+            "text": "Eso es porque el entrenar tanto con<n>ustedes me ha hecho una\ncorredora<n>más fuerte."
         },
         {
             "name": "Rice Shower",
             "text": "No puedo esperar correr contra<n>ella. Es todo sobre lo que puedo<n>\npensar."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Ella aprendió a sentirse emocionada<n>sobre las carreras en vez de<n>\nansiosa. Así sabes como ella ha<n>crecido."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "El ver progreso de verdad en<n>múltiples carreras contra Bourbon<n>\ndebió de darle confianza."
         },
         {
@@ -198,7 +198,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Eso es fácil más de 3.000<n>kilometros!"
+            "text": "¡Eso es fácil más de 3.000<n>kilómetros!"
         },
         {
             "name": "Rice Shower",
@@ -208,8 +208,8 @@
             ]
         },
         {
-            "name": "Monologue",
-            "text": "Incluso si se acomulan bastante las<n>expectativas de su rival, el<n>\nespiritu de lucha de Rice Shower<n>brilla al rojo vivo."
+            "name": "Monólogo",
+            "text": "Incluso si se acumulan bastante las<n>expectativas de su rival, el<n>\nespíritu de lucha de Rice Shower<n>brilla al rojo vivo."
         }
     ]
 }

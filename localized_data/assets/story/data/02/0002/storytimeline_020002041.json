@@ -6,7 +6,7 @@
             "text": "...Dios, realmente me pasé ahora."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "La herida de McQueen parece ser más<n>seria de lo que pensaba.",
             "choice_data_list": [
                 "¿Como se siente?"
@@ -14,7 +14,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Voy a tener el diagnostico correcto<n>pronto, pero parece que tendré\nque<n>rendirme del Takarazuka Kinen."
+            "text": "Voy a tener el diagnóstico correcto<n>pronto, pero parece que tendré\nque<n>rendirme del Takarazuka Kinen."
         },
         {
             "name": "Rice Shower",
@@ -26,11 +26,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "La carrera significa mucho para mi,<n>y si voy a cumplir esa meta,\ntengo<n>que concentrarme en mi recuperación<n>sobre todo."
+            "text": "La carrera significa mucho para mí,<n>y si voy a cumplir esa meta,\ntengo<n>que concentrarme en mi recuperación<n>sobre todo."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Esto significa que no podré<n>entrenar contigo, pero estoy segura<n>\nque otros miembros del equipo<n>podrán ocupar mi lugar."
+            "text": "Esto significa que no podré<n>entrenar contigo, pero estoy segura<n>de\nque otros miembros del equipo<n>podrán ocupar mi lugar."
         },
         {
             "name": "Rice Shower",
@@ -38,11 +38,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Nuestro entrrenador, nuestras<n>compañera—yo incluida—tenemos mucha<n>\nesperanza sobre ti."
+            "text": "Nuestro entrenador, nuestras<n>compañera—yo incluida—tenemos mucha<n>\nesperanza sobre ti."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Así que por favor, muestranos una<n>carrera que encenderá el fuego\nen<n>nuestros corazones."
+            "text": "Así que por favor, muéstranos una<n>carrera que encenderá el fuego\nen<n>nuestros corazones."
         },
         {
             "name": "Rice Shower",
@@ -57,7 +57,7 @@
             "text": "Seh. Te veré luego."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Ella se va con determinación<n>plasmada en su cara. Seguramente se<n>\nespabiló con las palabras de<n>McQueen."
         },
         {
@@ -65,8 +65,8 @@
             "text": "...Ahora que la veo, siento un<n>poder misterioso. Uno que nos va a<n>\nimpulsar a todas."
         },
         {
-            "name": "Monologue",
-            "text": "Tiene razon. Tener a alguien que<n>trabaja tan duro a su mitad de<n>\ncarrera ha hecho maravillas al<n>resto del equipo.",
+            "name": "Monólogo",
+            "text": "Tiene razón. Tener a alguien que<n>trabaja tan duro a su mitad de<n>\ncarrera ha hecho maravillas al<n>resto del equipo.",
             "choice_data_list": [
                 "Eso significa que te puedes concentrar en mejorarte."
             ]
@@ -76,7 +76,7 @@
             "text": "En efecto. Necesito trabajar igual<n>de duro que ella si voy a<n>\nrecuperarme por completo."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "El llenar el hoyo que dejó la<n>ausencia de McQueen trae a todo el<n>\nequipo a ayudar a Rice a entrenar."
         },
         {
@@ -89,11 +89,11 @@
         },
         {
             "name": "Umamusume Bondadosa",
-            "text": "Okey Rice, ahora sigueme a mi."
+            "text": "Okey Rice, ahora sígueme a mí."
         },
         {
             "name": "Rice Shower",
-            "text": "Está bien. Sigue al lider."
+            "text": "Está bien. Sigue al líder."
         },
         {
             "name": "Umamusume Animada",
@@ -101,7 +101,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Poniendole duro al trabajo, ya veo.<n>Parece que su entrenamiento es\nuna<n>bendición a todo el equipo."
+            "text": "Poniéndole duro al trabajo, ya veo.<n>Parece que su entrenamiento es\nuna<n>bendición a todo el equipo."
         },
         {
             "name": "Gold Ship",
@@ -117,11 +117,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Dejando de lado los postres, Rice<n>realmente se esta poniendo en<n>\nforma."
+            "text": "Dejando de lado los postres, Rice<n>realmente se está poniendo en<n>\nforma."
         },
         {
             "name": "Gold Ship",
-            "text": "Gracias a ti y las otras. Todas ahí<n>metidas la impulsan a trabajar\nmas<n>duro."
+            "text": "Gracias a ti y las otras. Todas ahí<n>metidas la impulsan a trabajar\nmás<n>duro."
         },
         {
             "name": "Mejiro McQueen",
@@ -129,14 +129,14 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Jeje. Weno, voy a ir a correr<n>dandolo todo. ¡Acuestate o algo!"
+            "text": "Jeje. Weno, voy a ir a correr<n>dándolo todo. ¡Acuéstate o algo!"
         },
         {
             "name": "Mejiro McQueen",
             "text": "¡Oye! ... Ugh, me lo restriega solo<n>porque sabe lo mucho que me\npica<n>correr de nuevo."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Con todas trabajando juntas, el<n>entrenamiento procede fluidamente."
         },
         {
@@ -145,7 +145,7 @@
         },
         {
             "name": "Umamusume Bondadosa",
-            "text": "¡Rice, tu puedes! ¡Solo piensa en<n>todo el entrenamiento que\nhicimos!"
+            "text": "¡Rice, tú puedes! ¡Solo piensa en<n>todo el entrenamiento que\nhicimos!"
         },
         {
             "name": "Rice Shower",
@@ -161,7 +161,7 @@
         },
         {
             "name": "Umamusume Sincera",
-            "text": "¡Estaremos apoyandote!"
+            "text": "¡Estaremos apoyándote!"
         },
         {
             "name": "Rice Shower",
@@ -173,14 +173,14 @@
         },
         {
             "name": "Rice Shower",
-            "text": "¡Esta Bien! ¡Sigue al lider!"
+            "text": "¡Esta Bien! ¡Sigue al líder!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Quiero ganar. Ella me dijo esas<n>palabras en la rueda de la\nfortuna."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Ahora es hora para que ella me<n>demuestre cuanto la quiere."
         }
     ]

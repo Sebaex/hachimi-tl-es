@@ -10,19 +10,19 @@
             "text": "¡Bourbon lidera! ¡Los 2.400 metros<n>no la detienen yendo de punta a<n>\npunta! ¡Seis de seis! ¡La Doble<n>Corona invicta es de ella!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Rice termina el Japanese Derby<n>segunda. Seguramente falló en pasar<n>\na Mihono Bourbon, pero de todas<n>maneras es un inmenso progreso."
         },
         {
-            "name": "Monologue",
-            "text": "Unos días despues, llevo al equipo<n>a un parque de diversiones en<n>\nChiba."
+            "name": "Monólogo",
+            "text": "Unos días después, llevo al equipo<n>a un parque de diversiones en<n>\nChiba."
         },
         {
             "name": "Rice Shower",
             "text": "¡Woa! Aquí estamos—¡El parque de<n>diversiones de los sueños! ¡Con\nel<n>castillo de la princesa, y la<n>Montaña Iluminada!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Pensé que sería bueno de invitarla<n>al parque de diversiones que\nella<n>siempre quiso ir, pero, bueno..."
         },
         {
@@ -34,12 +34,12 @@
             "text": "Entrenador... Rice realmente cree<n>que este es el lugar que\nrealmente<n>le interesaba visitar..."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "McQueen me susurra al oído mientras<n>una Rice Shower despistada<n>\nirradiaba emoción."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Yo se que estamos cortos de dinero<n>este mes, ¿pero realmente la\ntenías<n>que traer a <i>este</i> parque de<n>diversiones?"
+            "text": "Yo sé que estamos cortos de dinero<n>este mes, ¿pero realmente la\ntenías<n>que traer a <i>este</i> parque de<n>diversiones?"
         },
         {
             "name": "<username>",
@@ -63,18 +63,18 @@
         },
         {
             "name": "<username>",
-            "text": "S-si, bueno."
+            "text": "S-sí, bueno."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Dicen que el tiempo vuela cuando te<n>diviertes, así que asumo que<n>\nsignifica que nos divertimos, a<n>pesar del lugar."
         },
         {
             "name": "Rice Shower",
-            "text": "Tenemos que subirnos a casi todas<n>las atracciones. Que bueno que\nno<n>hay tanta gente hoy."
+            "text": "Tenemos que subirnos a casi todas<n>las atracciones. Qué bueno que\nno<n>hay tanta gente hoy."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Cada vez que ella expresa alegría<n>pura al estar acá, siento una<n>\npequeña puntada de culpa."
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Quiero ir a la rueda de la fortuna<n>al final del dia. Así que,\nem...<n>¿Irías conmigo?"
+            "text": "Quiero ir a la rueda de la fortuna<n>al final del día. Así que,\nem...<n>¿Irías conmigo?"
         },
         {
             "name": "Rice Shower",
@@ -97,16 +97,16 @@
             "text": "Jeje... ¡Yay!"
         },
         {
-            "name": "Monologue",
-            "text": "La ciudad se despliega hasta lo mas<n>lejos que logra ver el ojo,\nteñido<n>de naranja por el sol al atardecer."
+            "name": "Monólogo",
+            "text": "La ciudad se despliega hasta lo más<n>lejos que logra ver el ojo,\nteñido<n>de naranja por el sol al atardecer."
         },
         {
             "name": "Rice Shower",
             "text": "..."
         },
         {
-            "name": "Monologue",
-            "text": "...Pero la increible vista está<n>perdida en Rice Shower. Algo debe<n>\nestar molestandole desde que nos<n>subimos.",
+            "name": "Monólogo",
+            "text": "...Pero la increíble vista está<n>perdida en Rice Shower. Algo debe<n>\nestar molestándole desde que nos<n>subimos.",
             "choice_data_list": [
                 "¿Pasa algo?"
             ]
@@ -117,11 +117,11 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Quería decirte que gracias. Por<n>todo. Realmente no pensaba que<n>\npodía lograr tanto."
+            "text": "Quería decirte que gracias. Por<n>todo. Realmente no pensaba que<n>\npudiera lograr tanto."
         },
         {
             "name": "Rice Shower",
-            "text": "Osea, tampoco me lo creo de que<n><i>yo</i> saqué segundo lugar en\nel<n>Derby.",
+            "text": "O sea, tampoco me lo creo que<n><i>yo</i> saqué segundo lugar en el<n>\nDerby.",
             "choice_data_list": [
                 "Todo gracias a tu trabajo duro.",
                 "Todo gracias a tu trabajo duro."
@@ -133,23 +133,23 @@
         },
         {
             "name": "Rice Shower",
-            "text": "...Así que, me tenía pensando.<n>Estoy feliz con el segundo lugar,<n>\npero... ¿Que hubiera pasado si<n>salía primera?"
+            "text": "...Así que, me tenía pensando.<n>Estoy feliz con el segundo lugar,<n>\npero... ¿Qué hubiera pasado si<n>salía primera?"
         },
         {
             "name": "Rice Shower",
             "text": "Yo... Yo quiero ganar. Contra<n>Mihono Bourbon."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Quiero ganar."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Su ambición solo crecía y crecía,<n>al igual que la diferencia entre<n>\nella y su rival invicta se encogía."
         },
         {
             "name": "Rice Shower",
-            "text": "El querer ganar contra alguien como<n>ella—No podría haberlo hecho\nsin ti.<n>Así que tenía que hacertelo saber."
+            "text": "El querer ganar contra alguien como<n>ella—No podría haberlo hecho\nsin ti.<n>Así que tenía que hacértelo saber."
         },
         {
             "name": "Rice Shower",
@@ -169,7 +169,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "¡Fiu! ¡Nunca había entretenido<n>tanto en mi vida! ¿Que hay de ti,<n>\nRice?"
+            "text": "¡Fiu! ¡Nunca había entretenido<n>tanto en mi vida! ¿Qué hay de ti,<n>\nRice?"
         },
         {
             "name": "Rice Shower",
@@ -189,14 +189,14 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "...Pero asegurate de que tu próximo<n>trato sea un poco más\nadecuado."
+            "text": "...Pero asegúrate de que tu próximo<n>trato sea un poco más\nadecuado."
         },
         {
             "name": "<username>",
             "text": "H-haré lo mejor que pueda."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Al día siguiente. Rice se devuelve<n>al entrenamiento con un vigor<n>\nrenovado."
         },
         {
@@ -205,7 +205,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Solo siguela, solo siguela..."
+            "text": "Solo síguela, solo síguela..."
         },
         {
             "name": "Gold Ship",
@@ -248,23 +248,23 @@
             "text": "Eh-huh. Entiendo."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "A este paso, ella podrá dar su<n>mejor rendimiento hasta ahora en su<n>\nrevancha contra Bourbon."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "El entrenamiento le hará bien a<n>McQueen también, que tiene el<n>\nTakarazuka Kinen en camino."
         },
         {
-            "name": "Monologue",
-            "text": "Rice parece elevar aún mas al<n>equipo. Pero a veces, la realidad<n>te\ntira hacia abajo."
+            "name": "Monólogo",
+            "text": "Rice parece elevar aún más al<n>equipo. Pero a veces, la realidad<n>te\ntira hacia abajo."
         },
         {
             "name": "Rice Shower",
             "text": "¡¿McQueen?!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Su llanto desesperado hace eco en<n>la pista..."
         }
     ]
