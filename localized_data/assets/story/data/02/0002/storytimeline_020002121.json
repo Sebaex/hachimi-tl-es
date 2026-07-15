@@ -1,5 +1,5 @@
 {
-    "title": "Depresión",
+    "title": "Bajón",
     "text_block_list": [
         {
             "name": "Rice Shower",
@@ -11,7 +11,196 @@
         },
         {
             "name": "Gold Ship",
-            "text": "¡Waaah! Sin ti, ¡¿Con quien voy a<n>juguetear por diversión?!"
+            "text": "¡Waaah! Sin ti, ¡¿Con quién voy a<n>juguetear por diversión?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡¿Qué tal si no molestas a nadie al<n>menos una vez?!"
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "Se sentirá solo sin ti..."
+        },
+        {
+            "name": "Umamusume Bondadosa",
+            "text": "Seh... Tu eres nuestra<n>representante..."
+        },
+        {
+            "name": "Umamusume Sincera",
+            "text": "McQueen, vuelve pronto, ¿Ok?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Obvio. Aún no termino con el tema<n>de correr. Estaré de vuelta\nantes<n>que lo sepas."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "He llegado a saber que este equipo<n>es un lugar donde nos\npreocupamos<n>las unas a las otras, donde somos<n>libres de correr\nhacia nuestros<n>sueños."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Por favor, cuiden los lazos que<n>hemos forjado."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Y Rice..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¿S-si?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Espero que persigas tu propio<n>sueño... de convertirte en una<n>\ncorredora que la gente agradecerá<n>de ver ganar."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Snif.</i> ¡McQueeeeen!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Después de una despedida de<n>corazón, McQueen se va del equipo<n>por\nun tiempo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Unos meses después, Rice Shower<n>comienza a aproblemarse otra vez."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡En el frente está Biwa Hayahide!<n>¡Y Biwa Hayahide es la primera\nen la<n>línea de meta! La perdición de<n>McQueen, Rice Shower, ¡Llega<n>\nquinta!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Simplemente es derrota tras derrota<n>para Rice Shower."
+        },
+        {
+            "name": "Fan B",
+            "text": "Luego de ponerse en el camino de<n>los récords de Bourbon y McQueen,<n>\ntambién. O sea, ya pues, dale más<n>empeño."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hay una pregunta en la mente de<n>todos—¿A dónde se fue esa Rice<n>\nShower?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Haa, haa...</i> Fiu..."
+        },
+        {
+            "name": "<username>",
+            "text": "Tu rendimiento en la recta final no<n>es malo. ¿Como se siente?"
+        },
+        {
+            "name": "<username>",
+            "text": "Tu rendimiento en la recta final no<n>es malo. ¿Como se siente?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Siento que puedo alcanzar hasta la<n>delantera, y sé que no me estoy<n>\nquedando sin resistencia, pero..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Para ser honesto, la razón de su<n>racha de derrotas todavía me\ncausa<n>duda."
+        },
+        {
+            "name": "Monólogo",
+            "text": "El ganar el Tenno Sho de primavera<n>le dio un impulso a su\nconfianza y<n>optimismo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pero los resultados de todas sus<n>carreras después de eso no se han<n>\nmostrado."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seguramente todavía le afectan los<n>abucheos, incluso si no se da<n>\ncuenta.",
+            "choice_data_list": [
+                "¿Te gustaría dejar las carreras de lado por un tiempo?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...No, seguiré corriendo."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Me dije a mi misma que no importa<n>cuánto pierda, o cuánta gente me<n>\nabuchee, me seguiré parando firme."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Aparte, tengo que volverme en algo<n>que los fans <i>quiera</i> que<n>\ngane. Se lo prometí a McQueen."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Entrenador, ¡Voy por otra vuelta!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pero no se ve el final para su<n>bajón."
+        },
+        {
+            "name": "Relatora",
+            "text": "Y luego tenemos a Rice Shower,<n>quien está en una racha de<n>\nderrotas. ¿Volverá a estar en forma<n>en esta carrera?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "..."
+        },
+        {
+            "name": "Fan A",
+            "text": "Ella va a perder de nuevo."
+        },
+        {
+            "name": "Fan B",
+            "text": "O sea, lo intenta, al menos<n>agradécele eso."
+        },
+        {
+            "name": "Fan A",
+            "text": "Cierto. Toma mucho no rendirte<n>luego de perder demasiado..."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Rice Shower termina sexta!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡¿Dónde está la Rice Shower que una<n>vez se puso en el camino de\nMihono<n>Bourbon y Mejiro McQueen?!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...<i>Ah.</i>",
+            "choice_data_list": [
+                "Buen trabajo ahí fuera."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, Entrenador."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Jejeje... No pude ganar hoy<n>tampoco."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ella fuerza una sonrisa, pero ella<n>ya está brotando...",
+            "choice_data_list": [
+                "Está bien llorar."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...No, no voy a llorar. Si voy a<n>llorar, quiero que sean lágrimas\nde<n>alegría."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Está bien, ¡De vuelta a entrenar!<n>¡Vamos, Entrenador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A medida que se aleja, sus pasos se<n>ven increíblemente ligeros\npara<n>alguien que sufrió tremenda<n>derrota."
+        },
+        {
+            "name": "Monólogo",
+            "text": "¿Qué puedo hacer para asegurarme<n>que sus próximas lagrimas sean<n>\nlágrimas de alegría?"
         }
     ]
 }

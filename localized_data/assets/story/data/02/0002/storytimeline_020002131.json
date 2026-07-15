@@ -1,0 +1,255 @@
+{
+    "title": "Una Sonrisa en Cada Cara",
+    "text_block_list": [
+        {
+            "name": "Rice Shower",
+            "text": "<i>Haa, haa...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "No importa que tan duro ella corra,<n>Rice no parece poder encontrar\nuna<n>victoria. Aun así, ella no se ha<n>rendido en el entrenamiento."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hay que darle crédito a Rice. Toma<n>un montón de algo seguir\ncorriendo<n>de corazón después de todas esas<n>derrotas."
+        },
+        {
+            "name": "<username>",
+            "text": "Te hace desear que podamos<n>conseguirle una victoria de alguna<n>\nmanera..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Perdón la intrusión."
+        },
+        {
+            "name": "<username>",
+            "text": "Momento, ¡¿McQueen?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "De la nada, McQueen se presenta a<n>la práctica, se sintió una<n>\neternidad desde que se fue del<n>equipo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Vi que a Rice no le fue bien en su<n>última carrera. ¿Como le va\nahora?"
+        },
+        {
+            "name": "<username>",
+            "text": "Ella todavía tiene el impulso, y<n>está entrenando como siempre,\npero<n>por alguna razón no se le da."
+        },
+        {
+            "name": "<username>",
+            "text": "Ella todavía tiene el impulso, y<n>está entrenando como siempre,\npero<n>por alguna razón no se le da."
+        },
+        {
+            "name": "<username>",
+            "text": "A ella... le falta algo. Ese algo<n>que tuvo cuando corrió contigo y<n>\ncontra Bourbon."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Ya veo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Seguramente perdió de vista a algún<n>objetivo a perseguir."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Lo que significa que si le das un<n>nuevo objetivo, puede que corra<n>\ncomo lo hizo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "En otras palabras... Mejor me apuro<n>y me cambio.",
+            "choice_data_list": [
+                "Espera, ¿Qué? ¿Vas a correr?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¿Y por qué otra cosa crees que<n>vine?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Todavía tengo trabajo sin terminar,<n>pero tengo un poco más de\ntiempo<n>libre que antes."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aparte, no creo que pueda esperar<n>más para correr con el equipo de<n>\nnuevo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, pero antes de eso, tengo un<n>favor que pedirte."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡¿McQueen?! Y..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Recibí una invitación repentina<n>para venir a ayudar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "El \"favor\" de McQueen era que<n>llamara a Mihono Bourbon a que<n>\nvenga."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "He estado esperando a que vuelvas a<n>tu forma. Esperemos que esta\nsesión<n>te acerque más a la victoria."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Bourbon... ¡Eres la mejor!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ahora, como en los viejos tiempos,<n>quiero que tu sigas justo\ndetrás de<n>mí y Bourbon."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Entiendo! ¡Solo seguirte a ti y a<n>Bourbon!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Solo para aclarar las cosas, eso<n><i>no</i> incluye nuestras\nvidas<n>privadas. Síguenos con mesura, por<n>favor."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Está bien! ¡Voy a perseguir a Rice<n>por detrás entonces! Y cuando\nla<n>alcance, ¡Le arranco la cola!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡¿Uweh?!"
+        },
+        {
+            "name": "Umamusume Animada",
+            "text": "¡Vamos a ayudar también!"
+        },
+        {
+            "name": "Umamusume Bondadosa",
+            "text": "Ohh, ¿Y si nos tomamos turnos para<n>marcar el ritmo?"
+        },
+        {
+            "name": "Umamusume Sincera",
+            "text": "¡Ok! ¡Hagámoslo!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Rice, ver todo tu trabajo duro...<n>tu espíritu indomable, es una\ngran<n>inspiración para nosotras."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ahora muéstranos de nuevo—como me<n>dejaste a mí y a Bourbon en el<n>\npolvo."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Ok. ¡Lo haré!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "El Equipo Sirius. Un equipo cuyos<n>miembros continuamente se\ninspiran y<n>empujan unas a otras para ser<n>mejor."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Con el apoyo de sus compañeras de<n>equipo, Rice vuelve una vez más\na la<n>pista—su segundo Tenno Sho de<n>primavera."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oye Entrenador, y si gano, nos<n>llevarás a ese parque de<n>\ndiversiones... ¿Verdad?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Por qué crees que he estado<n>comiendo tanto ramen instantáneo?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Por qué crees que he estado<n>comiendo tanto ramen instantáneo?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Jejeje... Pero sabes, también me<n>gusta el otro parque también."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Mientras tu estes ahí, y el equipo<n>esté ahí, podemos divertirnos\ndonde<n>sea. El solo ver a las otras<n>sonreír me hace sonreír también."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y quiero hacerlos sonreír hoy. Así<n>que daré todo lo que tengo en\nesta<n>carrera.",
+            "choice_data_list": [
+                "Tú puedes."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Seh! ¡Me debería de ir ya!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ella se ve tan pequeña comparada a<n>la extensión del pasto, pero\nparece<n>hacerlo de ella."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Y aquí está Rice Shower! ¡Hace su<n>jugada! ¡Empuja hacia la\ndelantera!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Incluso cuando su esperanza por<n>ganar pareciese pequeña, ella no\nse<n>rindió, y siguió corriendo."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Rice Shower no cede la delantera!<n>¡Se mantiene desesperadamente!\n¡Y<n>ahora... lo hizo!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Rice Shower vuelve al círculo de<n>las ganadoras en el Tenno Sho de<n>\nprimavera!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Y no soy el único que se ha dado<n>cuenta."
+        },
+        {
+            "name": "Fan A",
+            "text": "Luego de denegar tantos récords, y<n>perder tantas veces, finalmente<n>\ngana, huh."
+        },
+        {
+            "name": "Fan A",
+            "text": "¡¿Cuánto más nos vas a hacer<n>esperar?! ¡Felicidades, Rice!"
+        },
+        {
+            "name": "Fan B",
+            "text": "¡Buen trabajo! ¡Lo hiciste genial!"
+        },
+        {
+            "name": "Espectadores",
+            "text": "<i>¡Wooo!</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¿Eh? ¡¿Qu-que—?!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Los apoyos son ensordecedores! ¡El<n>estadio completo está\ninundando a<n>Rice Shower con apoyo!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ellos... ellos están felices...<n>¡Están sonriendo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Cuando parecía que todo el mundo la<n>bajoneaba, ella se paró<n>\narrastrándose, paso a paso."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Se mantuvo. Trabajó más duro que<n>nunca. Y ahora, se fue con la<n>\nrecompensa del amor de todos."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Gracias, ¡A todos!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "¡Seguiré corriendo, por siempre y<n>para siempre! ¡Voy a correr\nhasta<n>que todo el mundo sonría!"
+        }
+    ]
+}
