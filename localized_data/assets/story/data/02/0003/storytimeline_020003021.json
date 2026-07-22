@@ -1,0 +1,345 @@
+{
+    "title": "¡Voy a Ganar mi Primer Derby!",
+    "text_block_list": [
+        {
+            "text": "Ya casi es la hora para la ceremonia de los premios URA, y estoy esperando en la transmisión el gran momento de mi mentor."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Toc, toc! ¿Estás ahí, Entrenador?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ah, ¡Ahí estás! ¿Tienes un minuto? Quería hablarte sobre la exhibición del Derby.",
+            "choice_data_list": [
+                "Claro, ¿Qué pasa?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Estaba pensando sobre las cosas que vamos a mostrar. Pero, osea... quiero hacer las cosas más fáciles de entender."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ahora parece que es un montón de información. ¡Pero lo que realmente quería es que la gente quede <i>sorprendida</i> de lo que ven!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Así que pensaba que tendrías una buena idea. Pensar ideas no es realmente mi fuerte, jeje..."
+        },
+        {
+            "name": "<username>",
+            "text": "Algo sorprendente, ¿eh? ¿Y que tal si te vas al detalle en lo que más te sientes apasionada?"
+        },
+        {
+            "name": "<username>",
+            "text": "Algo sorprendente, ¿eh? ¿Y que tal si te vas al detalle en lo que más te sientes apasionada?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿De lo que me siento mas apasionada?"
+        },
+        {
+            "name": "<username>",
+            "text": "Cuando hablas del Derby, siempre me dices que es lo que pensaba y sentía cada corredora, ¿verdad?"
+        },
+        {
+            "name": "<username>",
+            "text": "Cuando hablas del Derby, siempre me dices que es lo que pensaba y sentía cada corredora, ¿verdad?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, ¡Ya entendí! ¡Así que debería de mostrar las cosas que tienen todo el tremendo lore!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Ya tengo otras cosas que recolecté que podrían funcionar! Está bien, ¡Hora de hacer una linda exhibición!"
+        },
+        {
+            "text": "Winning Ticket quiere comenzar a organizar los displays, pero la transmisión esta a punto de comenzar."
+        },
+        {
+            "name": "<username>",
+            "text": "Antes de eso, ¿No te importa si miro algo en la tele? Mi mentor está recibiendo un premio URA."
+        },
+        {
+            "name": "<username>",
+            "text": "Antes de eso, ¿No te importa si miro algo en la tele? Mi mentor está recibiendo un premio URA."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, el entrenador de Oguri, ¿verdad? ¡Lo voy a ver también! ¡Esto debería ser bueno!"
+        },
+        {
+            "text": "Prendo la tele, y en unos momentos, la ceremonia que tanto anticipaba comienza."
+        },
+        {
+            "name": "Locutor",
+            "text": "¡Felicidades en su premio Ura! En sus largos años de entrenamiento, ¿Hay alguna carrera que destaque del resto?"
+        },
+        {
+            "name": "Predecesor",
+            "text": "Bueno, siento una gran pasion sobre todas las corredoras con las cuales he trabajado. Así que cada carrera tiene un lugar especial en mi corazón."
+        },
+        {
+            "name": "Locutor",
+            "text": "Este premio conmemora todos sus increibles logros. ¿Como se sintió cuando escuchó que lo recibiría?"
+        },
+        {
+            "name": "Predecesor",
+            "text": "Oh, estaba feliz. No lo podía creer... Me preguntaba como me lo merecía."
+        },
+        {
+            "name": "Predecesor",
+            "text": "No todos los sueños de las corredoras se vuelven realidad. Nunca pude llevar a una a mi propia victoria en el Derby, después de todo."
+        },
+        {
+            "name": "Predecesor",
+            "text": "Claramente lo quería eso si, como todos involucrados en las carreras. Dicen que una victoria en el Derby es el mayor de los honores que uno puede obtener."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Eh? Así que nunca ganó el Derby..."
+        },
+        {
+            "text": "No me di cuenta hasta ahora, pero de todos los grandes titulos que él tenía, ninguno era el Derby."
+        },
+        {
+            "name": "<username>",
+            "text": "Siempre escucho que es el pinaculo de las carreras, pero ni siquiera un entrenador veterano como él pudo ganarlo."
+        },
+        {
+            "name": "<username>",
+            "text": "Siempre escucho que es el pinaculo de las carreras, pero ni siquiera un entrenador veterano como él pudo ganarlo."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Sabes, el Derby fue la primera gran carrera de la Twinkle Series."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Desde que comenzó, se han armado mucho drama sobre las increibles corredoras que han intentando demasiado para ganarlo."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Y todas son super-duper serias sobre él! Es por eso que es un gran desafío incluso para un entrenador veterano y las mas habiles corredoras de ganarlo."
+        },
+        {
+            "text": "El hecho de que incluso mi antiguo mentor no pudiera ganarlo me convence de lo que habla Winning Ticket."
+        },
+        {
+            "name": "Relator",
+            "text": "Incluso participó en el Derby una vez donde su corredora era la favorita de ganar, pero al final, no pudo alcanzar la victoria, ¿Cierto?"
+        },
+        {
+            "name": "Predecesor",
+            "text": "Ah, lo recuerdo bien. La entrené hasta que estuviera completamente asegurada de la victoria. Aún así, sus rivales lograron dejarla atrás en la última recta."
+        },
+        {
+            "name": "Predecesor",
+            "text": "Cierta gente dijo que si hubieramos hecho esto o esto otro, hubieramos ganado. Pero ella dio todo lo que tenía—sabía que no tenía que pensar como ellos."
+        },
+        {
+            "name": "Predecesor",
+            "text": "Le dije que no se arrepienta nada—solo que recordara que puso todo su corazón en ello. Aprende y sigue adelante... Eso me di cuenta que necesitabamos hacer a fin de cuentas."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Están hablando del primer Derby que vi! ¡Lo vi justo al lado de la pista con mi mamá!"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Estabas en el Derby del cual él habla?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Seh, ¡Estoy segura de eso! ¡Fue una carrera absolutamente <i>increible</i>!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Incluso si su corredora fue la favorita, ella nunca se quedó atras. Estaba tan concentrada en ganar que nunca se rindió, ¡Incluso hasta el final!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Finalmente entendí lo importante que es el Derby después de ver eso. Por eso me enamoré de él."
+        },
+        {
+            "text": "Winning Ticket está fascinada con el Derby. Todo nació de cuando ella lo vió cuando era niña, y ese justo era el Derby que mi mentor y su aprendíz pelearon tan duro en él."
+        },
+        {
+            "name": "Predecesor",
+            "text": "Me terminé retirando antes de que lo pudiera ganar... Ahora un miembro del Equipo Sirius lleva el sueño eso si."
+        },
+        {
+            "name": "Predecesor",
+            "text": "Realmente creo que entrenador finalmente puede obtener el título."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oye, es sobre tí, ¿verdad? ¡Dijo que tu podías ganarlo!"
+        },
+        {
+            "name": "<username>",
+            "text": "Seh..."
+        },
+        {
+            "name": "<username>",
+            "text": "Seh..."
+        },
+        {
+            "text": "Se siente como si mi antiguo profesor me viera del otro lado de la Tele. Como si dijera, \"Aquí está el sueño. Tu puedes, hijo\""
+        },
+        {
+            "text": "Se siente como si mi antiguo profesor me viera del otro lado de la Tele. Como si dijera, \"Aquí está el sueño. Tu puedes, hija\""
+        },
+        {
+            "name": "<username>",
+            "text": "Un sueño aún sin cumplir... Comprendo que se me dio algo muy importante. Mi mentor realmente cree en mi...",
+            "choice_data_list": [
+                "Sería genial de ganar el Derby..."
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Un sueño aún sin cumplir... Comprendo que se me dio algo muy importante. Mi mentor realmente cree en mi...",
+            "choice_data_list": [
+                "Sería genial de ganar el Derby..."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡¿Eh?! ¡¿Entonces vas a ir por él?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡WAAAH! ¡Ahora <i>eso</i> es una historia! ¡Un maestro que le pasa el sueño que no pudo alcanzar a su alumno!"
+        },
+        {
+            "text": "Como ella dice, todo esto se siente como una historia."
+        },
+        {
+            "text": "Justo cuando me piden ayuda con una exhibición, termino conociendo a alguien cuyo sueño es ganar el Derby."
+        },
+        {
+            "text": "Y justo cuando Winning Ticket viene a la oficina de entrenadores, escucho a mi mentor hablar de eso. Todo está conectado..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡El relator también es super bueno entrevistando! ¡Estoy <i>sorprendida</i> de que pude escuchar esta historia del Derby!"
+        },
+        {
+            "text": "¿Podrá eso ser el destino? Realmente así se siente.",
+            "choice_data_list": [
+                "Oye, ¿Y que tal si vamos por él juntos?",
+                "Oye, ¿Y que tal si vamos por él juntas?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Eh? Por \"él\", te refieres..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "E-espera... ¿Ir por el Derby? ¡¿C-c-conmigo?!"
+        },
+        {
+            "name": "<username>",
+            "text": "Seh, querías ganar el Derby, ¿verdad?"
+        },
+        {
+            "name": "<username>",
+            "text": "Seh, querías ganar el Derby, ¿verdad?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Muy cierto que quiero! ¡Lo tengo que ganar! ¡Ese es mi sueño desde que era pequeña!"
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno, ahora siento que también tengo que ganarlo."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno, ahora siento que también tengo que ganarlo."
+        },
+        {
+            "name": "<username>",
+            "text": "Así que si estás para ello, vamos juntos."
+        },
+        {
+            "name": "<username>",
+            "text": "Así que si estás para ello, vamos juntas."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿En... en serio? ¿En serio quieres hacer equipo conmigo?",
+            "choice_data_list": [
+                "¡Tiene que ser tu!",
+                "¡Tiene que ser tu!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Aaah... ¡Uwaaaaaa!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡VAMOOOOOS! ¡ME RECLUTARON! ¡Hagamoslo, Entrenador! ¡Ganemos el Derby!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Ejeje! ¡Voy a ganarte el titulo de \"Entrenador del Derby\"!"
+        },
+        {
+            "name": "<username>",
+            "text": "Está bien. Y voy a ayudarte a ganar el titulo de \"Campeona del Derby.\""
+        },
+        {
+            "name": "<username>",
+            "text": "Está bien. Y voy a ayudarte a ganar el titulo de \"Campeona del Derby.\""
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Genial! ¡Estoy super emocionada de trabajar contigo! ¡Ya está! ¡Vamos por el Derby!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Soy Winning Ticket. ¡Encantada de conocerte!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Guau, alguien con la tremenda chispa se unió al grupo."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Escuché bastante sobre ti, Ticket. Tu objetivo es ganar el Derby, ¿si?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Un montón de grandes corredoras comparten ese objetivo. Tendrás bastantes rivales, pero te ayudaremos a alcanzar ese sueño juntas."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Gracias! ¡Le prometo al Equipo Sirius una victoria del Derby!"
+        },
+        {
+            "name": "<username>",
+            "text": "La pasión de Ticket por el Derby es una gran cosa. ¡Cuento con todas ustedes de darle todo su apoyo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Woa, en eso estamos! ¡Nos fuimos, novata! ¡El sol brilla ante nosotras hoy!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! Aquí vamos, ¡DEEERBYYY!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Así se habla! ¡Estaré contigo en eso! ¡Al DEEERBYYY!"
+        },
+        {
+            "text": "Y así se levanta el telón en la historia de Winning Ticket y su busqueda de la victoria en el Japanese Derby."
+        }
+    ]
+}

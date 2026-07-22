@@ -1,0 +1,275 @@
+{
+    "title": "La Promesa que Hicimos",
+    "text_block_list": [
+        {
+            "name": "Narration",
+            "text": "Ella se debió de reir cuado escuchó a la gente decir que este no era un lugar para una reina."
+        },
+        {
+            "name": "Narration",
+            "text": "Un pelo oscuro volando en el viento, ella bailó hacia la delantera como si fuera un juego. Todo lo que podían hacer era inclinarse ante su majestad."
+        },
+        {
+            "name": "Narration",
+            "text": "El nombre de esta reina era Vodka."
+        },
+        {
+            "name": "Narration",
+            "text": "Ella convirtió el sueño de todos en su propia gloria. Y sus ojos brillaban con la luz de un futuro que nunca nadie había visto."
+        },
+        {
+            "name": "Monologue",
+            "text": "La estación pasa hasta otoño, finalmente trayendo el día de la Feria de Solefall."
+        },
+        {
+            "name": "Monologue",
+            "text": "La exhibición que preparé con Winning Ticket se vuelve un gran éxito en el evento."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Y entonces, y entonces! ¡Mira en este Derby—fue tan emocionante! ¡¿Verdad, Entrenador?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ok, ok. Solo muestranos bien y lento."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Lo hiciste bien en hacer semejante exhibición mientras también entrenabas para tus carreras."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Estaba táaaaan ocupada. Pero mi entrenador ayudó, ¡Y logramos seguir con eso de alguna forma!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Oh, cierto! ¡No presenté a nadie todavía!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Este es mi entrenador! ¡Y esta es Taishin y Hayahide!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin y Biwa Hayahide. Compañeras de Winning Ticket, ellas hicieron sus debuts casi al mismo tiempo.",
+            "choice_data_list": [
+                "Encantado de conocerlas."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hola. Así que... tu estás completamente ocupado con ella."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "En efecto. Me imagino que mimar a Ticket es semejante desafío. Pensandolo, incluso te amarró en ayudarla con la exhibición."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Vaaaaaaamos! ¡¿Eso es lo que piensan ustedes dos de mi?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Lo entendieron todo al revés! ¡Entrenador vino a ayudarme con la exhibición primero!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Dos personas preparando una exhibición del Derby se juntan para ganar el Derby—eso debe de ser el destino. <i>¡EL DESTINO!</i>"
+        },
+        {
+            "text": "Oh, y hablando del destino, ¡Eso me recuerda! ¿Te acuerdas de la promesa que hicimos cuando nos conocimos, verdad?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "¿La que hicimos en nuestra primera clase de entrenamiento?"
+        },
+        {
+            "name": "Instructor",
+            "text": "Está bien, a todas, para comenzar, vamos a cronometrar sus tiempos. Me gustaría que elijan una distancia que calza con su aptitud, y midan sus tiempos."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, oh, ¡Instructor! ¿Puedo correr los 2.400 metros, como en el Derby?"
+        },
+        {
+            "name": "Instructor",
+            "text": "Uh, seh... Es cosa tuya. Pero las estudiantes nuevas por lo general comienzan con la mitad de eso."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Lo se! ¡Pero mi objetivo es el Derby!"
+        },
+        {
+            "name": "Instructor",
+            "text": "Em, está bien... Voy a preguntar en caso de—¿Alguien más quiere correr 2.400 metros?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yo..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "También me gustaría correr los 2.400 metros."
+        },
+        {
+            "name": "Instructor",
+            "text": "¿¡En serio?! ¡¿Lo dicen en serio?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Haa... iiiiii...</i> ¡N-no puedo hacerlooo! ¡Mi tiempo es demasiado lento!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Haaa... Haaa...</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "¡Ugh!"
+        },
+        {
+            "name": "Instructor",
+            "text": "2.400 metros... Correr la distancia de una clasica no es tarea fácil."
+        },
+        {
+            "name": "Instructor",
+            "text": "Deberían trabajar perfeccionando las bases primero y mejorar hasta el punto en el que puedan correr todo."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Haaa... Huuu...</i> E-entendido..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Lo haré algún día..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Voy a perfeccionar esta distancia..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Heh... ¡Ejejeje! ¡Oye, ustedes dos! ¡Gracias por correr conmigo!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No lo hice por tí, así que no me lo agradezcas. Esa es la distancia que espero correr algún día."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Es simplemente una distancia en la que una debe ser competente para volverse una buena corredora."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Lo sabía! ¡Ustedes dos también van por el Derby! Tres estudiantes en la misma clase con los ojos en el mismo objetivo..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Waaaah! ¡Tremenda historia! ¡Vamos a correr en el Derby juntaaaas!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Ack! Espera... ¡¿Y por que estás llorando?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Nuestra carrera será una para los libros de historia! ¡El Derby más intenso y dramatico de todos!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Los ojos de Ticket brillan bastante mientras ella vuelve a contar la historia de como dieron el primer paso juntas hacia sus sueños."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Estáaa bien! ¡Hagamos esa promesa una vez más! ¡Todas juntas! Uno, dos... ¡DEEERBYYY!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Eh? ¡Tu no lo dijiste!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "La encargada de esta exhibición me está comenzando a molestar. Vamos a otro lado."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yo creo que hay entretenimiento en el escenario exterior."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡¿Quéeeee?! ¡Esperen!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Era broma. Pero en serio, necesito irme a entrenar luego."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Entrenar? ¿Mientras dura la Feria de Solefall?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Taishin corre en la próxima carrera."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Oh, verdad! ¡Sabes que estaré apoyandote, Taishin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ella entrena para su carrera incluso durante un evento escolar..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Al contrario de lo áspera que es por fuera Narita Taishin, es bastante disciplinada."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Entonces hagamoslo una vez más para mostrar entusiasmo! Uno, dos... ¡DEEERBYYY!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ya te dije, ¡Eso molesta!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Varios días después."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Están por la cuarta curva y Narita Taishin está en segundo lugar! ¡Pero espera! ¡Las otras corredoras están bastante cerca!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Taishiiin! ¡Vamos! ¡TU PUEDES HACERLO!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Los fervientes ánimos de Ticket fueron inútiles, y Taishin termina sexta."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Taishin!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oye, Ticket..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡N-no te preocupes! ¡Vamos a entrenar juntas para la próxima!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Perdón, pero no me intentes animar. Quiero estar sola ahora."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh... Eh, perdón..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tres buenas amigas apuntan a ganar el Derby. Pero esta carrera sirve como un amargo recordatorio que el camino para alcanzar dicho sueño es uno bien duro."
+        }
+    ]
+}

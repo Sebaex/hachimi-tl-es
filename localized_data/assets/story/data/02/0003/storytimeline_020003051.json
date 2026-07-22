@@ -1,0 +1,167 @@
+{
+    "title": "Mis Mejorcitas Rivales",
+    "text_block_list": [
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Haaa... Haaa... Haaa...</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oye, oye, ¡Taishin! Ya pues, ¡Vamos a entrenar!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Prometimos de correr en el Derby! Así que realmente pienso que sería genial de entrenar juntos para él."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Haaa... Haaa... Haaa...</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Oyeeee! ¿Estás escuchando?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Ugh! ¡Deja de molestarme!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Te dije que no te preocuparas de mi! Estoy bien, ¡Solo preocupate de tus propias carreras! ¡Tonta!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Waaaaah! ¡Me dijo tontaaaaaaaaa!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Lo veo bastante claro. ¿La estabas molestando?"
+        },
+        {
+            "text": "Estabamos todos aquí luego que Winning Ticket llamara a una reunión de emergencia sobre como ayudar a Narita Taishin después de perder."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Pero reaaalmente quería hacerla sentir mejor! ¡Porque quiero correr en el Derby juntas!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No te tienes que explicar—Entiendo lo que piensas. Naturalmente, Taishin también lo hace."
+        },
+        {
+            "text": "Queee... ¿En serio crees que lo entiende? ¿Incluso si me dijo tonta?"
+        },
+        {
+            "text": "Como dice Biwa Hayahide, Narita Taishin sabe que Winning Ticket quiere correr juntas en el Derby."
+        },
+        {
+            "text": "Y sus intentos de sacarse a Winning Ticket debe de significar una cosa...",
+            "choice_data_list": [
+                "Ella te alejó porque quiere correr junto a ti también.",
+                "Ella te alejó porque quiere correr junto a ti también."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sí, precisamente eso. Somos todas rivales que prometimos correr juntas en el Derby."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! ¡Rivales en la pista, amiguis fuera de ella!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Entonces entiendes que cooperar no lo es todo."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Mmmm... MMMMMMMM... ¡Realmente no entiendo!"
+        },
+        {
+            "name": "<username>",
+            "text": "Rice Shower estaba intentando alcanzar a Mihono Bourbon siempre... hasta que finalmente le ganó en el Kikuka Sho."
+        },
+        {
+            "name": "<username>",
+            "text": "Así que no siempre tienes que correr al lado de tus rivales. A veces correr mas al frente también los puede motivar."
+        },
+        {
+            "name": "<username>",
+            "text": "Así que no siempre tienes que correr al lado de tus rivales. A veces correr mas al frente también los puede motivar."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Correr... al frente..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Verte ganar después de carreras consecutivas fue conmovedor tanto para mi como para Taishin."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No hay necesidad de decirlo. Solo sigue corriendo al frente."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Lo entiendo... Taishin no quiere que nos quedemos atras. ¡Ella se esfuerza lo mas que pueda para correr <i>con</i> nosotras!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Ok! ¡Voy a correr como nunca! ¡No voy a parar porque se que Taishin va a alcanzarme!"
+        },
+        {
+            "text": "Más tarde a la noche, el sonido de unos pasos rapidos se podían escuchar en la pista de entrenamiento."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Haaa... Haaa... Haaa...</i>"
+        },
+        {
+            "text": "Winning Ticket está entrenando por su parte para poder correr en frente de sus rivales."
+        },
+        {
+            "text": "Mientras miro a la corredora dedicada, un segundo, y luego un tercer set de pasos se unen."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Haaa... Haaa... Haaa...</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "<i>Haaa... Haaa... Haaa...</i>"
+        },
+        {
+            "text": "No planeaban de juntarse aquí. Sucedió por casualidad porque todas sentían lo mismo al mismo tiempo."
+        },
+        {
+            "text": "Sin palabras, las tres continuaron corriendo. Pero sus pasos sobrepuestos suenan como un intercambio ardiente entre rivales."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "<i>Hah...</i> Estudiantes usando la pista de entrenamiento a estas horas no se hace. ¿Que se puede hacer?",
+            "choice_data_list": [
+                "¿Podrías pasar de alto esta vez?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Jeje, si debería. Insisto que las estés mirando eso si."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "No me gustaría meterme durante este momento importante en sus vidas. ♪"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Haaa, haaa, haaa, haaa...</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ngh... <i>Haaa, haaa, haaa...</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Ugh! <i>Haaa, haaa, haaa...</i>"
+        }
+    ]
+}
