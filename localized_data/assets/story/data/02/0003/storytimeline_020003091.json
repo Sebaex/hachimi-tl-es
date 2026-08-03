@@ -1,0 +1,321 @@
+{
+    "title": "El Encuentro BNW en el Satsuki Sho",
+    "text_block_list": [
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Ha... haaa... haaa...<n>haaa...</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Exhala...</i>"
+        },
+        {
+            "name": "Estudiante A",
+            "text": "¿Eh? Oye, mira, es Taishin."
+        },
+        {
+            "name": "Estudiante B",
+            "text": "Ah, sí. Igual de pequeña que<n>siempre."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ah, son ustedes dos..."
+        },
+        {
+            "name": "Estudiante A",
+            "text": "Bueno, bueno. Mira ese uniforme...<n>Así que entraste a la Academia<n>\nTracen."
+        },
+        {
+            "name": "Estudiante B",
+            "text": "¿No es un poco difícil, Taishin?<n>Intentar ser una corredora de<n>\nTracen me refiero."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¿Qué?"
+        },
+        {
+            "name": "Estudiante B",
+            "text": "En serio, no somos Umamusume, ¡Pero<n>apuesto que te podemos ganar!"
+        },
+        {
+            "name": "Estudiante A",
+            "text": "Jaja, parece que somos lo<n>suficientemente buenas para Tracen<n>\ntambién."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "name": "Estudiante A",
+            "text": "Ay, haciendo la misma cara<n>amargada. Que perdedora. Vámonos."
+        },
+        {
+            "name": "Estudiante B",
+            "text": "Adiosito. ♪"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Tch!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Taishiiin! ¡Volvimos! Y trajimos<n>la mercadería—¡TAIYAKI!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Eh? ¿Estás bajoneada?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...Estoy bien."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Seguramente porque te demoraste<n>comprando, Ticket."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Pero Taishin siempre está tipo \"No<n>me importa. Tráiganme lo que\nsea.\"<n>Entre los crepes y el helado, ¡No<n>sabía que elegir!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Pero mira, te traje el<n>grandototote, ¡Así te pondrás<n>grande y\nfuerte!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡¿G-grandototote?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "No importa si no te lo terminas<n>todo—¡Te ayudamos! Sentémonos por<n>\nahí y comamos."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Vamos, ¡Se te va a enfriar si no te<n>apuras! ¡Alcánzanos el ritmo!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "En serio... Vamos, Taishin."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ok."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Bueno, ¡Una vuelta más!"
+        },
+        {
+            "text": "Quedan unos pocos días antes del<n>Satsuki Sho."
+        },
+        {
+            "text": "Winning Ticket está llegando a su<n>etapa final de su entrenamiento.<n>\nHoy, voy a tenerla corriendo por<n>fuera de la academia."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Estoy llena de energía! ¡Vamos por<n>este entrenamiento extra!",
+            "choice_data_list": [
+                "¡Así se habla! ¡Mantente así hasta la carrera!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! ¡Está bien! ¡Ahora TOCA<n>prenderse!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, es Winning Ticket y su<n>entrenador. Consideraré que van a<n>\ncomenzar a entrenar."
+        },
+        {
+            "name": "<username>",
+            "text": "Así es. Por qué, ¿Qué pasó?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Bueno, verás, hay un grupo de<n>reporteros que se juntaron al<n>frente\nde la academia."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Estaba pensando en decirles que se<n>fueran para que no interfieran\ncon<n>los entrenamientos. Quedan solo<n>unos pocos días para el Satsuki<n>\nSho, después de todo."
+        },
+        {
+            "text": "Tiene razón. Con tan poco tiempo<n>restante, deberíamos de conseguir<n>\nla mayor cantidad de entrenamiento<n>posible. Lo mejor sería que se<n>\nfueran."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, ¡Déjame hablar con ellos! ¡No<n>puedo decepcionar a cualquier\nfan o<n>reportero!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¿Oh? Pero tu entrenamiento..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Está bien! No planeo saltármelo o<n>cualquier otra cosa. ¡Aun así\nlo<n>haré tal como lo planeamos!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Así que! ¡Estaré hasta la hora<n>límite! Quédate conmigo todo el<n>\nrato, ¿Si?",
+            "choice_data_list": [
+                "Seh, entendido.",
+                "Seh, entendido."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Jejeje, ¡Entonces vamos a ver a<n>esos reporteros!"
+        },
+        {
+            "name": "Reportero A",
+            "text": "¡Ah! ¡Winning Ticket está aquí!"
+        },
+        {
+            "name": "Reportero B",
+            "text": "¡Disculpa! ¿Estás para una<n>entrevista?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Woa! No es necesario empujar. ¡Voy<n>a responder las preguntas de\ntodos!"
+        },
+        {
+            "text": "Con el Satsuki Sho tan cerca,<n>Winning Ticket está llamando aún<n>más\nla atención de los ojos del<n>público."
+        },
+        {
+            "text": "Sintiéndolo su deber, ella responde<n>todas las preguntas lo mejor\nque<n>puede."
+        },
+        {
+            "name": "Reportero A",
+            "text": "¡Winning Ticket! ¿Como está<n>progresando tu entrenamiento?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Em... ¡Es muy bueno! ¡Y puedo decir<n>que me vuelvo mejor día a día!"
+        },
+        {
+            "name": "Reportero A",
+            "text": "¿Estás preocupada de que tus dos<n>rivales corran en la misma\ncarrera?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Ni pensándolo! ¡Estoy totalmente<n>emocionada de correr con ellas!\nY no<n>solo en el Satsuki Sho, ¡Pero en el<n>Derby también!"
+        },
+        {
+            "text": "Mientras la amable corredora<n>atiende a la multitud de<n>reporteros,\nNarita Taishin sale<n>caminando de la academia."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Parece que estás en un atasco."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, ¡Taishin! Jeje... Me conoces,<n>no podía rechazarlo."
+        },
+        {
+            "name": "Reportero A",
+            "text": "¡Narita Taishin! Respecto a tu<n>primera carrera de las Clásicas,<n>\ntu—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Perdón, tengo que entrenar. Nos<n>vemos luego, Ticket."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh... O-ok."
+        },
+        {
+            "text": "Narita Taishin evita las repentinas<n>preguntas y se va caminando\ncon<n>ganas."
+        },
+        {
+            "name": "Reportero A",
+            "text": "Biwa Hayahide también nos evitó<n>recién."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Lo hizo?"
+        },
+        {
+            "text": "Parece que las rivales de Ticket<n>están concentradas en entrenar en<n>\nel inminente Satsuki Sho."
+        },
+        {
+            "text": "Mientras veía su pequeña<n>conferencia de prensa, estaba<n>intentando\npensar en un nuevo<n>régimen de entrenamiento para que<n>ella no se\nquedara atrás."
+        },
+        {
+            "text": "Antes de que lo supiéramos, el día<n>del Satsuki Sho—la primera\ncarrera<n>de las Clásicas en la que las tres<n>miembros de BNW están<n>\ncompitiendo—llegó."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Uwaaaah! ¡Solo por escuchar<n>\"Carrera Clásica\" me pone nerviosa!"
+        },
+        {
+            "name": "<username>",
+            "text": "Porque cada Clásica es la gran<n>cosa, no solo el Derby."
+        },
+        {
+            "name": "<username>",
+            "text": "Porque cada Clásica es la gran<n>cosa, no solo el Derby."
+        },
+        {
+            "name": "<username>",
+            "text": "Eso sí entrenamos duro para esto.<n>Estás en perfecta forma. ¡Todo\nlo<n>que queda es correr con todas tus<n>ganas y tomar la corona!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Taishin y Hayahide estarán conmigo<n>también! ¡Así que podre ir con<n>\ntodo!",
+            "choice_data_list": [
+                "¡Tú puedes!",
+                "¡Tú puedes!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! ¡Estoy lista!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, ¡Taishin! ¡Hayahide! ¡EEEEEEY!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Cállate! ¡Ya te dije, el eco aquí<n>está horrible!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Jeje, no puedo evitarlo. ¡Estoy tan<n>feliz de correr juntas!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Entiendo tu entusiasmo. Hemos<n>estado en tantas carreras y<n>\nfinalmente estamos paradas en la<n>misma pista. Es conmovedor."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Eso creo... igual es genial que<n>nosotras tres llegáramos hasta\nacá."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sin embargo, correr juntas no es<n>nuestro objetivo."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Correr y ganar... Nos dieron todo<n>por esa razón. Todo fue para\nestar<n>acá, en este día."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yo también. Lo único que quería era<n>llegar hasta acá. Así que\ncorreré<n>como nunca lo he hecho y ganaré."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! ¡Tampoco planeo perder!"
+        },
+        {
+            "name": "Relatora",
+            "text": "Las expectativas son altas para la<n>corredora favorita entrando—la<n>\nmiembro de BNW, ¡Winning Ticket!"
+        },
+        {
+            "text": "Winning Ticket le da un gran saludo<n>a sus fans en las gradas a\nmedida<n>que se acerca a la puerta de<n>salida."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Las corredoras están entrando a<n>las puertas! La primera carrera\nde<n>las Clásicas, el Satsuki Sho...<n>¡Comienza!"
+        }
+    ]
+}

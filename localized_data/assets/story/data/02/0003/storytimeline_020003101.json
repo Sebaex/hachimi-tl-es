@@ -1,0 +1,182 @@
+{
+    "title": "Ahora Se Cómo Se Siente",
+    "text_block_list": [
+        {
+            "name": "Narración",
+            "text": "Lo llamaron el Derby con las<n>mejoras corredoras de todos los<n>\ntiempos."
+        },
+        {
+            "name": "Narración",
+            "text": "Entre las increíbles corredoras,<n>nadie pensó sobre ella como<n>\nespecial."
+        },
+        {
+            "name": "Narración",
+            "text": "Pero ella sabía quién era."
+        },
+        {
+            "name": "Narración",
+            "text": "Para dejar sus derrotas anteriores<n>atrás, ella libero todo su ser\nen el<n>último acelerón y, en un destello,<n>salió victoriosa al final."
+        },
+        {
+            "name": "Narración",
+            "text": "Esa luz tenía un nombre—Eishin<n>Flash."
+        },
+        {
+            "name": "Narración",
+            "text": "Las más fuertes son siempre esas<n>que creen en sí mismas y siguen\nsu<n>propio camino."
+        },
+        {
+            "text": "Para Winning Ticket, la primera<n>carrera de las Clásicas, el\nSatsuki<n>Sho, termina en un fracaso."
+        },
+        {
+            "text": "El día después de su derrota..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Haaa... Haaa...</i> Fiu..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Que seguía, ¿Entrenamiento en<n>pendientes?"
+        },
+        {
+            "text": "Ella está entrenando como cualquier<n>otro día, aunque le dije que\nestá<n>bien el descansar justo después de<n>una carrera.",
+            "choice_data_list": [
+                "¿No estás tan fatigada?",
+                "¿No estás tan fatigada?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Eh? Oh, estoy bien."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Sabes, como que siento que no me<n>puedo tomar un descanso, incluso<n>\npor un día... Ejeje."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Así que voy con el entrenamiento<n>en pendientes!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ella siempre deja que sus<n>sentimientos tomen el control, así<n>que\npienso que siempre está tipo,<n>\"Nooo, ¡Perdí!\""
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Pero ella no parece tener su típica<n>energía ilimitada. Perder el<n>\nSatsuki Sho debe ser un tremendo<n>shock."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Porque significa que después puede<n>perder el Derby."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Entrenador, asegúrate de ponerle el<n>ojo encima por favor.",
+            "choice_data_list": [
+                "Estoy en eso."
+            ]
+        },
+        {
+            "text": "Digo eso, pero no tengo idea de que<n>hacer por Winning Ticket ahora<n>\nmismo."
+        },
+        {
+            "text": "Me devuelvo a mi oficina después<n>del entrenamiento para<n>\nencontrármela ahí."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, Entrenador."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Se te olvidó algo?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "No, pensaba ver el video de una<n>carrera."
+        },
+        {
+            "text": "Ella está viendo otro video del<n>Derby. Ella viene bastante seguido<n>\na hacer eso."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "..."
+        },
+        {
+            "text": "Pero antes, ella siempre se<n>emocionaba y comenzaba a gritar<n>sobre\nlo emocional que es. Ahora<n>simplemente está sentada y callada<n>como\nun ratón.",
+            "choice_data_list": [
+                "La próxima será tu turno de correr en el Derby.",
+                "La próxima será tu turno de correr en el Derby."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡¿Qué?! O-oh, verdad... Seh. Estaré<n>en la carrera que llevo viendo<n>\ndesde siempre."
+        },
+        {
+            "text": "Por lo general ella no se puede<n>calmar una vez que se pone a\nhablar<n>sobre el Derby, pero ella se siente<n>rara sobre algo hoy."
+        },
+        {
+            "name": "<username>",
+            "text": "Perdón si no pudimos ganar el<n>Satsuki Sho..."
+        },
+        {
+            "name": "<username>",
+            "text": "Perdón si no pudimos ganar el<n>Satsuki Sho..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Em, ¿Entrenador? ¿Puedo decir algo<n>bastante obvio?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Como qué?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Al correr, hay veces que pierdes,<n>¿eh?"
+        },
+        {
+            "name": "<username>",
+            "text": "Pues sí, pero trabajamos duro para<n>que no pase, ¿Verdad?"
+        },
+        {
+            "name": "<username>",
+            "text": "Pues sí, pero trabajamos duro para<n>que no pase, ¿Verdad?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Seh, pero intenté lo más que pude<n>en el Satsuki Sho. Hice todo lo\nque<n>pude."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Aun así... no fue suficiente.<n>Siento que finalmente entiendo lo<n>\nduro que realmente es correr."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Así que ahora los videos que<n>siempre estaba tan emocionada de<n>\nver... es como si se convirtieron<n>en otra cosa."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Me acostumbraba a ver las<n>corredoras que perdían y se ponían<n>\nnerviosas como si fuera tremendo<n>show de teatro."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Pero no tenía idea de lo que<n>realmente estaban sintiendo. Como<n>se\nsentían cuando se rompían sus<n>sueños...",
+            "choice_data_list": [
+                "Tickezo... ¿Estás bien?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, ja ja... ¡Creo que me pasé por<n>mucho!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Bueno, ¡Mejor me devuelvo al<n>dormitorio o la supervisora se va a<n>\nenojar! ¡Te veo mañana!"
+        },
+        {
+            "text": "Ella se fue, y cae un gran silencio<n>en la oficina excepto por el\nsonido<n>del video del Derby aun andando."
+        }
+    ]
+}

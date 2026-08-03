@@ -1,0 +1,261 @@
+{
+    "title": "El Peso de Mi Sueño",
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Pasaron varios días desde que<n>Winning Ticket se dio cuenta sobre<n>\ncomo realmente se siente perder."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pero hoy está entrenando como si<n>fuera cualquier otro día."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Fiu..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ack... Este barco se queda sin<n>gasolina... ¡Diría que es hora de<n>\ndescansar!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡¿Por qué usarías toda tu energía<n>calentando?! ¡Esperaba que<n>\nentrenaras en serio!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hay una cosa que, sin embargo, es<n>diferente. Ella no ha vuelto a\nser<n>la típica, la ella entusiasta."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "A propósito, veo a mucha gente con<n>cámaras por la pista. ¿De qué\ntrata<n>eso?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Reporteros mirando a escondidas por<n>alguna historia sin duda\nalguna. Hoy<n>es día de entrenamiento público."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ah, ¡Ahora tiene más sentido! ¿Así<n>que el público vino para\nentrenar<n>con nosotras?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eso no es lo que significa. Cuando<n>se acerca una carrera, los<n>\nperiodistas vienen a ver cómo nos<n>va en nuestro entrenamiento."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Y hoy es el día público para el<n>Derby. Así que hay más reporteros<n>\nde lo normal."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, ¿Eso era hoy?"
+        },
+        {
+            "name": "<username>",
+            "text": "Este es un buen momento para ver<n>cómo les va a las otras\ncorredoras.<n>Vamos a ver a Hayahide y Taishin."
+        },
+        {
+            "name": "<username>",
+            "text": "Este es un buen momento para ver<n>cómo les va a las otras\ncorredoras.<n>Vamos a ver a Hayahide y Taishin."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ah, claro... Ok."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Las corredoras del Derby se juntan<n>para comenzar a entrenar a\nvista del<n>público."
+        },
+        {
+            "name": "Reportero A",
+            "text": "Ahí está el trío BNW. Narita<n>Taishin ganó el Satsuki Sho—todos<n>los\nojos están sobre ella."
+        },
+        {
+            "name": "Reportero B",
+            "text": "Biwa Hayahide tampoco es alguien<n>que hay que pasar por algo\ntampoco.<n>Y ella va a estar mejor desde<n>ahora."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Justo como los reporteros<n>predijeron, el correr de Narita<n>Taishin y\nBiwa Hayahide genera<n>susurros entre la multitud."
+        },
+        {
+            "name": "Reportero A",
+            "text": "Está bien, la próxima es Winning<n>Ticket."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eso sí no importa lo mucho que<n>esperen, Winning Ticket no sale.<n>\nComienzo a sentirme ansioso de que<n>algo le haya pasado."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oye, Entrenador, ¿Viste a Ticket?"
+        },
+        {
+            "name": "<username>",
+            "text": "No... Pensé que iba al<n>entrenamiento público con ustedes<n>dos."
+        },
+        {
+            "name": "<username>",
+            "text": "No... Pensé que iba al<n>entrenamiento público con ustedes<n>dos."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No vino. Y no estaba ni cerca de la<n>línea de partida cuando le\ntocaba<n>correr",
+            "choice_data_list": [
+                "¿Entonces que está pasando?",
+                "¿Entonces que está pasando?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm, si <i>tu</i> no sabes..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No... ¡Ella no haría eso!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "¡O-oye! ¡Taishin!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Taishin y Hayahide dejan el lugar<n>apuradas. Seguramente se dieron<n>\ncuenta de algo y fueron a buscar a<n>Winning Ticket."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No tengo esperanzas de alcanzar a<n>dos Umamusume, pero voy de todas<n>\nmaneras."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Ticket! ¡¿Qué haces?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Voy hacia donde está la voz de<n>Narita Taishin y la encuentro a<n>\nella con Biwa Hayahide y Winning<n>Ticket."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Este es el entrenamiento público<n>para el <i>DERBY!</i> y ¡¿Tú no<n>\nestás corriendo?! ¡¿De qué te<n>escondes?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Perdón... No quería esconderme de<n>alguien."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Pero mis piernas... Simplemente no<n>se mueven."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Tu... no te refieres a que te<n>lesionaste, lo tomaré en cuenta."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Tengo miedo... ¿Y si no puedo<n>mantenerme con todas en el<n>\nentrenamiento público? Yo..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¿Así que eso se te ha pasado por la<n>cabeza desde que perdiste el<n>\nSatsuki Sho?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Al diablo con eso!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡¿Perdiste tus nervios luego de<n>perder una vez?! ¡¿Que le pasó a<n>\nesa actitud de voy a ganar?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "He perdido varias veces. ¡Y me<n>volví loca cuando vi que no podía!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Pero aun así... ¡Enfrenté mis<n>miedos y me rompí la espalda!<n>\n¡Porque tampoco iba a romper<n>nuestra promesa!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh, ¡Olvídalo! ¡Esto da asco!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No eres la única que está asustada<n>si sabías. Aun así continúo a\npesar<n>de mi miedo."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No hay nada más que decir de<n>nosotras. Depende de ti de<n>despejarte\nla cabeza."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "La corredora sin palabras mira cómo<n>se van sus amigas."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Para ser honesta, no pensé que<n>daría tanto susto..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Solo lo intentas una vez en el<n>Derby... No hay próxima vez..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Me siento en la oficina de<n>entrenadores esa noche, pensando<n>sobre\nWinning Ticket."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Su sueño nació de ver el Derby de<n>cerca cuando pequeña."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Y el alcanzar ese sueño, ella entró<n>a la academia llena de\nesperanza y<n>entrenó día tras día."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ella siempre corrió hacia su<n>objetivo sin mirar atrás, su deseo<n>de\nganar el Derby es más fuerte que<n>cualquier otra persona."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Y ahora que ella saboreó la<n>derrota, ella tiene miedo de que su<n>\nsueño se rompa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Y mientras me reflejo en eso, me<n>doy cuenta del cuaderno del Derby<n>\nde Ticket en el escritorio y lo<n>recojo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Justo debajo los stickers de fotos<n>de las tres amigas que van por\nel<n>Derby juntas..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hay un mensaje. \"¡Puedo hacerlo!<n>¡Solo un poquito más hasta que me<n>\nvuelva una campeona del Derby!\""
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sus palabras de cuando se agarró a<n>su sueño, antes de que el\nfracaso<n>entrara en su mente."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quiero que gane. Quiero que ella<n>alcance su sueño..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ayudarla en desarrollar todo su<n>potencial es lo que se supone que<n>\nhace un entrenador."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No la defraudaré. Me aseguraré de<n>que lo próximo que coloque en su<n>\ncuaderno diga, \"¡Campeona del Derby<n>Winning Ticket y su entrenador\ndel<n>Derby!\""
+        }
+    ]
+}

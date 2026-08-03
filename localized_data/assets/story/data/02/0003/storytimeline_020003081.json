@@ -1,0 +1,262 @@
+{
+    "title": "Un Cuaderno Lleno de Sueños",
+    "text_block_list": [
+        {
+            "text": "Con el Satsuki Sho llegando<n>rápidamente, modifiqué el<n>\nentrenamiento de Winning Ticket<n>para tener un enfoque más<n>\nconcentrado en la carrera."
+        },
+        {
+            "text": "Estoy pensando en cómo mejorar su<n>régimen de entrenamiento para<n>\nayudar asegurar su primera victoria<n>en las Clásicas, cuando la\nmisma<n>Ticket me da una visita."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Oye! Oh, que no te importe.<n>Siéntete libre de seguir<n>trabajando."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ahora, debería estar con las cosas<n>de la exhibición...",
+            "choice_data_list": [
+                "¿Buscas algo?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Seh... Un cuaderno viejo..."
+        },
+        {
+            "text": "Estoy viendo a la corredora<n>distraída buscar por ahí, cuando—"
+        },
+        {
+            "text": "<i>Ring, ring...</i>"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Eh? Me llama mi mentor."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Tu mentor? ¡Oh! ¡El que le dieron<n>el premio URA!"
+        },
+        {
+            "name": "<username>",
+            "text": "No hemos hablado desde que lo<n>felicité después de la ceremonia.<n>Me\npregunto qué pasará... ¿Aló?"
+        },
+        {
+            "name": "Predecesor",
+            "text": "Oye, Muchacho. ¿Estás bien? Escuché<n>que una nueva aprendiz tuyo\nestá<n>dejando la grande, así que pensé en<n>darte una llamada."
+        },
+        {
+            "name": "<username>",
+            "text": "Seh, Tickezo... O sea, nuestro<n>nuevo miembro, Winning Ticket."
+        },
+        {
+            "name": "Predecesor",
+            "text": "¿Así que? ¿Estas confiado que ella<n>lo hará? El Derby es el top de\nlos<n>top. Solo las más talentosas llegan<n>a esa carrera."
+        },
+        {
+            "name": "<username>",
+            "text": "Obviamente intentaremos ganar. Todo<n>el Equipo Sirius lleva su\nsueño de<n>conquistar el Derby."
+        },
+        {
+            "name": "Predecesor",
+            "text": "¡Jajaja! Claro, lo que dije en mi<n>discurso de aceptación."
+        },
+        {
+            "name": "<username>",
+            "text": "Nadie le puede ganar en términos de<n>impulso. Ella ha soñado sobre\nel<n>Derby desde que era pequeña."
+        },
+        {
+            "name": "Predecesor",
+            "text": "Que bien, ese sueño de toda la vida<n>es una fuerza que le servirá\nbien en<n>el Derby."
+        },
+        {
+            "name": "Predecesor",
+            "text": "No quiero sonar como un idealista u<n>otra cosa, pero el Derby es\ndonde la<n>habilidad y la emoción chocan."
+        },
+        {
+            "name": "<username>",
+            "text": "Seh... tengo la imagen bien clara<n>cuando te vi hablar de eso."
+        },
+        {
+            "name": "Predecesor",
+            "text": "A fin de cuentas no ganamos, pero<n>toda la experiencia que vino no\nfue<n>para nada."
+        },
+        {
+            "name": "Predecesor",
+            "text": "De todos modos, tienes a este viejo<n>emocionado de verla en el\nDerby."
+        },
+        {
+            "text": "Hablamos más sobre el equipo y sus<n>miembros hasta decir adiós."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "WOW, esa fue una sorpresa. Me<n>preguntaba que pasó cuando escuché<n>\nmi nombre."
+        },
+        {
+            "name": "<username>",
+            "text": "Mandó saludos y quiere que me hagas<n>un entrenador del Derby."
+        },
+        {
+            "name": "<username>",
+            "text": "Mandó saludos y quiere que me hagas<n>una entrenadora del Derby."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Jeje, ¡Entendido! ¡Siempre y cuando<n>me hagas una campeona del\nDerby!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Espera... ¿Es que <i>yo</i> gano o<n>que <i>tu</i> me llevas a la<n>\nvictoria? Ya estoy toda confundida."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh verdad, ¡Estaba buscando algo!<n>Lo usé en la exhibición, así que<n>\ndebería de estar por acá..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ah, ¡Aquí está! ¡Mi cuaderno del<n>Derby!",
+            "choice_data_list": [
+                "¿Cuaderno del Derby?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! Lo dejé sin querer en esta<n>caja, creo yo."
+        },
+        {
+            "text": "Ella me muestra el cuaderno, el que<n>tiene garabatos de niña\npequeña<n>sobre el Derby rayado encima de él."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Este es un cuaderno con registro de<n>todos los Derbis que he visto\ny lo<n>que pensé sobre cada uno. Y..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Mi propio camino hacia el Derby<n>está detallado aquí."
+        },
+        {
+            "text": "Winning Ticket saca unas fotos<n>stickers y las coloca en el<n>\ncuaderno."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ya, ¡Todo listo!"
+        },
+        {
+            "text": "Las tres amistosas rivales—Winning<n>Ticket, Biwa Hayahide y Narita<n>\nTaishin—ahora tienen sus preciosos<n>recuerdos guardados en el\ncuaderno."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "La próxima página serán fotos de mi<n>victoria en el Derby. Ejeje..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Era toda una niña delgada<n>creciendo."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Mi mamá estaba tan preocupada que<n>estuviera haciendo cualquier\nclase<n>de deportes. Ella me llevaba a<n>verlas un montón también."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Los deportes entrenan mi cuerpo y<n>mente! Ella suena como una\nmadre<n>firme, ¿Verdad?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Pero, o sea, la primera carrera que<n>vi en mi vida fue el Derby. Lo\ndije<n>antes, pero en realidad me vuelve<n>loca."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "La orgullosa ganadora, las<n>corredoras que corrieron contra<n>todo y\nno se salieron hasta el<n>final, y un montón de fans<n>animando..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "De camino a mi casa, sobre lo único<n>que podía pensar era la\ncarrera.<n>Estaba en un montón de clases de<n>deportes, pero le dije a\nmi mamá que<n>me saldría de todos."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Pensándolo bien, fue todo tan<n>abrupto. Pero mi mamá dijo<n>\n\"¡Simplemente tendremos que salir y<n>comprarte zapatillas para\ncorrer!\""
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Soy súuuper mala estudiando, pero<n>en realidad me pegué con correr.<n>\nVerás, ¡Es por el Derby que te<n>conocí a ti y a todas mis amigas!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Así que... ¡Es mi misión de correr<n>en el Derby y ganarlo!"
+        },
+        {
+            "text": "No es fácil de seguir alcanzando un<n>sueño de la niñez."
+        },
+        {
+            "text": "Pero si Winning Ticket todavía va<n>por el de ella. El recuerdo que<n>\ntiene de ver el Derby ese día nunca<n>ha desaparecido",
+            "choice_data_list": [
+                "¡Me aseguraré de que escribas sobre tu victoria en ese cuaderno!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Perdón por seguir con el tema del<n>Derby por tanto. Me dejo llevar<n>\ntanto por hablar de él."
+        },
+        {
+            "name": "<username>",
+            "text": "Realmente te encanta, ¿Eh?"
+        },
+        {
+            "name": "<username>",
+            "text": "Realmente te encanta, ¿Eh?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Jeje, ¡Claro que sí! ¡Estoy<n>confiada en que no me pueden ganar<n>\ncuando se habla de pasión!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, eso sí... Me iba a llevar esto<n>a mi casa, pero mejor te lo\ndaré a<n>ti."
+        },
+        {
+            "text": "La entusiasta con los ojos<n>brillantes me pasa su cuaderno del<n>\nDerby."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Está completamente lleno con cosas<n>sobre el Derby, ¡Así que léelo<n>\nbien! ¡Hará más fuerte tu amor por<n>las carreras!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Bueno, ¡Te veo mañana! ¡No puedo<n>esperar por otro día de<n>\nentrenamiento!"
+        },
+        {
+            "text": "Después de verla irse, reviso el<n>cuaderno que ella me dejó."
+        },
+        {
+            "text": "En la portada, escrito bien grande,<n>con letra de niño, se lee\n\"Notas del<n>Derby.\" De alguna manera, la torpe<n>escritura parece\nrealmente mostrar<n>lo que ella siente."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Ha, haaa, haaa, haaa...</i>"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Hm? Esa es..."
+        },
+        {
+            "text": "Está oscuro afuera. Pero eso no<n>para a alguien que está corriendo<n>\nen la pista de entrenamiento."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Fiu... Ok, ahora daré diez sprints."
+        },
+        {
+            "name": "<username>",
+            "text": "Taishin... Ella está entrenando tan<n>tarde en la noche."
+        },
+        {
+            "text": "Mientras la veo correr en la<n>oscuridad, me recuerda a una obvia,<n>e\ninalterable verdad."
+        },
+        {
+            "text": "Winning Ticket no es la única que<n>está determinada a ganar. El\nDerby<n>es un sueño y un honor para todas<n>las corredoras."
+        }
+    ]
+}

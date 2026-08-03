@@ -1,0 +1,151 @@
+{
+    "title": "Nuestro Derby",
+    "text_block_list": [
+        {
+            "name": "Fans",
+            "text": "¡Wooooo!"
+        },
+        {
+            "name": "Fans",
+            "text": "¡TI-CKE-ZO! ¡TI-CKE-ZO!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Los eufóricos gritos del nombre de<n>la nueva campeona suenan a\ntravés de<n>la pista."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Ja! ¿Estás escuchando esto?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No me esperaba menos. ¡Ese fue un<n>fantástico Derby!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Aaah... ¡El Derby! Gané el... Gané<n>el..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Uff, me ganaste limpiamente."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Era el único camino posible. El<n>tuyo claramente era el de la<n>\nvictoria."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Taishin! ¡Hayahide!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Esa fue la mejor carrera... ¡El<n>mejor Derby de siempre! ¡Y fue el<n>\nnuestro!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Pero no voy a ir así la próxima<n>vez. En el Kikuka Sho, será mi<n>\nturno de ganar."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Seh, nuestro objetivo no es solo el<n>Derby. Todavía quedan varias<n>\ncarreras."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Totalmente! ¡Y vamos a correrlas<n>todas juntas! ¡Allí vamos! ¡Lo\nque<n>está más allá del Derby!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Los ánimos por Winning Ticket de<n>afuera se pueden escuchar por\ntodo<n>el largo del túnel de las<n>corredoras."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Eso es tremendo canto. Puedes<n>escucharlo en todo el hipódromo."
+        },
+        {
+            "name": "<username>",
+            "text": "Creo que el entusiasmo de Tickezo<n>se esparció a todos sus fans."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ah, ¡Entrenadooor!",
+            "choice_data_list": [
+                "¡Felicidades, Tickezo!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Lo hice! ¡Gané el Derby!<n>¡Pareciera que estoy soñando!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Felicidades, Winning Ticket. Jeje,<n>¿Estás segura de que no quieres<n>\nrecibir más de esos aplausos?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Jeje, claro, pero hay entrevistas<n>que dar."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Y, tú sabes, este no será el último<n>que escuche. ¡Habrá un montón\nde<n>intentos en el futuro!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Si. Ella cumplió su sueño de<n>conquistar el Derby, pero este no<n>es\nel fin."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Porque la historia continuará.",
+            "choice_data_list": [
+                "¡Hazlos cantar tu nombre una y otra vez!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! ¡Hagámoslo pasar juntos!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Está bien, ¡Sra. Tazuna! ¡Vamos por<n>esas entrevistas! ¡Tengo que<n>\ncompensarlo por desaparecer en la<n>conferencia de prensa previa a\nla<n>carrera!"
+        },
+        {
+            "name": "Entrevistador",
+            "text": "Y ahora, la corredora que ganó el<n>Derby de una forma<n>\nespectacular—¡Señoras y Señores,<n>Winning Ticket!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Jeejee, ¡Muchísimas gracias!"
+        },
+        {
+            "name": "Entrevistador",
+            "text": "Primero, escuchando a la audiencia<n>cantar tu nombre después de la<n>\ncarrera—¿Como te hizo sentir?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Lo di todo de mi ser para hacer<n>este el mejor Derby de todos, ¡Así<n>\nque estaba realmente feliz de que<n>todos los que miraban se\navivaron en<n>eso!"
+        },
+        {
+            "name": "Entrevistador",
+            "text": "Corriste contra tus rivales de BNW<n>hoy. ¿Cuál fue la clave para tu<n>\nvictoria?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Entrené un montón, eso seguro, pero<n>lo que realmente me motivó..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Fue mi sueño de ganar el Derby, y<n>la promesa que le hice a mis<n>\namiguis rivales. Eso, y..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Realmente quería hacer a mi<n>entrenador un entrenador del Derby<n>\npor ser tan comprensivo todo este<n>tiempo!"
+        },
+        {
+            "name": "Entrevistador",
+            "text": "Una última cosa. ¡Un mensaje de la<n>ganadora del Derby!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Mi nombre es Winning Ticket, ¡Y soy<n>la ganadora del mejor Derby de<n>\ntodos!"
+        }
+    ]
+}

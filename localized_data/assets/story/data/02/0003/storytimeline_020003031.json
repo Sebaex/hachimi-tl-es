@@ -2,50 +2,50 @@
     "title": "El Primer Paso hacia Mi Sueño",
     "text_block_list": [
         {
-            "text": "Hoy es la carrera debut de Winning Ticket, un día especial para la corredora recien nacida."
+            "text": "Hoy es la carrera debut de Winning<n>Ticket, un día especial para la<n>\ncorredora recién nacida."
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Hey, chicas! ¡Muuuchas gracias por mandarse ese gran viaje desde Hakodate para apoyarme!"
+            "text": "¡Hey, chicas! ¡Muuuchas gracias por<n>mandarse ese gran viaje desde<n>\nHakodate para apoyarme!"
         },
         {
             "name": "Gold Ship",
-            "text": "¡Obvio! ¡Haríamos cualquier cosa por una compañera!"
+            "text": "¡Obvio! ¡Haríamos cualquier cosa<n>por una compañera!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Esta es tu hora de brillar. Y vamos a apoyarte lo suficiente para cubrir a los miembros que no pudieron venir."
+            "text": "Esta es tu hora de brillar. Y vamos<n>a apoyarte lo suficiente para<n>\ncubrir a los miembros que no<n>pudieron venir."
         },
         {
             "name": "Gold Ship",
-            "text": "¡Vamos a tener tremenda cena después de la carrera! ¡Conchas de vieira y caracoles marinos! ¡Platos de arroz con cangrejo, erizos de mar y caviar rojo!"
+            "text": "¡Vamos a tener tremenda cena<n>después de la carrera! ¡Conchas de<n>\nvieira y caracoles marinos! ¡Platos<n>de arroz con cangrejo, erizos\nde mar<n>y caviar rojo!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡Y parfaits de melón! ¡Que no se te olvide los parfaits de melón!"
+            "text": "¡Y parfaits de melón! ¡Que no se te<n>olvide los parfaits de melón!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Eh... ¿Así que vinieron por la comida?"
+            "text": "Eh... ¿Así que vinieron por la<n>comida?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡¿A-a que te refieres?! ¡Una fina comida es simplemente un bono! No importa—¡Tu necesitas concentrarte!"
+            "text": "¡¿A-a que te refieres?! ¡Una fina<n>comida es simplemente un bono!\nNo<n>importa—¡Tu necesitas concentrarte!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Oh, cierto. Concentrate, concentrate... Está bien, Entrenador, ¡Me voy!",
+            "text": "Oh, cierto. Concéntrate,<n>concéntrate... Está bien,<n>Entrenador, ¡Me\nvoy!",
             "choice_data_list": [
-                "¡Tu puedes!",
-                "¡Tu puedes!"
+                "¡Tú puedes!",
+                "¡Tú puedes!"
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Ok! ¡Este es mi primer paso en el camino hacia el Derby! ¡Tengo que ganar esto!"
+            "text": "¡Ok! ¡Este es mi primer paso en el<n>camino hacia el Derby! ¡Tengo\nque<n>ganar esto!"
         },
         {
-            "text": "Ticket se dirige hacia su gran sueño, completamente confiada en su victoria."
+            "text": "Ticket se dirige hacia su gran<n>sueño, completamente confiada en su<n>\nvictoria."
         },
         {
             "name": "Winning Ticket",
@@ -53,86 +53,86 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "¡Callate! ¿Cuantas veces vas a quejarte por perder?"
+            "text": "¡Cállate! ¿Cuántas veces vas a<n>quejarte por perder?"
         },
         {
             "name": "Winning Ticket",
-            "text": "<i>Snif...</i> No seas mala. Somos amigas desde que comenzamos en la academia. ¿No me podrías reconfortar un poco?"
+            "text": "<i>Snif...</i> No seas mala. Somos<n>amigas desde que comenzamos en\nla<n>academia. ¿No me podrías<n>reconfortar un poco?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Terminarías llorando igual incluso si lo hago."
+            "text": "Terminarías llorando igual incluso<n>si lo hago."
         },
         {
             "name": "Winning Ticket",
-            "text": "Bueno, seh—porque este es mi inicio hacia el Derby, ¿Sabías? El camino aún es largo, y me caí en mis primeros pasos."
+            "text": "Bueno, seh—porque este es mi inicio<n>hacia el Derby, ¿Sabías? El\ncamino<n>aún es largo, y me caí en mis<n>primeros pasos."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Si, tuviste bastantes esperanzas. Puedo entender como te sientes."
+            "text": "Si, tuviste bastantes esperanzas.<n>Puedo entender cómo te sientes."
         },
         {
             "name": "Winning Ticket",
-            "text": "¡¿En seeeeerio?! ¿¡Y qué voy a hacer si esto significa que nunca llegaré al Derby?!"
+            "text": "¡¿En seeeeerio?! ¿¡Y qué voy a<n>hacer si esto significa que nunca<n>\nllegaré al Derby?!"
         },
         {
             "name": "Narita Taishin",
-            "text": "¡Ya basta! ¡Perder tu carrera de debut no significa que te pisotearon los sueños!"
+            "text": "¡Ya basta! ¡Perder tu carrera de<n>debut no significa que te<n>\npisotearon los sueños!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Yo perdí <i>mi</i> debut, pero aún así les voy a mostrar a todos un día."
+            "text": "Yo perdí <i>mi</i> debut, pero aun<n>así les voy a mostrar a todos\nun<n>día."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Precisamente. Necesitas recuperarte de haber corrido. Guarda la desesperación para cuando tu sueño realmente se haya aplastado."
+            "text": "Precisamente. Necesitas recuperarte<n>de haber corrido. Guarda la<n>\ndesesperación para cuando tu sueño<n>realmente se haya aplastado."
         },
         {
             "name": "Winning Ticket",
-            "text": "Oooh, tienes un espiritu imparable, ¡Taishin! Y Hayahide, ¡Te mantienes tranquila por fuera y ardes por pelear por dentro! ¡No me voy a quedar aquí llorando!"
+            "text": "Oooh, tienes un espíritu imparable,<n>¡Taishin! Y Hayahide, ¡Te\nmantienes<n>tranquila por fuera y ardes por<n>pelear por dentro! ¡No me\nvoy a<n>quedar aquí llorando!"
         },
         {
-            "text": "¡No puedo parar si quiero ganar el Derby! ¡Gracias, a las dos! ¡Nada es mejor que tener amigas a t-tu... ¡Waaaaaah!"
+            "text": "¡No puedo parar si quiero ganar el<n>Derby! ¡Gracias, a las dos!\n¡Nada es<n>mejor que tener amigas a t-tu...<n>¡Waaaaaah!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Lo ves, ¡Terminaste llorando de todas maneras! ¿No te puedes quedar callada?"
+            "text": "Lo ves, ¡Terminaste llorando de<n>todas maneras! ¿No te puedes\nquedar<n>callada?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Sus emociones también son su fortaleza. Lo hicimos bien al aprender de eso."
+            "text": "Sus emociones también son su<n>fortaleza. Lo hicimos bien al<n>\naprender de eso."
         },
         {
-            "text": "El equipo está completo, haciendo un poco de entrenamiento necesario."
+            "text": "El equipo está completo, haciendo<n>un poco de entrenamiento\nnecesario."
         },
         {
             "name": "Winning Ticket",
             "text": "¡Naaaaaaah! ¡Al Derbyyy!"
         },
         {
-            "text": "El entrenamiento después de la carrera es generalmente suave, pero Winning Ticket está corriendo con todas sus fuerzas como si tuviera una carrera próximamente."
+            "text": "El entrenamiento después de la<n>carrera es generalmente suave, pero<n>\nWinning Ticket está corriendo con<n>todas sus fuerzas como si\ntuviera<n>una carrera próximamente."
         },
         {
             "name": "Rice Shower",
-            "text": "Ay dios... Ticket tiene tanta energía..."
+            "text": "Ay dios... Ticket tiene tanta<n>energía..."
         },
         {
             "name": "Gold Ship",
-            "text": "Pensé que todavía quedaría atónita con lo de ayer. Ese es un entusiasmo tan raro."
+            "text": "Pensé que todavía quedaría atónita<n>con lo de ayer. Ese es un<n>\nentusiasmo tan raro."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ella dijo que sus amigas la ayudaron a levantar los animos. Que gente tan increible debe de ser para entender su sueño."
+            "text": "Ella dijo que sus amigas la<n>ayudaron a levantar los ánimos. Que<n>\ngente tan increíble debe de ser<n>para entender su sueño."
         },
         {
-            "text": "No habría sentido de fijarse en un solo contratiempo cuando nuestra mirada está en el Derby."
+            "text": "No habría sentido de fijarse en un<n>solo contratiempo cuando\nnuestra<n>mirada está en el Derby."
         },
         {
-            "text": "Mientras ella siga corriendo por su sueño con la cabeza en alto, ¡Todo lo que tengo que hacer es ayudarla a alcanzarlo!"
+            "text": "Mientras ella siga corriendo por su<n>sueño con la cabeza en alto,\n¡Todo<n>lo que tengo que hacer es ayudarla<n>a alcanzarlo!"
         },
         {
             "name": "<username>",
-            "text": "¡Tickezo! ¡Mueve más fuerte esos brazos!"
+            "text": "¡Tickezo! ¡Mueve más fuerte esos<n>brazos!"
         },
         {
             "name": "Winning Ticket",
@@ -140,51 +140,51 @@
         },
         {
             "name": "<username>",
-            "text": "¡Ponele atención a tus zancadas! ¡Sigue dandole hasta el final!"
+            "text": "¡Ponele atención a tus zancadas!<n>¡Sigue dándole hasta el final!"
         },
         {
             "name": "<username>",
-            "text": "¡Ponele atención a tus zancadas! ¡Sigue dandole hasta el final!"
+            "text": "¡Ponele atención a tus zancadas!<n>¡Sigue dándole hasta el final!"
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Dandoleeeeee! ¡Hasta el finaaaaaaaaal!"
+            "text": "¡Dandoleeeeee! ¡Hasta el<n>finaaaaaaaaal!"
         },
         {
             "name": "Winning Ticket",
-            "text": "<i>Ueeh... Ueeh...</i> ¡Fiu! ¡Terminé! ¡Gracias Entrenador!"
+            "text": "<i>Ueeh... Ueeh...</i> ¡Fiu!<n>¡Terminé! ¡Gracias Entrenador!"
         },
         {
             "name": "<username>",
-            "text": "Buen Trabajo. Que no se te olvide colocarte hielo para sacarte la fatiga."
+            "text": "Buen Trabajo. Que no se te olvide<n>colocarte hielo para sacarte la<n>\nfatiga."
         },
         {
             "name": "<username>",
-            "text": "Buen Trabajo. Que no se te olvide colocarte hielo para sacarte la fatiga."
+            "text": "Buen Trabajo. Que no se te olvide<n>colocarte hielo para sacarte la<n>\nfatiga."
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Cierto! Pero pensaba si correr por un rato más."
+            "text": "¡Cierto! Pero pensaba si correr por<n>un rato más."
         },
         {
             "name": "Winning Ticket",
-            "text": "Puede que haya perdido mi carrera de debut, pero mis amigas me han ayudado a superarlo, y tu entrenamiento apasionado me ha entusiasmado de nuevo..."
+            "text": "Puede que haya perdido mi carrera<n>de debut, pero mis amigas me han<n>\nayudado a superarlo, y tu<n>entrenamiento apasionado me ha<n>\nentusiasmado de nuevo..."
         },
         {
             "name": "Winning Ticket",
-            "text": "Se siente como si esa derrota no fuese para nada. ¡Mi viaje hacia el Derby se volvió incluso aún más duro!"
+            "text": "Se siente como si esa derrota no<n>fuese para nada. ¡Mi viaje hacia\nel<n>Derby se volvió incluso aún más<n>duro!"
         },
         {
             "name": "Gold Ship",
-            "text": "Que rarita. Pero eres mi tipo de rarita."
+            "text": "Que rarita. Pero eres mi tipo de<n>rarita."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Tienes que mantenerla con su pasión, Entrenador. ¿Puedes hacerlo?"
+            "text": "Tienes que mantenerla con su<n>pasión, Entrenador. ¿Puedes<n>hacerlo?"
         },
         {
             "name": "<username>",
-            "text": "Tranquila. Eso es lo que intento hacer. Un entrenador nunca limita a su corredora de seguir empujando. Es por eso que...",
+            "text": "Tranquila. Eso es lo que intento<n>hacer. Un entrenador nunca limita\na<n>su corredora de seguir empujando.<n>Es por eso que...",
             "choice_data_list": [
                 "¡Tickezo! ¡Corres de nuevo la otra semana!",
                 "¡Tickezo! ¡Corres de nuevo la otra semana!"
@@ -192,7 +192,7 @@
         },
         {
             "name": "<username>",
-            "text": "Tranquila. Eso es lo que intento hacer. Un entrenador nunca limita a su corredora de seguir empujando. Es por eso que...",
+            "text": "Tranquila. Eso es lo que intento<n>hacer. Un entrenador nunca limita\na<n>su corredora de seguir empujando.<n>Es por eso que...",
             "choice_data_list": [
                 "¡Tickezo! ¡Corres de nuevo la otra semana!",
                 "¡Tickezo! ¡Corres de nuevo la otra semana!"
@@ -204,11 +204,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "¡¿Carreras consecutivas?! ¡Esa mucha pasión puede ser peligrosa!"
+            "text": "¡¿Carreras consecutivas?! ¡Esa<n>mucha pasión puede ser peligrosa!"
         },
         {
             "name": "<username>",
-            "text": "Obvio que tu salud tiene prioridad. Pero siento que tu puedes."
+            "text": "Obvio que tu salud tiene prioridad.<n>Pero siento que tú puedes."
         },
         {
             "name": "Winning Ticket",
@@ -216,7 +216,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Voy a enfrentar este desafío de frente y empujar hacia el Derby! ¡Y lo haremos como un equipo, Entrenador!",
+            "text": "¡Voy a enfrentar este desafío de<n>frente y empujar hacia el Derby!\n¡Y<n>lo haremos como un equipo,<n>Entrenador!",
             "choice_data_list": [
                 "Seh, ¡Ganaremos juntos!"
             ]
@@ -231,23 +231,23 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Sin duda alguna por la influencia de Ticket. Estoy un tanto emocionada de como se desenvuelve su historia."
+            "text": "Sin duda alguna por la influencia<n>de Ticket. Estoy un tanto<n>\nemocionada de cómo se desenvuelve<n>su historia."
         },
         {
-            "text": "La historia de Winning Ticket comenzó con una derrota..."
+            "text": "La historia de Winning Ticket<n>comenzó con una derrota..."
         },
         {
-            "text": "Pero ella recien está empezando hacia su objetivo."
+            "text": "Pero ella recién está empezando<n>hacia su objetivo."
         },
         {
             "name": "Relatora",
-            "text": "¡Y es Winning Ticket! ¡Winning Ticket gana la carrera!"
+            "text": "¡Y es Winning Ticket! ¡Winning<n>Ticket gana la carrera!"
         },
         {
             "text": "¡Wooooo!"
         },
         {
-            "text": "¡Winning Ticket supera el estrés de correr dos semanas seguidas y obtiene su primera victoria!"
+            "text": "¡Winning Ticket supera el estrés de<n>correr dos semanas seguidas y<n>\nobtiene su primera victoria!"
         }
     ]
 }

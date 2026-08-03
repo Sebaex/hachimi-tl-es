@@ -1,0 +1,98 @@
+{
+    "title": "Nuestro Derby",
+    "text_block_list": [
+        {
+            "text": "Winning Ticket ha estado esperando<n>toda su vida. Esta es su<n>\noportunidad de cumplir su sueño de<n>ganar el Derby"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Exhala...</i>"
+        },
+        {
+            "text": "Con la mano en su pecho, ella deja<n>salir un fuerte soplo. Ella<n>\nlentamente abre sus ojos y mira al<n>pasto al final del túnel."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Incluso estando detrás de ella,<n>puedo decir que nunca había estado<n>\ntan concentrada."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Seh, por lo general anda haciendo<n>puro escandalo gritándonos hasta<n>\ndejarnos sordas."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eeeh... Hasta yo me estoy poniendo<n>nerviosa..."
+        },
+        {
+            "text": "Todo el Equipo Sirius está<n>esperando, manteniendo la<n>respiración\nmientras miran la<n>valiente figura de Winning Ticket<n>desde lejos.\nPero la estoica<n>competidora rompe el silencio."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Nnnnn! ¡Hrrrrr! ¡No está bien, me<n>pica todo!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Me pongo tensa cuando me<n>concentro! Y cuando me pongo tensa,<n>¡Me\nda picazón!"
+        },
+        {
+            "name": "<username>",
+            "text": "Esa es la Tickezo que conozco."
+        },
+        {
+            "name": "<username>",
+            "text": "Esa es la Tickezo que conozco."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Si realmente te pica tanto, podemos<n>usar nuestro truco especial\npara<n>darte una despedida decente."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Truco especial?"
+        },
+        {
+            "text": "Mejiro McQueen le da la señal a las<n>otras, y todas levantan sus\nmanos<n>abiertas detrás de la espalda de<n>Winning Ticket."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "U-uno, dos... ¡Tres!"
+        },
+        {
+            "name": "Todas",
+            "text": "¡Buena suerte!"
+        },
+        {
+            "text": "<i>¡Pam!</i>"
+        },
+        {
+            "text": "Todas a la vez, le dan un manotazo<n>a Winning Ticket en la espalda."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Hyaaah! ¡Eso fue fuerte!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Ahora estás bien! Y ahora, ¡Ten el<n>mejor Derby de todos, Ticket!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Sabes que lo haré! ¡Voy a correr<n>la carrera de mi vida!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hasta ahora, el Derby ha sido algo<n>emocionante a lo que aspiraba.\nPero<n>esta vez, ahora estoy en él..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Tengo mis rivales, mi equipo, y mi<n>entrenador conmigo... ¡Ahora\neste es<n><i>mi</i> Derby!",
+            "choice_data_list": [
+                "¡Hora de alcanzar tu sueño!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! ¡Solo mírame!"
+        }
+    ]
+}

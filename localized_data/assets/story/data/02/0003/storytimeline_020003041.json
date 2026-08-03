@@ -2,106 +2,106 @@
     "title": "La Promesa que Hicimos",
     "text_block_list": [
         {
-            "name": "Narration",
-            "text": "Ella se debió de reir cuado escuchó a la gente decir que este no era un lugar para una reina."
+            "name": "Narración",
+            "text": "Ella se debió de reír cuando<n>escuchó a la gente decir que este<n>no\nera un lugar para una reina."
         },
         {
-            "name": "Narration",
-            "text": "Un pelo oscuro volando en el viento, ella bailó hacia la delantera como si fuera un juego. Todo lo que podían hacer era inclinarse ante su majestad."
+            "name": "Narración",
+            "text": "Un pelo oscuro volando en el<n>viento, ella bailó hacia la<n>delantera\ncomo si fuera un juego.<n>Todo lo que podían hacer era<n>inclinarse\nante su majestad."
         },
         {
-            "name": "Narration",
+            "name": "Narración",
             "text": "El nombre de esta reina era Vodka."
         },
         {
-            "name": "Narration",
-            "text": "Ella convirtió el sueño de todos en su propia gloria. Y sus ojos brillaban con la luz de un futuro que nunca nadie había visto."
+            "name": "Narración",
+            "text": "Ella convirtió el sueño de todos en<n>su propia gloria. Y sus ojos<n>\nbrillaban con la luz de un futuro<n>que nunca nadie había visto."
         },
         {
-            "name": "Monologue",
-            "text": "La estación pasa hasta otoño, finalmente trayendo el día de la Feria de Solefall."
+            "name": "Monólogo",
+            "text": "La estación pasa hasta otoño,<n>finalmente trayendo el día de la<n>\nFeria de Solefall."
         },
         {
-            "name": "Monologue",
-            "text": "La exhibición que preparé con Winning Ticket se vuelve un gran éxito en el evento."
+            "name": "Monólogo",
+            "text": "La exhibición que preparé con<n>Winning Ticket se vuelve un gran<n>\néxito en el evento."
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Y entonces, y entonces! ¡Mira en este Derby—fue tan emocionante! ¡¿Verdad, Entrenador?!"
+            "text": "¡Y entonces, y entonces! ¡Mira en<n>este Derby—fue tan emocionante!<n>\n¡¿Verdad, Entrenador?!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Ok, ok. Solo muestranos bien y lento."
+            "text": "Ok, ok. Solo muéstranos bien y<n>lento."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Lo hiciste bien en hacer semejante exhibición mientras también entrenabas para tus carreras."
+            "text": "Lo hiciste bien en hacer semejante<n>exhibición mientras también<n>\nentrenabas para tus carreras."
         },
         {
             "name": "Winning Ticket",
-            "text": "Estaba táaaaan ocupada. Pero mi entrenador ayudó, ¡Y logramos seguir con eso de alguna forma!"
+            "text": "Estaba táaaaan ocupada. Pero mi<n>entrenador ayudó, ¡Y logramos<n>\nseguir con eso de alguna forma!"
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Oh, cierto! ¡No presenté a nadie todavía!"
+            "text": "¡Oh, cierto! ¡No presenté a nadie<n>todavía!"
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Este es mi entrenador! ¡Y esta es Taishin y Hayahide!"
+            "text": "¡Este es mi entrenador! ¡Y esta es<n>Taishin y Hayahide!"
         },
         {
-            "name": "Monologue",
-            "text": "Narita Taishin y Biwa Hayahide. Compañeras de Winning Ticket, ellas hicieron sus debuts casi al mismo tiempo.",
+            "name": "Monólogo",
+            "text": "Narita Taishin y Biwa Hayahide.<n>Compañeras de Winning Ticket,\nellas<n>hicieron sus debuts casi al mismo<n>tiempo.",
             "choice_data_list": [
                 "Encantado de conocerlas."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Hola. Así que... tu estás completamente ocupado con ella."
+            "text": "Hola. Así que... tú estás<n>completamente ocupado con ella."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "En efecto. Me imagino que mimar a Ticket es semejante desafío. Pensandolo, incluso te amarró en ayudarla con la exhibición."
+            "text": "En efecto. Me imagino que mimar a<n>Ticket es semejante desafío.<n>\nPensándolo, incluso te amarró en<n>ayudarla con la exhibición."
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Vaaaaaaamos! ¡¿Eso es lo que piensan ustedes dos de mi?!"
+            "text": "¡Vaaaaaaamos! ¡¿Eso es lo que<n>piensan ustedes dos de mí?!"
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Lo entendieron todo al revés! ¡Entrenador vino a ayudarme con la exhibición primero!"
+            "text": "¡Lo entendieron todo al revés!<n>¡Entrenador vino a ayudarme con la<n>\nexhibición primero!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Dos personas preparando una exhibición del Derby se juntan para ganar el Derby—eso debe de ser el destino. <i>¡EL DESTINO!</i>"
+            "text": "Dos personas preparando una<n>exhibición del Derby se juntan para<n>\nganar el Derby—eso debe de ser el<n>destino. <i>¡EL DESTINO!</i>"
         },
         {
-            "text": "Oh, y hablando del destino, ¡Eso me recuerda! ¿Te acuerdas de la promesa que hicimos cuando nos conocimos, verdad?"
+            "text": "Oh, y hablando del destino, ¡Eso me<n>recuerda! ¿Te acuerdas de la<n>\npromesa que hicimos cuando nos<n>conocimos, verdad?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "¿La que hicimos en nuestra primera clase de entrenamiento?"
+            "text": "¿La que hicimos en nuestra primera<n>clase de entrenamiento?"
         },
         {
             "name": "Instructor",
-            "text": "Está bien, a todas, para comenzar, vamos a cronometrar sus tiempos. Me gustaría que elijan una distancia que calza con su aptitud, y midan sus tiempos."
+            "text": "Está bien, a todas, para comenzar,<n>vamos a cronometrar sus\ntiempos. Me<n>gustaría que elijan una distancia<n>que calza con su\naptitud, y midan<n>sus tiempos."
         },
         {
             "name": "Winning Ticket",
-            "text": "Oh, oh, ¡Instructor! ¿Puedo correr los 2.400 metros, como en el Derby?"
+            "text": "Oh, oh, ¡Instructor! ¿Puedo correr<n>los 2.400 metros, como en el\nDerby?"
         },
         {
             "name": "Instructor",
-            "text": "Uh, seh... Es cosa tuya. Pero las estudiantes nuevas por lo general comienzan con la mitad de eso."
+            "text": "Uh, seh... Es cosa tuya. Pero las<n>estudiantes nuevas por lo\ngeneral<n>comienzan con la mitad de eso."
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Lo se! ¡Pero mi objetivo es el Derby!"
+            "text": "¡Lo se! ¡Pero mi objetivo es el<n>Derby!"
         },
         {
             "name": "Instructor",
-            "text": "Em, está bien... Voy a preguntar en caso de—¿Alguien más quiere correr 2.400 metros?"
+            "text": "Em, está bien... Voy a preguntar en<n>caso de—¿Alguien más quiere\ncorrer<n>2.400 metros?"
         },
         {
             "name": "Narita Taishin",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "También me gustaría correr los 2.400 metros."
+            "text": "También me gustaría correr los<n>2.400 metros."
         },
         {
             "name": "Instructor",
@@ -117,7 +117,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "<i>Haa... iiiiii...</i> ¡N-no puedo hacerlooo! ¡Mi tiempo es demasiado lento!"
+            "text": "<i>Haa... iiiiii...</i> ¡N-no puedo<n>hacerlooo! ¡Mi tiempo es\ndemasiado<n>lento!"
         },
         {
             "name": "Narita Taishin",
@@ -129,15 +129,15 @@
         },
         {
             "name": "Instructor",
-            "text": "2.400 metros... Correr la distancia de una clasica no es tarea fácil."
+            "text": "2.400 metros... Correr la distancia<n>de una clásica no es tarea\nfácil."
         },
         {
             "name": "Instructor",
-            "text": "Deberían trabajar perfeccionando las bases primero y mejorar hasta el punto en el que puedan correr todo."
+            "text": "Deberían trabajar perfeccionando<n>las bases primero y mejorar hasta<n>\nel punto en el que puedan correr<n>todo."
         },
         {
             "name": "Winning Ticket",
-            "text": "<i>Haaa... Huuu...</i> E-entendido..."
+            "text": "<i>Haaa... Huuu...</i><n>E-entendido..."
         },
         {
             "name": "Narita Taishin",
@@ -145,55 +145,55 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Voy a perfeccionar esta distancia..."
+            "text": "Voy a perfeccionar esta<n>distancia..."
         },
         {
             "name": "Winning Ticket",
-            "text": "Heh... ¡Ejejeje! ¡Oye, ustedes dos! ¡Gracias por correr conmigo!"
+            "text": "Heh... ¡Ejejeje! ¡Oye, ustedes dos!<n>¡Gracias por correr conmigo!"
         },
         {
             "name": "Narita Taishin",
-            "text": "No lo hice por tí, así que no me lo agradezcas. Esa es la distancia que espero correr algún día."
+            "text": "No lo hice por ti, así que no me lo<n>agradezcas. Esa es la\ndistancia que<n>espero correr algún día."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Es simplemente una distancia en la que una debe ser competente para volverse una buena corredora."
+            "text": "Es simplemente una distancia en la<n>que una debe ser competente\npara<n>volverse una buena corredora."
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Lo sabía! ¡Ustedes dos también van por el Derby! Tres estudiantes en la misma clase con los ojos en el mismo objetivo..."
+            "text": "¡Lo sabía! ¡Ustedes dos también van<n>por el Derby! Tres estudiantes\nen la<n>misma clase con los ojos en el<n>mismo objetivo..."
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Waaaah! ¡Tremenda historia! ¡Vamos a correr en el Derby juntaaaas!"
+            "text": "¡Waaaah! ¡Tremenda historia! ¡Vamos<n>a correr en el Derby\njuntaaaas!"
         },
         {
             "name": "Narita Taishin",
-            "text": "¡Ack! Espera... ¡¿Y por que estás llorando?!"
+            "text": "¡Ack! Espera... ¡¿Y por qué estás<n>llorando?!"
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Nuestra carrera será una para los libros de historia! ¡El Derby más intenso y dramatico de todos!"
+            "text": "¡Nuestra carrera será una para los<n>libros de historia! ¡El Derby\nmás<n>intenso y dramático de todos!"
         },
         {
-            "name": "Monologue",
-            "text": "Los ojos de Ticket brillan bastante mientras ella vuelve a contar la historia de como dieron el primer paso juntas hacia sus sueños."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "¡Estáaa bien! ¡Hagamos esa promesa una vez más! ¡Todas juntas! Uno, dos... ¡DEEERBYYY!"
+            "name": "Monólogo",
+            "text": "Los ojos de Ticket brillan bastante<n>mientras ella vuelve a contar\nla<n>historia de como dieron el primer<n>paso juntas hacia sus sueños."
         },
         {
             "name": "Winning Ticket",
-            "text": "¿Eh? ¡Tu no lo dijiste!"
+            "text": "¡Estáaa bien! ¡Hagamos esa promesa<n>una vez más! ¡Todas juntas!\nUno,<n>dos... ¡DEEERBYYY!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Eh? ¡Tú no lo dijiste!"
         },
         {
             "name": "Narita Taishin",
-            "text": "La encargada de esta exhibición me está comenzando a molestar. Vamos a otro lado."
+            "text": "La encargada de esta exhibición me<n>está comenzando a molestar.\nVamos a<n>otro lado."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yo creo que hay entretenimiento en el escenario exterior."
+            "text": "Yo creo que hay entretenimiento en<n>el escenario exterior."
         },
         {
             "name": "Winning Ticket",
@@ -201,51 +201,51 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Era broma. Pero en serio, necesito irme a entrenar luego."
+            "text": "Era broma. Pero en serio, necesito<n>irme a entrenar luego."
         },
         {
             "name": "Winning Ticket",
-            "text": "¿Entrenar? ¿Mientras dura la Feria de Solefall?"
+            "text": "¿Entrenar? ¿Mientras dura la Feria<n>de Solefall?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Taishin corre en la próxima carrera."
+            "text": "Taishin corre en la próxima<n>carrera."
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Oh, verdad! ¡Sabes que estaré apoyandote, Taishin!"
+            "text": "¡Oh, verdad! ¡Sabes que estaré<n>apoyándote, Taishin!"
         },
         {
-            "name": "Monologue",
-            "text": "Ella entrena para su carrera incluso durante un evento escolar..."
+            "name": "Monólogo",
+            "text": "Ella entrena para su carrera<n>incluso durante un evento<n>escolar..."
         },
         {
-            "name": "Monologue",
-            "text": "Al contrario de lo áspera que es por fuera Narita Taishin, es bastante disciplinada."
+            "name": "Monólogo",
+            "text": "Al contrario de lo áspera que es<n>por fuera Narita Taishin, es<n>\nbastante disciplinada."
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Entonces hagamoslo una vez más para mostrar entusiasmo! Uno, dos... ¡DEEERBYYY!"
+            "text": "¡Entonces hagámoslo una vez más<n>para mostrar entusiasmo! Uno,<n>\ndos... ¡DEEERBYYY!"
         },
         {
             "name": "Narita Taishin",
             "text": "Ya te dije, ¡Eso molesta!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Varios días después."
         },
         {
             "name": "Relatora",
-            "text": "¡Están por la cuarta curva y Narita Taishin está en segundo lugar! ¡Pero espera! ¡Las otras corredoras están bastante cerca!"
+            "text": "¡Están por la cuarta curva y Narita<n>Taishin está en segundo lugar!<n>\n¡Pero espera! ¡Las otras corredoras<n>están bastante cerca!"
         },
         {
             "name": "Winning Ticket",
-            "text": "¡Taishiiin! ¡Vamos! ¡TU PUEDES HACERLO!"
+            "text": "¡Taishiiin! ¡Vamos! ¡TU PUEDES<n>HACERLO!"
         },
         {
-            "name": "Monologue",
-            "text": "Los fervientes ánimos de Ticket fueron inútiles, y Taishin termina sexta."
+            "name": "Monólogo",
+            "text": "Los fervientes ánimos de Ticket<n>fueron inútiles, y Taishin termina<n>\nsexta."
         },
         {
             "name": "Winning Ticket",
@@ -257,19 +257,19 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "¡N-no te preocupes! ¡Vamos a entrenar juntas para la próxima!"
+            "text": "¡N-no te preocupes! ¡Vamos a<n>entrenar juntas para la próxima!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Perdón, pero no me intentes animar. Quiero estar sola ahora."
+            "text": "Perdón, pero no me intentes animar.<n>Quiero estar sola ahora."
         },
         {
             "name": "Winning Ticket",
             "text": "Oh... Eh, perdón..."
         },
         {
-            "name": "Monologue",
-            "text": "Tres buenas amigas apuntan a ganar el Derby. Pero esta carrera sirve como un amargo recordatorio que el camino para alcanzar dicho sueño es uno bien duro."
+            "name": "Monólogo",
+            "text": "Tres buenas amigas apuntan a ganar<n>el Derby. Pero esta carrera\nsirve<n>como un amargo recordatorio que el<n>camino para alcanzar dicho\nsueño es<n>uno bien duro."
         }
     ]
 }

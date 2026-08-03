@@ -1,0 +1,185 @@
+{
+    "title": "Encuentro en el Yayoi Sho",
+    "text_block_list": [
+        {
+            "text": "Es el comienzo de un nuevo año, y<n>Winning Ticket, Biwa Hayahide, y<n>\nNarita Taishin están visitando el<n>templo para hacer su primer rezo<n>\ndel año."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Waaaaa! ¡Mira a toda esa gente!<n>¡El Año Nuevo por acá es como el<n>\nDerby!",
+            "choice_data_list": [
+                "¿Como así?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Solo mira, está super lleno,<n>¿Verdad? ¡Igual que en el Derby!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Tú haces cualquier cosa como el<n>Derby."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Pronto nos dirá como su lavadora es<n>como el Derby."
+        },
+        {
+            "name": "<username>",
+            "text": "En fin, ustedes tres lo hicieron<n>bastante bien el año pasado."
+        },
+        {
+            "name": "<username>",
+            "text": "En fin, ustedes tres lo hicieron<n>bastante bien el año pasado."
+        },
+        {
+            "text": "Después de la primera victoria de<n>Winning Ticket, ella aseguró una<n>\ndos para una racha de tres<n>victorias. Sus rivales obtuvieron<n>unos\nbuenos resultados también."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hubiera deseado obtener Top en<n>Junior eso sí..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "También esperaba hacerlo."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "En serio, vas a comenzar a llorar<n>en la ceremonia de premiación."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Espera, ¡¿Será por eso que no me<n>eligieron?!"
+        },
+        {
+            "name": "<username>",
+            "text": "Ya están prácticamente en las<n>Clásicas. Deberían estar<n>orgullosas."
+        },
+        {
+            "name": "<username>",
+            "text": "Ya están prácticamente en las<n>Clásicas. Deberían estar<n>orgullosas."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! Primero el Satsuki Sho, luego<n>el Japanese Derby, ¡Y el\nKikuka Sho!<n>¡Pero especialmente el<n><i>Derby!</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Es un honor de ganar cualquiera de<n>esas... Y yo quiero ese honor\nmás<n>que nada."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Seeeeeh, ¡Recemos por eso! ¡Deseo<n>ganar el Yayoi Sho y moverme<n>\ndirecto a las Clásicas!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh, y, ¡Y! ¡Quiero correr junto a<n>Taishin y Hayahide! ¡El fin!"
+        },
+        {
+            "text": "Las amables rivales trabajan duro<n>juntas hacia el objetivo que han<n>\ntenido desde la vez que se<n>volvieron compañeras—de correr en<n>la\nmisma carrera."
+        },
+        {
+            "text": "Y la carrera se aproxima más rápido<n>de lo que uno se imagina."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Extra, extra!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Lean todo sobre esto! No solo es<n>Tickezo la que correrá en el\nYayoi<n>Sho, ¡Taishin también lo hará!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡¿Taishin también! ¡Waaaa! ¡La hora<n>de correr juntas finalmente<n>\nllegóooo!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ejejeje. No deberías estar tan<n>agradecida. Todos han hablado de lo<n>\nbien que anda Taishin."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! ¡Otra razón de por qué<n>necesito subir de nivel!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Oye, Entrenador! Quiero bajar el<n>tiempo que me demoro de ir de\ncero a<n>mi velocidad máxima."
+        },
+        {
+            "name": "<username>",
+            "text": "Bien. Estás pensando más<n>concretamente. Eso significa que<n>has\nestado usando la cabeza cuando<n>entrenas."
+        },
+        {
+            "name": "<username>",
+            "text": "Bien. Estás pensando más<n>concretamente. Eso significa que<n>has\nestado usando la cabeza cuando<n>entrenas."
+        },
+        {
+            "text": "La rivalidad que ella tiene con<n>Biwa Hayahide y Narita Taishin\nestá<n>impulsando a Ticket a mejorar su<n>juego."
+        },
+        {
+            "text": "Seguramente Ticket está impulsando<n>a sus rivales también."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Claro! ¡Dímelo!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Estamos hoy aquí en el Yayoi Sho!<n>¡Las corredoras están de camino\na la<n>pista!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Oye! ¡Estamos todas caminando el<n>túnel de las corredoras juntas,<n>\nTaishin!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Deja de gritar, el eco está<n>demasiado fuerte aquí."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Jeje, ustedes dos nunca cambian."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Porque somos rivales! ¡Y los<n>rivales son amigos de por vida!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "¡Para con eso!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Se siente especial correr contigo,<n>pero eso no cambia nada para\nmí."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Aun así voy a ir con todo y ganar<n>esto."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Me siento igual! Correr juntas no<n>es el objetivo—¡Tengo que\nganar!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Las estaré viendo a ustedes dos ahí<n>fuera. Háganme orgullosas de\nser su<n>rival."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Claro!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Bueno, aquí voy."
+        },
+        {
+            "text": "El Yayoi Sho—el primer encuentro<n>entre amigas—comienza entre la<n>\nresonante fanfarria."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡¿Que corredora tiene lo que toma<n>ganar el Yayoi Sho?! Están en\nlas<n>puertas de salida..."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Y partieron!"
+        }
+    ]
+}

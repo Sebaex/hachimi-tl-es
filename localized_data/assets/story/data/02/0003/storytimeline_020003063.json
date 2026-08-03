@@ -1,0 +1,54 @@
+{
+    "title": "Encuentro en el Yayoi Sho",
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Ey, ¡Entrenador! ¡Hayahide! ¡Ahí<n>están!",
+            "choice_data_list": [
+                "Esa fue una carrera increíble.",
+                "Esa fue una carrera increíble."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Ejejeje! ¡Creo que hasta yo me<n>sorprendí! ¡Dijeron que fue un<n>\nnuevo récord en el Yayoi Sho!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Cuando vi a Taishin detrás mío,<n>sentí este poder surgiendo dentro<n>\nde mí."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ella me enseñó que un rival te<n>puede ayudar a sacar fuerza de ti<n>\nque ni... uno sabía q-que...<n>¡Waaaaaaaaa!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Se que perdí, pero... corrí<n>tremenda carrera."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No puedo creer lo injusto que esto<n>es. Estoy tan envidiosa de que\nno<n>pude correr con ustedes."
+        },
+        {
+            "text": "Si siguen así, ellas tres irán<n>directo a la primera carrera de las<n>\nClásicas, el Satsuki Sho."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No perderé la siguiente. No importa<n>que tan buena carrera de, es\ninútil<n>si no la gano."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Jeje, tampoco me perderé el Satsuki<n>Sho. La próxima vez, estaremos<n>\njuntas en él."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Seh! ¡Juntas hasta el final!"
+        },
+        {
+            "text": "El primer encuentro terminó,<n>y—corriendo con su confiable<n>\nrival—Winning Ticket sonríe más que<n>nunca."
+        },
+        {
+            "text": "Ahora ella irá hacia las Clásicas y<n>su sueño de una vez en la\nvida, el<n>Japanese Derby."
+        }
+    ]
+}
