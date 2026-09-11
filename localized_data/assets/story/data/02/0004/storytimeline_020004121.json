@@ -1,0 +1,354 @@
+{
+    "title": "Espíritu Duradero",
+    "text_block_list": [
+        {
+            "name": "<username>",
+            "text": "Buen trabajo, Brian."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Aun así no pude irme con una<n>victoria."
+        },
+        {
+            "name": "<username>",
+            "text": "Diste todo lo que tenías sí. Fue<n>una buena carrera."
+        },
+        {
+            "name": "<username>",
+            "text": "Diste todo lo que tenías sí. Fue<n>una buena carrera."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Entrenador..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tengo que decirte algo... Es sobre<n>mí, no puedo..."
+        },
+        {
+            "name": "<username>",
+            "text": "No puedes correr con tu forma<n>antigua... ¿Verdad?"
+        },
+        {
+            "name": "<username>",
+            "text": "No puedes correr con tu forma<n>antigua... ¿Verdad?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...¿Te diste cuenta?"
+        },
+        {
+            "name": "<username>",
+            "text": "No hasta la carrera de ahora. Me di<n>cuenta lo duro que peleabas."
+        },
+        {
+            "name": "<username>",
+            "text": "No hasta la carrera de ahora. Me di<n>cuenta lo duro que peleabas."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Incluso yo no estoy segura de lo<n>que está mal."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Simplemente... algo se siente mal<n>cuando intento. No funciona de\nla<n>manera que lo hacía mejor."
+        },
+        {
+            "text": "Mientras la lesión se sanaba,<n>seguramente cambió el cuerpo de<n>\nBrian de manera mínima—un pequeño<n>cambio en su balance, una\npequeña<n>sensación diferente en su pierna."
+        },
+        {
+            "text": "Combinado, los cambios impactaron<n>su forma lo suficiente para\nsacar el<n>estilo de correr que Brian estuvo<n>tanto tiempo\nperfeccionando. Es<n>devastador..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Debí decirte. Pero pensé que si lo<n>hacía, me sacarías."
+        },
+        {
+            "name": "<username>",
+            "text": "Seh, seguramente lo hice."
+        },
+        {
+            "name": "<username>",
+            "text": "Seh, seguramente lo hice."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero las cosas son diferentes<n>ahora. Incluso si tú no puedes<n>\ncorrer como antes, no has cambiado."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero las cosas son diferentes<n>ahora. Incluso si tú no puedes<n>\ncorrer como antes, no has cambiado."
+        },
+        {
+            "name": "<username>",
+            "text": "Tienes tantas ganas de ganar,<n>empujas por todo. La Narita Brian<n>\nque me cautivó de primeras sigue<n>ahí."
+        },
+        {
+            "name": "<username>",
+            "text": "Tienes tantas ganas de ganar,<n>empujas por todo. La Narita Brian<n>\nque me cautivó de primeras sigue<n>ahí."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Es como mi 'Mana dijo—realmente te<n>importan más tus corredoras.",
+            "choice_data_list": [
+                "¡Estoy contigo hasta el final!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Bien... ¡Entonces seguiré<n>corriendo!"
+        },
+        {
+            "name": "<username>",
+            "text": "La próxima carrera de Brian es el<n>Hanshin Daishoten. ¿Pero cómo<n>\nlogramos ganarlo?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ah, ¡Con que aquí estabas! ¡Terminé<n>de calentar!"
+        },
+        {
+            "name": "<username>",
+            "text": "Oh, perdón. Estaba pensando sobre<n>qué hacer para el entrenamiento\nde<n>Brian."
+        },
+        {
+            "name": "<username>",
+            "text": "Tengo que buscar una manera<n>completamente nueva de correr para<n>\nella que pueda aprovechar todo su<n>poder."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hmm... Eso suena muy complicado<n>para mí."
+        },
+        {
+            "name": "<username>",
+            "text": "No hay tiempo para prueba y error,<n>así que pensaba como podemos<n>\noptimizar el entrenamiento."
+        },
+        {
+            "name": "<username>",
+            "text": "No hay tiempo para prueba y error,<n>así que pensaba como entrenar\nde<n>manera más inteligente."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Emmm, ahhhhhh... Seh, más<n>inteligente, pero... Ahhh, ¡Ojala<n>\ntuviera más neuronas para pensar<n>mejor!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Pensaba que eras tú, Ticket. Podía<n>escuchar tu voz desde como dos<n>\ncuadras."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Ahhh! ¡Acá vamos, Entrenador!<n>¡Alguien con una gran cabeza LLENA<n>\nde neuronas!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "¡Oye! Te sigo diciendo que mi<n>cabeza no es <i>tan</i> grande...<n>\nEspera, ¿De qué hablas?"
+        },
+        {
+            "name": "<username>",
+            "text": "Exacto, ¡Un intelecto como el de<n>ella debe ser perfecto!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Espera, ¿De qué trata todo esto?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ustedes realmente andan animados.<n>Escuché que la próxima carrera\nde<n>Brian está lista, así que hice unas<n>bolitas de arroz para darle\nun<n>impulso."
+        },
+        {
+            "name": "<username>",
+            "text": "¡Guau! ¡Incluso tenemos una<n>compañera para correr!"
+        },
+        {
+            "name": "<username>",
+            "text": "¡Guau! ¡Incluso tenemos una<n>compañera para correr!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "¿Eh? ¿Quieres un uno contra uno o<n>algo?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "'Mana y... ¿Ama?"
+        },
+        {
+            "name": "<username>",
+            "text": "Le pregunté a Hayahide para ayudar<n>en una lluvia de ideas para el<n>\nnuevo entrenamiento y estilos para<n>correr que te vengan bien."
+        },
+        {
+            "name": "<username>",
+            "text": "Y para probarlos, ¡Pensamos que la<n>mejor compañera para correr\nsería<n>alguien contra la que has corrido<n>antes!"
+        },
+        {
+            "name": "<username>",
+            "text": "Y para probarlos, ¡Pensamos que la<n>mejor compañera para correr\nsería<n>alguien contra la que has corrido<n>antes!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Jeje, cierto. ¡Deja que la<n>confiable Hishiama te arregle los<n>\nmalestares!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Y considerando por números, puede<n>que no sea la mejor corredora<n>\nnatural como tú, pero estoy segura<n>de que será más beneficioso que<n>\ncorrer a ciegas."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Me molestaría perder esa rivalidad<n>entre hermanas, así que tenemos\nque<n>devolverte a la vieja tu—no,<n>tenemos que hacerte mejor que<n>\nantes."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Heh, tomaré todas las migas que<n>pueda."
+        },
+        {
+            "name": "<username>",
+            "text": "¡Listo! ¡Hora de armar el camino a<n>la victoria!"
+        },
+        {
+            "name": "Todas",
+            "text": "¡Seh!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Revisé un poco los planes de<n>entrenamiento de Hayahide para ti y<n>\n<i>mi loca.</i> Un mes de eso, ¡Y<n>tus cuádriceps van a quedar<n>\nDURISIMOS!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Seh, ella siempre se toma las cosas<n>bien en serio, incluyendo el<n>\nentrenamiento. No me sorprende que<n>su régimen sea tan efectivo."
+        },
+        {
+            "name": "<username>",
+            "text": "Seguro que estás orgullosa de ser<n>su hermana."
+        },
+        {
+            "name": "<username>",
+            "text": "Seguro que estás orgullosa de ser<n>su hermana."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Seh, lo estoy."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Puede que ustedes sean diferentes,<n>pero saben los estilos de cada\nuna<n>tan bien y fueron ambas Corredoras<n>del Año. Son indispensables\nuna de<n>la otra."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, ¡Verdad! Van a anunciar los<n>premios URA pronto, ¿Eh?"
+        },
+        {
+            "name": "<username>",
+            "text": "Debería estar en la Tele. Deja que<n>la prendo."
+        },
+        {
+            "name": "<username>",
+            "text": "Debería estar en la Tele. Deja que<n>la prendo."
+        },
+        {
+            "name": "Locutora",
+            "text": "¡Esta corredora superó el récord de<n>Narita Brian en el Kikuka Sho\ny fue<n>a ganar el Arima Kinen!"
+        },
+        {
+            "name": "Locutora",
+            "text": "Su increíble éxito no se puede<n>detener, ¡Debido a esto fue que<n>\nMayano Top Gun fue escogida como<n>Corredora del Año!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, eh, ¡Muchísimas gracias!"
+        },
+        {
+            "name": "Locutora",
+            "text": "Todos saben que tuviste un<n>fantástico año, ¿Pero cuáles son<n>tus\nexpectativas para lo que sigue?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Mis expectativas son las mismas que<n>todos viendo—¡De dar un\nperfecto<n>desempeño en una carrera a máxima<n>propulsión!"
+        },
+        {
+            "name": "Locutora",
+            "text": "Entonces sabemos que estaremos<n>esperando grandes cosas de parte<n>\ntuya."
+        },
+        {
+            "name": "Locutora",
+            "text": "Ahora, ¿Hay algunas oponentes ahí<n>fuera que te tengan emocionada\npor<n>correr?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "¡Si! ¡Ajá! ¡Lo hay! ¡Hay alguien<n>justo así!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "¡Ella fue tan increíble en el<n>Hanshin Daishoten del año pasado!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Esas carreras son tan<n>predecibles..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Awww, ¡Esto no me hace calentar<n>motores! Debí de haber vuelto a la<n>\nacademia en vez de venir acá."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Y salió disparada! ¡La ventaja de<n>Brian solamente sigue\ncreciendo!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "¡Guau, no puede ser! Después de<n>todo, ¡¿Ella está acelerando aún<n>\nmás rápido?!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Ella es imparable—nadie la puede<n>alcanzar en su ventaja de\nseis—no,<n>siete cuerpos! ¡Y terminó!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "¡Guaaau... Eso es increíble!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Verla correr me dio un tremendo<n>subidón. Sabía que tenía que\ncorrer<n>contra ella en una carrera<n>deslumbrante, y supersónica como<n>\nesa!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Pero se lesionó y comenzó a perder<n>carreras después..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "¡Aun así! ¡Lo sabía cuando corrí<n>contra ella en el Arima Kinen!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Esa emoción hormigueante que sentí<n>durante esa carrera fue la\nmisma que<n>el día en que la vi correr en el<n>Hanshin Daishoten. Por\neso..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "¡No puedo esperar para correr con<n>Narita Brian otra vez!"
+        },
+        {
+            "name": "Locutora",
+            "text": "¡Una carrera entre la actual y la<n>anterior Corredora del Año! ¡Eso<n>\nsería una vista a considerar!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ella te lo solicitó a ti<n>específicamente... y también es<n>tremenda\nmáquina igual. Mayano Top<n>Gun ganó el Arima Kinen en su año<n>\nclásico, igual como tú lo hiciste."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "No importa contra quien corra."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Con todo este apoyo, me rehúso a<n>ceder. La victoria es mía.",
+            "choice_data_list": [
+                "¡Nada más que hacer que ganar!",
+                "¡Nada más que hacer que ganar!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "¡Seh!"
+        }
+    ]
+}

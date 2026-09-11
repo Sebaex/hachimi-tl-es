@@ -1,0 +1,355 @@
+{
+    "title": "Sentimientos Inalterables",
+    "text_block_list": [
+        {
+            "name": " ",
+            "text": ""
+        },
+        {
+            "name": "Relatora de TV",
+            "text": "¡Son los últimos 200 metros! ¡\"La<n>Reina de las Amazonas\" Hishi\nAmazon<n>está persiguiendo el liderato!<n>¡Narita Brian tiene problemas\nen la<n>recta final!"
+        },
+        {
+            "text": "Como en el Tenno Sho de otoño, la<n>Japan Cup fue un fracaso..."
+        },
+        {
+            "text": "La racha de Brian se sentía que<n>pudo seguir para siempre... Me<n>\npregunto qué pasó a medida que veo<n>videos de las carreras buscando<n>\npistas."
+        },
+        {
+            "text": "Siguiendo la agenda, la próxima<n>carrera será el Arima Kinen. Debe<n>\nde haber algo en algún lado para<n>recuperar su antigua fuerza."
+        },
+        {
+            "name": "Relatora de TV",
+            "text": "¡Hishi Amazon termina segunda con<n>poca distancia! ¡Narita Brian\nquedó<n>atrás y terminó sexta!"
+        },
+        {
+            "name": "<username>",
+            "text": "No está usando toda su energía. Y<n>el bajo centro de gravedad que\nsu<n>forma tenía antes está—"
+        },
+        {
+            "name": "<username>",
+            "text": "No está usando toda su energía. Y<n>el bajo centro de gravedad que\nsu<n>forma tenía antes está—"
+        },
+        {
+            "text": "<i>¡Toc, toc!</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Perdón la intrusión."
+        },
+        {
+            "name": "<username>",
+            "text": "Oh, una visita tuya es rara."
+        },
+        {
+            "name": "<username>",
+            "text": "Oh, una visita tuya es rara."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Si, bueno, estás cuidando a mi<n>hermana, y quería hablarte sobre<n>\nella."
+        },
+        {
+            "text": "Aunque suena relajada, parece tener<n>una cara de preocupación. Debe\nde<n>estar preocupada de Brian más que<n>nadie."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Los rumores dicen que su lesión no<n>ha mejorado por completo..."
+        },
+        {
+            "name": "<username>",
+            "text": "Eso es solo un rumor. Todo lo que<n>tienes que hacer es verla correr<n>\npara ver que se recuperó."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Como sospechaba. No podía<n>imaginarme que la dejarías sobre<n>\nextenderse, pero sus resultados no<n>mejoran."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Y por el hecho de que, ¿Aún tienes<n>pensado de hacerla correr en el<n>\nArima Kinen?"
+        },
+        {
+            "name": "<username>",
+            "text": "Mientras Brian quiera correr, voy a<n>respetar sus deseos."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "¿Incluso si no sabes lo que está<n>causando el problema?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Si fuera a perder de nuevo en el<n>Arima Kinen, tu palabra puede ser<n>\nde dudar. ¿La harás correr<n>considerando eso?"
+        },
+        {
+            "text": "Eso definitivamente es una<n>posibilidad. Pero no me importa.",
+            "choice_data_list": [
+                "Siempre pondré lo que quiere Brian sobre todo lo demás.",
+                "Siempre pondré lo que quiere Brian sobre todo lo demás."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Jejeje... Bien, me relaja escuchar<n>eso."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Para ser honesta, vine para pedirte<n>que ella corriera en el Arima<n>\nKinen."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Lo harás?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Pero veo que no era necesario.<n>Tienes lo mejor para tus<n>\ncorredoras—para Brian—en mente."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Quiero decir una cosa eso sí. Ya es<n>hora de que perdiera el Tenno\nSho de<n>otoño."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Quedé sorprendida después de verla<n>quedar doceava. Después de eso\nla<n>fui a ver, y..."
+        },
+        {
+            "name": "<username>",
+            "text": "...¿Estaba llorando?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Somos hermanas, pero no recuerdo la<n>última vez que la haya visto\ncon<n>lágrimas cayendo a cántaros en su<n>cara."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Las carreras no es algo de lo que<n>se retire tan fácilmente."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Así que espero que hagas todo lo<n>posible para ayudarla... Por\nfavor."
+        },
+        {
+            "text": "Hayahide seguramente ya entendió lo<n>que le pasa a Brian."
+        },
+        {
+            "text": "En el fondo de sus ojos, veo el<n>amor de una hermana. Está claro\nque<n>me tiene mucha fe para ayudar a su<n>hermana menor."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>Haaa... Haaa...</i>"
+        },
+        {
+            "name": "<username>",
+            "text": "Estás fuera de horario, Brian. La<n>pista está cerrada."
+        },
+        {
+            "name": "<username>",
+            "text": "Estás fuera de horario, Brian. La<n>pista está cerrada."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Ya casi llega el Arima Kinen, así<n>que dímelo directamente."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Estás aquí... ¿Para decirme que<n>deje de entrenar?"
+        },
+        {
+            "name": "<username>",
+            "text": "No, vine a ver como estabas."
+        },
+        {
+            "name": "<username>",
+            "text": "No, vine a ver como estabas."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "¿Como estoy?"
+        },
+        {
+            "name": "<username>",
+            "text": "Escuché de Hayahide sobre lo que<n>pasó después del Tenno Sho de<n>\notoño."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "..."
+        },
+        {
+            "name": "<username>",
+            "text": "No entiendo lo suficiente para<n>saber por qué estabas llorando...<n>\ntodavía."
+        },
+        {
+            "name": "<username>",
+            "text": "No entiendo lo suficiente para<n>saber por qué estabas llorando...<n>\ntodavía."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero sé que esa carrera era la gran<n>cosa para ti."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero sé que esa carrera era la gran<n>cosa para ti."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Ya veo. Así que viniste a verme."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "¿Y ahora qué? ¿Me dirás que me baje<n>del Arima Kinen?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Llorando solo porque perdí una<n>carrera... ¡¿Crees que tan misera<n>\nexcusa de una corredora no tiene el<n>derecho de entrar al Grand\nPrix,<n>no?!"
+        },
+        {
+            "text": "Brian me observa con ojos asesinos,<n>casi rugiendo las palabras."
+        },
+        {
+            "text": "Cuando veo esa esperanza en su<n>mirada, estoy seguro de eso.",
+            "choice_data_list": [
+                "No, vas a correr en el Arima Kinen.",
+                "No, vas a correr en el Arima Kinen."
+            ]
+        },
+        {
+            "text": "Cuando veo esa esperanza en su<n>mirada, estoy seguro de eso.",
+            "choice_data_list": [
+                "No, vas a correr en el Arima Kinen.",
+                "No, vas a correr en el Arima Kinen."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...¿Lo haré?"
+        },
+        {
+            "name": "<username>",
+            "text": "Yo creo... comienzo a entender la<n>razón de tus lágrimas. No se\npuede<n>romper tu voluntad."
+        },
+        {
+            "name": "<username>",
+            "text": "Yo creo... comienzo a entender la<n>razón de tus lágrimas. No se\npuede<n>romper tu voluntad."
+        },
+        {
+            "name": "<username>",
+            "text": "Así que te dejaré correr como<n>quieras. Un entrenador está ahí<n>para\napoyar a sus corredoras."
+        },
+        {
+            "name": "<username>",
+            "text": "Así que te dejaré correr como<n>quieras. Una entrenadora está ahí<n>\npara apoyar a sus corredoras."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Ya veo."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Perdón, no debí de dudar de ti.<n>Em... gracias.",
+            "choice_data_list": [
+                "¡Ganemos esto, Brian!",
+                "¡Ganemos esto, Brian!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Claro, ¡Hora de hacer todo lo<n>posible!"
+        },
+        {
+            "text": "No sé por qué Brian no puede volver<n>a la normalidad, y no sé lo\nque la<n>llevó a llorar tampoco."
+        },
+        {
+            "text": "Pero aun así, creo en ella. Porque<n>en esa mirada de ella, solo veo<n>\ndeterminación."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Narita Brian mantiene una posición<n>ideal a medida que entra a la\nrecta<n>final! ¡¿Podrá finalmente este ser<n>su día?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¡Esa es una posición impecable!<n>¡Todo lo que queda es salir<n>\nadelante!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡En la delantera está la ganadora<n>del Kikuka Sho, Mayano Top Gun!<n>\n¡Narita Brian está persiguiéndola<n>incesantemente por detrás!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Vamos Brian! ¡Danos ese viejo<n>confiable sprint que conocemos y<n>\namamos!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Pero por lo visto tiene problemas!<n>¿Dónde está ese poder bruto\npor el<n>cual Brian es famosa?"
+        },
+        {
+            "text": "Brian corre por la sección de las<n>gradas, y su expresión se ve con<n>\nclaridad."
+        },
+        {
+            "text": "Está corriendo como si se estuviera<n>agarrando del piso en pura<n>\ndesesperación."
+        },
+        {
+            "text": "Pero no puede ni siquiera alcanzar<n>la sombra de Mayano Top Gun, y\nlas<n>otras oponentes la alcanzan por<n>detrás."
+        },
+        {
+            "name": "Fan A",
+            "text": "Ya no importa, ¡No lo hará!"
+        },
+        {
+            "name": "Fan B",
+            "text": "La Brian que conocemos ya no..."
+        },
+        {
+            "text": "Su mirada nunca falla sí. Está<n>hambrienta por la victoria, sin<n>\nperder la vista de la línea de<n>meta."
+        },
+        {
+            "text": "Mientras veo su frenético intento,<n>finalmente entiendo."
+        },
+        {
+            "text": "Su racha de derrotas no es por un<n>\"dolor persistente\" o \"mal<n>\nentrenamiento.\" Es porque su<n>antiguo estilo para correr ya no le<n>\nfunciona más."
+        },
+        {
+            "text": "Seguramente se dio cuenta durante<n>el Tenno Sho de otoño... y la<n>\ndesesperación la dejo en lágrimas."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Narita Brian no puede bajar la<n>distancia! ¡Mayano Top Gun es<n>\nincomparable!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "¡Haaaaah!"
+        },
+        {
+            "text": "Pero ella continúa—siempre<n>empujando hacia delante."
+        },
+        {
+            "text": "Todas las piezas calzan en mi<n>cabeza, y grito—",
+            "choice_data_list": [
+                "¡Tú puedes hacerlo, Brian!"
+            ]
+        },
+        {
+            "name": "Fan A",
+            "text": "...Vamo', ¡Briaaan!"
+        },
+        {
+            "name": "Fan B",
+            "text": "¡Siii! ¡Sigue, Brian!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Y Mayano Top Gun gana la carrera!<n>¡Con el impulso de su victoria\nen el<n>Kikuka Sho, ella gana el Arima<n>Kinen!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Narita Brian no logra aguantar y<n>termina cuarta!"
+        },
+        {
+            "text": "Me acostumbraba a elogiar su fuerza<n>sin límites, pero esta\nseguramente<n>es la primera vez que grito para<n>darle apoyo."
+        },
+        {
+            "text": "Aunque el resultado no fue lo que<n>esperábamos, siento que hicimos<n>\nprogreso—ella como corredora, y yo<n>como su entrenador."
+        },
+        {
+            "text": "Ella nunca parará de correr hacia<n>la victoria. Eso es lo que la\nhace<n>la mejor."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Fuego Furioso",
+    "text_block_list": [
+        {
+            "name": "<username>",
+            "text": "Felicidades, Brian. Esa fue una<n>increíble carrera."
+        },
+        {
+            "name": "<username>",
+            "text": "Felicidades, Brian. Esa fue una<n>increíble carrera."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Segura que se sintió así. Esa<n>seguramente fue la mejor que he<n>\nhecho."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Después de todo, era la que más<n>quería ganar."
+        },
+        {
+            "name": "<username>",
+            "text": "Creo que las últimas carreras<n>empujaste tu crecimiento de una<n>\nmanera que las victorias no podían."
+        },
+        {
+            "name": "<username>",
+            "text": "Creo que las últimas carreras<n>empujaste tu crecimiento de una<n>\nmanera que las victorias no podían."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Seh, pero no voy a parar aquí. Mis<n>ganas de correr es lo que usaré<n>\npara impulsarme hacia adelante."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Más adelante me está esperando mi<n>hermana. Ella es la persona que<n>\ntodavía tengo que ganarle."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Puedo ver que realmente le<n>importa—sus ojos brillan de manera<n>\napasionada mientras habla.",
+            "choice_data_list": [
+                "¡Nunca pares de correr, Brian!",
+                "¡Nunca pares de correr, Brian!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Sabes que no lo haré."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Así que, ¿Cuándo es mi próxima<n>carrera? ¡Tengo hambre!"
+        }
+    ]
+}
