@@ -550,13 +550,13 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "d8aa4af0a819a0bfc188dfda878397b2abc182106dcd53d1762cb24e6594dccf",
-      "size": 372096
+      "hash": "25783d7d71a758d7bb276d6a0fa34a97422fe5e7f41df6372a6336680fe1e328",
+      "size": 372045
     },
     {
       "path": "text_data_dict.json",
-      "hash": "3b96b85ad495a7a1d6247dbbecf12ea00ca42276309b3cd9abb706d963582d05",
-      "size": 932236
+      "hash": "e9da1a29cbcfd983d340801efa95d1044648f307f2f7f3d07d6f8ff55184b03f",
+      "size": 1111822
     }
   ]
 }
