@@ -1,0 +1,251 @@
+{
+    "title": "Dos Soñadoras",
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Después de clases, voy de camino a<n>la pista de entrenamiento\ncuando veo<n>a una Umamusume familiar acompañada<n>por una que no\nconozco."
+        },
+        {
+            "name": "Special Week",
+            "text": "¡Uoooo! ¡Guaaaau!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ese edificio tiene tanto el<n>departamento musical como las salas<n>de\neconomía doméstica. Mas allá de<n>eso está la piscina techada."
+        },
+        {
+            "name": "Special Week",
+            "text": "Hokkaido era grande, ¡Pero nunca vi<n>una escuela así de grande\nantes!<n>Estoy segura de que me voy a perder<n>al menos una vez... no,\npuede que<n>cinco veces..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¿Hm? ¿No eres el entrenador del<n>Equipo Sirius?"
+        },
+        {
+            "name": "<username>",
+            "text": "Hola. Es bueno saber que ya<n>escuchaste antes de mí."
+        },
+        {
+            "name": "Special Week",
+            "text": "¿Un entrenador?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Correcto. Para correr en la Twinkle<n>Series, tienes que pertenecer\na un<n>equipo encargado de un entrenador."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Este entrenador maneja al Equipo<n>Sirius, el cual ha producido a<n>\nmuchas ganadoras de carreras G1."
+        },
+        {
+            "name": "Special Week",
+            "text": "¡A-así que eres así como un<n>maestro! ¡Hola! ¡Soy Special Week!"
+        },
+        {
+            "name": "<username>",
+            "text": "No me llamaría así... Pero bueno,<n>¿Que hacen ustedes dos?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Veras, me transfirieron desde<n>Hokkaido. Suzuka me estaba dando un<n>\ntour por el campus."
+        },
+        {
+            "name": "Special Week",
+            "text": "Pero llegar aquí no es suficiente<n>para correr carreras, ¿Eh? No\nsabía<n>que me tenían que aceptar en un<n>equipo también..."
+        },
+        {
+            "name": "Special Week",
+            "text": "En ese caso, ¡Me quiero unir al<n>equipo de Suzuka! ¡Así puedo verla<n>\ncorrer de cerca y personalmente!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Em... Te tienen que reclutar para<n>unirte a un equipo. No hay\ngarantía<n>que entrarás al equipo que<n>quieras..."
+        },
+        {
+            "name": "Special Week",
+            "text": "¡Guaaau! ¡¿Reclutada?! ¡Como una<n>supermodelo! ¡Entonces tendré que<n>\nintentarlo super-duper duro!",
+            "choice_data_list": [
+                "Bueno, tienes energía de tu lado, al menos."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "De todas maneras, creo que toca<n>irse."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno, te veo luego."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Después de dominar su carrera de<n>debut, Silence Suzuka terminó<n>\noctava en el Yayoi Sho... Me<n>hubiera encantado preguntarle que<n>\npasó, pero..."
+        },
+        {
+            "name": "<username>",
+            "text": "Eso no me incumbe."
+        },
+        {
+            "name": "<username>",
+            "text": "Eso no me incumbe."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Varios días después. Paso por los<n>tryouts para buscar potenciales<n>\ntalentos. Mientras estoy ahí,<n>reconozco a alguien en la<n>audiencia."
+        },
+        {
+            "name": "<username>",
+            "text": "Oh, ¿Viniste a ver los tryouts?"
+        },
+        {
+            "name": "<username>",
+            "text": "Oh, ¿Viniste a ver los tryouts?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Tu eres el entrenador del Equipo<n>Sirius. Así es, vengo a ver a<n>\nSpecial Week."
+        },
+        {
+            "name": "<username>",
+            "text": "Que sorpresa. Recién se transfirió,<n>así que no esperaba a verla en\nel<n>roster."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por lo general las estudiantes<n>nuevas aprenden lo básico de correr<n>\ny las carreras antes de determinar<n>el momento correcto para\nprobarlas."
+        },
+        {
+            "name": "<username>",
+            "text": "Parece que <i>realmente</i> quiere<n>estar en tu equipo."
+        },
+        {
+            "name": "<username>",
+            "text": "Parece que <i>realmente</i> quiere<n>estar en tu equipo."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Parece ser así... Pero también<n>tiene su propio sueño."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Quiere correr en la Twinkle Series<n>y volverse la mejor corredora\nen<n>todo Japón.",
+            "choice_data_list": [
+                "En todo Japón, ¿Eh?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Recién la conocí, pero ya puedo ver<n>que Special Week enfrentará\nsus<n>sueños, sus emociones... todo de<n>frente."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mientras dice eso, algo en la<n>expresión de Silence Suzuka se<n>ve...\ntriste. Me sorprende ver lo<n>distinto que está su cara ahora<n>\ncomparado a su debut."
+        },
+        {
+            "name": "<username>",
+            "text": "Casi que suenas celosa."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¿Eh?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yo, bueno..."
+        },
+        {
+            "name": "Relatora",
+            "text": "Llegamos a la tercera carrera de<n>los tryouts del día de hoy. Cada<n>\ncorredora tiene su puesto en las<n>puertas."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ah... Está comenzando."
+        },
+        {
+            "name": "Relatora",
+            "text": "Aquí viene la numero seis, ¡Special<n>Week! Compensa su inicio\ntardío con<n>un acelerón temprano a medida que<n>llega a la tercera\ncurva."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Está cerrando distancia! ¡Más!<n>Más... ¡Tomó la delantera!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¡Special Week! Ella puede que—"
+        },
+        {
+            "name": "<username>",
+            "text": "Para una recién transferida, ¡Tiene<n>vigor! No puedo decir que ella\nes<n>nueva. Y con esa expresión..."
+        },
+        {
+            "name": "<username>",
+            "text": "Para una recién transferida, ¡Tiene<n>vigor! No puedo decir que ella\nes<n>nueva. Y con esa expresión..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No solo su expresión... Su propia<n>forma de correr parece encarnar\nsus<n>sueños de venir a Tokyo y volverse<n>la mejor en Japón. Sin\nembargo..."
+        },
+        {
+            "name": "Relatora",
+            "text": "¿Qu-que es esto? ¡Special Week se<n>detuvo y está saludando a\nalguien!"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡Lo hice, Suzukaaa! ¡Llegué<n>primera!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Uh-oh! ¡Suena como si creyera que<n>pasó la línea de meta! ¡Ahora\nel<n>resto del grupo la está pasando<n>rápidamente!"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡¿Qu-qué?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Em, estaré entrenando contigo de<n>ahora en adelante—¡Mi nombre es<n>\nSpecial Week! ¡Gracias por la<n>oportunidad!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Guaaau! ¡¿Tenemos un miembro<n>nuevo?! Special Week, ¡¿Te puedo<n>\ndecir Spe?! ¡Encantada de<n>conocerte!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Para ser honesta, esperaba en<n>quedar en el equipo de Suzuka, pero<n>\nbueno, creo que metí la pata en los<n>tryouts..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Pero cuando el entrenador del<n>Equipo Sirius me reclutó, recordé<n>\nescuchar que tu equipo también era<n>bastante bueno también, ¡Así\nque<n>acepté agradecida!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ooooh... Así que no somos lo<n>suficientemente buenas para ser tu<n>\nprimera opción, ¿Eh?"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡¿Ah?! N-no, ¡No es eso! ¡Aunque el<n>equipo de Suzuka\ndefinitivamente<n><i>era</i> mi primera opción!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Bueno, mala suerte, ¡Porque estarás<n>encerrada con <i>nosotras</i><n>\nahora! ¡Te convertiremos en la<n>corredora más miserable de Japón!"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡¿Quéeeeee?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Vamos! ¡¿Y qué esperas?! Si<n>quieres ser la mejor de Japón,<n>¡Ponte\na correr mejor!"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡O-ok!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sus habilidades necesitan<n>redefinirse, pero su deseo sincero<n>de ser\nla mejor realmente dejó una<n>impresión en mí."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ahora me doy cuenta de que quiero<n>ayudar a Special Week a alcanzar<n>\nsus sueños."
+        }
+    ]
+}

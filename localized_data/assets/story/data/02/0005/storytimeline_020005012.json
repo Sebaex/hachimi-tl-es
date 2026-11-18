@@ -1,0 +1,261 @@
+{
+    "title": "Apasionante Alegría",
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "El Enero de este año está<n>especialmente frío... Aunque sin<n>\nimportar el clima. Estoy en la<n>pista de entrenamiento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Todas a mi alrededor son corredoras<n>jóvenes preparándose para su<n>\nintento en las Clásicas esta<n>primavera."
+        },
+        {
+            "name": "Entrenador Veterano A",
+            "text": "¡Solo algunas corredoras<n>seleccionadas clasifican a las<n>Clásicas!\nSi quieres entrar,<n>¡Tendrás que mostrarme lo que<n>tienes lo\nnecesario!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "¡Si, Entrenador!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Loooco, todas están emocionadas."
+        },
+        {
+            "name": "<username>",
+            "text": "Solo puedes intentar las Carreras<n>Clásicas una sola vez en tu<n>\ncarrera. Si no calificas, ya fue."
+        },
+        {
+            "name": "<username>",
+            "text": "Solo puedes intentar las Carreras<n>Clásicas una sola vez en tu<n>\ncarrera. Si no calificas, ya fue."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Si, y es por eso que cientos, si no<n>miles de corredoras cada año\nsueñan<n>con ganar las Clásicas."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Y luego de tooodo ese<n>entrenamiento, alguna de nosotras<n>llega y se\nqueda toda la gloria,<n>¿Eh?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...No me miren así."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Mira quien habla. Tendrías<n>bastantes honores si te hubieras<n>tomado\ntus carreras en serio."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oye, oye, ¡¿Quién dice que no me<n>las tomé en serio?! No te<n>\npreocupes, ¡Planeo en ganar una o<n>dos de esas carreras clásicas!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "¡Wooooo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh si, ¿Escuchan eso? ¡Es el sonido<n>de mis preciosos fans\nesperando a<n>que llegue a la gloria!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¿Y para que son esos ánimos? Suena<n>como si hubiera alguna clase de<n>\nconmoción."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡DEJEN DE IGNORARME!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Haah... Haah... Haah...</i>"
+        },
+        {
+            "name": "Reportero A",
+            "text": "¡Y ese es otro récord personal!"
+        },
+        {
+            "name": "Reportera B",
+            "text": "Escuché que había una novata<n>prometedora entre las corredoras de<n>\neste año, pero ella es mucho más de<n>lo que esperaba."
+        },
+        {
+            "name": "Entrenadora de Suzuka",
+            "text": "Eso es lo que me gusta ver de ti,<n>Suzuka. Esa velocidad que tienes\nes<n>extraordinaria."
+        },
+        {
+            "name": "Entrenadora de Suzuka",
+            "text": "Una vez que corras en tu carrera de<n>debut, usaremos esa\nexperiencia para<n>desarrollar un estilo de correr que<n>haga uso de\ntus fortalezas únicas."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ok, suena bien."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Todo ese alboroto por Suzuka, ¿Eh?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿La conoces?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿La conoces?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Que, ¿Tú no? Ella y sus increíbles<n>piernas han sido la sensación\ndesde<n>que entró a la academia."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Así que finalmente se acerca su<n>debut... No puedo esperar para ver<n>\nlo que puede hacer."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No escucho el nombre de Silence<n>Suzuka de nuevo hasta varias<n>\nsemanas después en el Hipódromo de<n>Kyoto."
+        },
+        {
+            "name": "Reportero A",
+            "text": "La prensa realmente vino en manada<n>para esta carrera. ¿También\nestás<n>aquí para el debut de Silence<n>Suzuka?"
+        },
+        {
+            "name": "Reportero C",
+            "text": "¡Así es! No puedo esperar para<n>verla correr. ¡Incluso traje a<n>\ncuatro camarógrafos para capturarla<n>por completo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Suena a que hoy es la carrera de<n>debut de Silence Suzuka."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mientras me comienzo a imaginar qué<n>clase de correr puede inspirar\na<n>tantos rumores, escucho pasos<n>acercándose a mi desde atrás."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oye tu. ¿No eres el entrenador del<n>Equipo Sirius?",
+            "choice_data_list": [
+                "Tú eres...",
+                "Tú eres..."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Soy Air Groove, vicepresidenta del<n>consejo estudiantil. Pero estoy<n>\nsegura de que has escuchado de mí."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como en cualquier otra escuela, la<n>Academia tiene su propio\nconsejo<n>estudiantil, el cual ofrece soporte<n>a la escuela en maneras\nque solo las<n>estudiantes pueden."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quizás sorprendentemente, Narita<n>Brian también es una oficial en\nel<n>consejo estudiantil, alguien cuyas<n>compañeras les encanta\nburlarse de<n>eso."
+        },
+        {
+            "name": "Air Groove",
+            "text": "No creo que haya miembros del<n>Equipo Sirius estén participando en<n>\nesta carrera... ¿Será que estás por<n>Suzuka?"
+        },
+        {
+            "name": "<username>",
+            "text": "Algo así. Estaba en la zona y me<n>imaginé que podría ver algunas<n>\ncarreras. No me di cuenta de que<n>Suzuka estaría aquí sí. ¿Viniste\na<n>ver su debut?"
+        },
+        {
+            "name": "<username>",
+            "text": "Algo así. Estaba en la zona y me<n>imaginé que podría ver algunas<n>\ncarreras. No me di cuenta de que<n>Suzuka estaría aquí sí. ¿Viniste\na<n>ver su debut?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Suzuka y yo nos conocemos hace un<n>buen rato. Es más, el consejo<n>\nestudiantil le tiene el ojo encima."
+        },
+        {
+            "name": "<username>",
+            "text": "Oh, ¿En serio?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Correcto. Parece que la presidenta<n>tiene muchas esperanzas por\nella."
+        },
+        {
+            "name": "<username>",
+            "text": "La presidenta... ¿Te refieres a<n>Symboli Rudolf? Ahora estoy<n>\n<i>realmente</i> emocionado de<n>verla en acción."
+        },
+        {
+            "name": "<username>",
+            "text": "La presidenta... ¿Te refieres a<n>Symboli Rudolf? Ahora estoy<n>\n<i>realmente</i> emocionada de<n>verla en acción."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Yo no sabía lo emocionante que<n>sería la carrera..."
+        },
+        {
+            "name": "Relatora",
+            "text": "Silence Suzuka comienza a dar la<n>vuelta a la última curva, ¡Sigue\nen<n>la delantera!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Y miren lo lejos que se adelantó!<n>¡Pero sigue yendo aún más\nrápido a<n>medida que entra a la recta final!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Quedan doscientos metros! ¡Silence<n>Suzuka acelera aún más!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A pesar de estar en la delantera en<n>toda la carrera, Silence\nSuzuka no<n>muestra síntomas de fatiga. En<n>cambio, deja el grupo más\ny más<n>atrás..."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Esta velocidad! ¡Está al frente<n>por cinco cuerpos—no, seis! ¡¿Que<n>\ntan rápido puede ir?!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Silence Suzuka cruza la línea de<n>meta! ¡Su carrera de debut\ntermina<n>en una victoria perfecta!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ella es rápida. Sorprendentemente<n>rápida. Pero más que eso..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "¡Si! ¡Así se hace, Suzuka!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ah... <i>Ejem.</i> Así que, ¿Qué<n>piensas de Suzuka? Rápida, ¿No?"
+        },
+        {
+            "name": "<username>",
+            "text": "¡Seh! ¡Muy rápida! Pero más allá de<n>eso...",
+            "choice_data_list": [
+                "¡Parece que se divertía demasiado!",
+                "¡Parece que se divertía demasiado!"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "¡Seh! ¡Muy rápida! Pero más allá de<n>eso...",
+            "choice_data_list": [
+                "¡Parece que se divertía demasiado!",
+                "¡Parece que se divertía demasiado!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "...¿Divertirse?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Bueno, bueno... ¿Así es como lo<n>ves? Que perspectiva tan<n>\ninteresante."
+        },
+        {
+            "name": "Monólogo",
+            "text": "¡Wooooo!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Haaa... Haaa...</i>"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Jeje..."
+        }
+    ]
+}

@@ -1,0 +1,303 @@
+{
+    "title": "Pase lo que Pase",
+    "text_block_list": [
+        {
+            "name": "Special Week",
+            "text": "¡Realmente diste todo en el<n>entrenamiento hoy! Y tú también<n>\nEntrenador—¡Ustedes son bastante<n>impactantes!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Si, creo que Entrenador quiere lo<n>mismo que yo—ver que tan alto\npuedo<n>volar."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Pero estoy segura de que el<n>Takarazuka Kinen que viene también<n>\ntiene algo que ver."
+        },
+        {
+            "name": "Special Week",
+            "text": "Air Groove correrá en él,<n>¡¿Verdad?! Finalmente, ¡Una pelea<n>cara a\ncara con tu rival! ¡Como<n>siempre, ahí estaré para apoyarte!"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡Ah, verdad! Suzuka, déjame darte<n>otro masaje hoy. ¡No queremos\nque<n>algún músculo fatigado te haga ir<n>lento!"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡Guaaau! ¡Suzuka, los músculos de<n>tus piernas son tan\n<i>firmes!</i><n>Tipo, ¡Mega firmes! ¡Realmente te<n>tengo que relajar!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No importa cuánto corra, siento que<n>puedo ir aún más lejos..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Cuando corro, siento que hay<n>alguien ahí, empujándome para ir<n>\nincluso más rápido, para ir aún más<n>lejos..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Puede que sea por ti, nuestro<n>entrenador y todas en el Equipo<n>\nSirius que me han apoyado tanto."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ejeje, ¡Y seguiremos apoyándote!<n>¡Todo lo que tienes que hacer es<n>\nmostrarnos esa tan increíble forma<n>de correr que tienes!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Y para mostrarte que lo digo en<n>serio, ¡Voy a masajear tus piernas<n>\nhasta que parezcan jalea! ¡Voy a<n>mostrarte lo que ordeñar vacas\nles<n>hacen a las manos!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¿V-vacas?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Incluso luego de su impresionante<n>desempeño en el Kinko Sho,\nSilence<n>Suzuka nos sorprende mostrándonos<n>como sigue mejorando."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Impaciente con ayudarla a dar un<n>desempeño espectacular en el<n>\nTakarazuka Kinen, me decido a ir a<n>la pista de entrenamiento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Crujido...</i>"
+        },
+        {
+            "name": "<username>",
+            "text": "(¿E-eh? ¿Q-quien apagó el sol?)"
+        },
+        {
+            "name": "<username>",
+            "text": "(¿E-eh? ¿Q-quien apagó el sol?)"
+        },
+        {
+            "name": "???",
+            "text": "Un, dos, un, dos."
+        },
+        {
+            "name": "<username>",
+            "text": "(¿M-me están cargando? ¡¿Que está<n>pasando?!)"
+        },
+        {
+            "name": "???",
+            "text": "Bienvenido, mi querido entrenador,<n>a mi laboratorio."
+        },
+        {
+            "name": "<username>",
+            "text": "¡¿L-laboratorio?! ¡¿Y tú quién<n>eres?!"
+        },
+        {
+            "name": "<username>",
+            "text": "¡¿L-laboratorio?! ¡¿Y tú quién<n>eres?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Soy Agnes Tachyon, y te traje para<n>tener una palabra contigo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Una irónica sonrisa adorna la<n>expresión de la Umamusume,<n>Mirandola\nmás abajo, veo un saco<n>para café. ¡¿Acaso me raptó?!",
+            "choice_data_list": [
+                "¡¿Y qué quieres conmigo, acosadora?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Una irónica sonrisa adorna la<n>expresión de la Umamusume,<n>Mirandola\nmás abajo, veo un saco<n>para café. ¡¿Acaso me raptó?!",
+            "choice_data_list": [
+                "¡¿Y qué quieres conmigo, acosadora?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "\"Acosadora\" es pasarse un poco, ¿No<n>crees? Puede que fuese un poco<n>\náspera, pero te traje con buenas<n>intenciones."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Verás, quiero hablar.<n>Específicamente, quiero hablar<n>sobre tu\naprendiz, Silence Suzuka."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Eso era todo?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Eso era todo?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Si... Eso sí, ¿Pensaste lo<n>enigmática que somos las Umamusume?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nuestra anatomía es prácticamente<n>idéntica a las de los humanos,\npero<n>nuestra habilidad física excede por<n>un montón al humano."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Nosotras las Umamusume estamos<n>llenas de misterios... y bueno,<n>\nresolver esos misterios es el foco<n>de mi investigación."
+        },
+        {
+            "name": "<username>",
+            "text": "...¿Y qué tiene que ver con mi<n>aprendiz?"
+        },
+        {
+            "name": "<username>",
+            "text": "...¿Y qué tiene que ver con mi<n>aprendiz?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Imagina, correr una carrera<n>acelerando todo el tiempo. Incluso<n>y\ntengo que admitirlo... ¡Tus<n>ambiciones me intrigan!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Si ella puede perfeccionar su<n>estilo para correr, podría llevar a<n>\nlas Umamusume al siguiente<n>nivel—no, ¡A otro mundo!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Quiero saber los métodos de<n>entrenamiento que estás<n>implementando\nen este territorio sin<n>conocer. Por <i>eso</i> es que te<n>traje acá."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Interesante. ¿Seguro que no<n>estás haciendo nada extraordinario?"
+        },
+        {
+            "name": "<username>",
+            "text": "Seh, simplemente el típico<n>entrenamiento y descanso. No quiero<n>\nsobre esforzarla, después de todo."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Si tu entrenamiento no es la causa<n>de esta super velocidad de Uma,<n>\nentonces seguro que las capacidades<n>físicas innatas de Suzuka son<n>\nsimplemente espectaculares..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "No, puede que sea algo psicológico.<n>Seguro que se manifiesta de\nmanera<n>física como un aumento percibido de<n>velocidad."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Algo psicológico? ¿De qué hablas?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Seguro lo has escuchado antes.<n>Dicen que nosotras las Umamusume<n>\ncorremos llevando las esperanzas y<n>sueños de otras."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Has visto la estatua de las Tres<n>Diosas en la plaza, ¿Si? La\nleyenda<n>también describe a las Umamusume<n>como seres que llevan las<n>\nesperanzas de otras."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Como investigadora, tiendo a<n>descartar tales palabras como<n>\nromanticismo, pero... también soy<n>una Umamusume."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A veces cuando corro, lo siento.<n>Siento que alguien me está<n>\nempujando hacia adelante."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seguro se refiere a los fans de las<n>carreras. Unas de las muchas<n>\nrazones que las Umamusumes corren<n>es de cumplir con las\nexpectativas<n>de sus fans."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ah, mis disculpas... Nos desviamos<n>de nuestra conversación\noriginal.<n>Desafortunadamente, el escuchar<n>sobre tu régimen de\nentrenamiento<n>arruinó mis planes."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Es más... Tengo que admitir, tengo<n>preocupaciones por tu futuro.<n>\nGraves preocupaciones.",
+            "choice_data_list": [
+                "¿Como qué?",
+                "¿Como qué?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tu y Suzuka buscan con mucho<n>atrevimiento ir donde ninguna otra<n>\ncorredora ha llegado. Lo ideal que<n>buscas puede que esté más allá\nde<n>las capacidades de una Umamusume."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Pero cuando cruces ese límite, sus<n>piernas..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Agnes Tachyon dejaba de hablar y<n>desviaba su mirada. Respiro<n>\nprofundo antes de continuar con su<n>aparente conclusión."
+        },
+        {
+            "name": "<username>",
+            "text": "Crees que su cuerpo no puede<n>soportarlo."
+        },
+        {
+            "name": "<username>",
+            "text": "Crees que su cuerpo no puede<n>soportarlo."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "No lo sé. Todo lo que diga puede<n>que sea más que nada\nespeculación.<n>No estoy seguro si las Umamusumes<n><i>tienen</i>\nlimites."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Después de todo, estamos llenas de<n>misterios. Me disculpo si mis<n>\npalabras te preocuparon."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "De todas maneras, espero ver qué<n>clase de correr pueden crear tu y<n>\nSuzuka... Espero que sirva como una<n>luz guía para las generaciones\nque<n>vengan."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Vamooos! ¡Me voy a entrenar un<n>poco en la rampa!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Creo que eso también sigue en mi<n>programa también, y luego toca<n>\ncorrer en rectas, ¿Correcto?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como siempre, Silence Suzuka es<n>cuidadosa al entrenar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Su régimen no es nada especial, y<n>físicamente, parece lo mismo que<n>\ncualquier otra Umamusume."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pero la forma de correr de ella no<n>es como algo que se haya visto<n>\nantes... ¿Qué pasará si continúa<n>este camino?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tu y Suzuka buscan con mucho<n>atrevimiento ir donde ninguna otra<n>\ncorredora ha llegado. Lo ideal que<n>buscas puede que esté más allá\nde<n>las capacidades de una Umamusume."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¿Entrenador?"
+        },
+        {
+            "name": "<username>",
+            "text": "¡C-cierto! Entrenamiento en la<n>rampa, y luego rectas."
+        },
+        {
+            "name": "<username>",
+            "text": "¡C-cierto! Entrenamiento en la<n>rampa, y luego rectas."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Está bien, voy a comenzar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Su forma de correr es algo de lo<n>que otras Umamusume sueñan."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nadie puede correr así. O al menos,<n>nadie excepto Suzuka lo ha\nhecho."
+        },
+        {
+            "name": "<username>",
+            "text": "(Si seguimos así, va a ir más allá<n>de lo que debería ser\nfísicamente<n>posible.)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Si seguimos así, va a ir más allá<n>de lo que debería ser\nfísicamente<n>posible.)"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por mucho que no quiera pensar<n>sobre eso, el pensamiento de un<n>\ninminente desastre continúa<n>molestando mi mente."
+        }
+    ]
+}

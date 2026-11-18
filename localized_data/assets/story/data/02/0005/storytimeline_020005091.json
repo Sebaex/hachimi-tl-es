@@ -1,0 +1,224 @@
+{
+    "title": "La Carrera de Los Sueños",
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "El estilo de correr de Silence<n>Suzuka no es igual a ninguno antes<n>\nvisto... Y mientras más entrenamos,<n>más lo entiendo."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ahhh... Va más rápido que antes."
+        },
+        {
+            "name": "Special Week",
+            "text": "¡Está corriendo la media distancia<n>como si fuera una milla!\n¡Suzuka es<n>realmente asombrosa!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Haah, haah...</i> Ngh..."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Tomamos un descanso? Dime si soy<n>muy exigente contigo."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Tomamos un descanso? Dime si soy<n>muy exigente contigo."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Gracias... Pero estoy bien. Con lo<n>que me divierto me olvido de la<n>\nfatiga."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sin importar el sudor que le caía<n>por la cara, Silence Suzuka\nsigue<n><i>brillando.</i> Esa actitud<n>positiva de ella la demuestra<n>\ncorriendo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sus habilidades de por si son<n>increíbles... ¿Así que clase de<n>\nforma de correr saldrá si seguimos<n>así?"
+        },
+        {
+            "name": "<username>",
+            "text": "Tienes demasiado talento, pero<n>falta refinarlo un poco. Si lo<n>\npulimos un poquiiiiito más,<n>tendremos un buen diamante."
+        },
+        {
+            "name": "<username>",
+            "text": "Tienes demasiado talento, pero<n>falta refinarlo un poco. Si lo<n>\npulimos un poquiiiiito más,<n>tendremos un buen diamante."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero si vamos a alcanzar las nubes,<n>tenemos que asegurarnos que la\nbase<n>esté firme."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero si vamos a alcanzar las nubes,<n>tenemos que asegurarnos que la\nbase<n>esté firme."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Una base firme... Ok, entiendo. Voy<n>a tomar un descanso.",
+            "choice_data_list": [
+                "Recuerda, ¡Nuestro camino está recién comenzando!",
+                "Recuerda, ¡Nuestro camino está recién comenzando!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¡Claro!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "De esto, podemos determinar que el<n>entrenamiento con rampa genera<n>\nmúsculos en los cuádriceps,<n>dándonos potencia explosiva..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "No te he visto en la biblioteca por<n>un buen tiempo. ¿Acaso tu<n>\nentrenador te dijo que investigues?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No, simplemente estoy viendo<n>métodos efectivos para entrenar que<n>\nayuden a mejorar mi habilidad mucho<n>más."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Mi entrenador está haciendo un<n>trabajo precioso, así que no estoy<n>\npreocupada. Solo que no me gusta<n>quedarme quieta."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh... Suena que encontraste el<n>equipo perfecto para ti."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Y realmente se muestra cuando<n>corres. Nadie soñaría de ganar una<n>\ncarrera corriendo como lo haces tu."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Si fuera otra corredora, te diría<n>que cuidado con tu estilo\nactual.<n>Pero tengo el presentimiento que<n>vas a perfeccionar esa\nforma de<n>correr de otro mundo que tienes."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sí, sé que lo haré. Después de<n>todo, el paisaje al final del<n>\ncamino me llama."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Igual estoy emocionada. Quiero ver<n>esa fantástica forma de correr\nque<n>tienes, pero también no puedo<n>esperar de ganarte usando la mía."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Jeje, estoy segura de que tendrás<n>la oportunidad."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "¡Suzuka!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "¡¿Fukukitaru?! ¡¿Que andas usando?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No me digas... ¿Es tu nuevo traje<n>de la buena suerte?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "¡Nonono! ¡Estaba haciendo un poco<n>de terapia física en la piscina!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Verdad, te lesionaste mientras<n>entrenabas, ¿No? Con lo<n>\ndesafortunado que sea, al menos no<n>pasó durante una carrera."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Pues sí. Cuando me imaginé<n>semejante escenario, me dio cuco...<n>\n¡Gracias a mi gran Shiraoki por<n>prevenir una situación tan grave!<n>\nGraciaaaas..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Verdad, ¡No estoy acá por eso!<n>Escuche unas horribles noticias,<n>\n¡Así que vine lo más rápido que<n>pude!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Suzuka, ¡¿Es verdad que tu próxima<n>carrera es el Kinko Sho?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "S-sí, así es..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "¡Nnngh! ¡Y pensar que estaré con<n>semejante águila en mi gran\nretorno<n>a correr!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Así como me sentía bien sobre mi<n>futuro, recibo las peores\nnoticias.<n>No me digas... ¡Se acerca el<n>desastre!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Tu podrías ser ese desastre,<n>Fukukitaru. Te vi ganar el Kikuka<n>\nSho. Fuiste asombrosa."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Cierto. Ese sprint en la recta<n>final fue magnífico. Ten un poco de<n>\nconfianza."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Mmmm... Seguro <i>estoy</i><n>exagerando. No puedo decir como<n>saldrá\nesta carrera."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Seh, ¡Tienes razón! ¡Soy dueña de<n>un premio G1! Otros puede que no\nme<n>consideren, pero adivina, ¡Tengo lo<n>necesario para ganar <i>sin<n>\nimportar</i> mi pausa!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ejeje, te estaré esperando."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "¡Ooohhh! ¡Esa sonrisa me aterra de<n>nuevo! ¡Lo sabía, una gran<n>\ndesgracia me espera!<n>¡Shiraokiiiiii!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ay, dios—¡Cállate y vuelve luego a<n>la piscina!"
+        },
+        {
+            "name": "Fan A",
+            "text": "¿Crees que veremos a Silence Suzuka<n>dejar atrás al resto de\ncorredoras<n>hoy?"
+        },
+        {
+            "name": "Fan B",
+            "text": "¿Bromeas? ¿No has visto a las<n>participantes? ¡No creo que sea tan<n>\nfácil!"
+        },
+        {
+            "name": "Fan C",
+            "text": "Bueno, ¡Yo creo que ella puede<n>hacerlo! ¡Muéstranos esa increíble<n>\nforma de correr que tienes, Suzuka!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Inhala... exhala...</i>"
+        },
+        {
+            "name": "<username>",
+            "text": "Subimos bastante la intensidad de<n>tu entrenamiento, pero lo\ntomaste<n>con calma."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Pensando sobre el paisaje que veré<n>después de tanto trabajo duro\nse me<n>fue toda la fatiga que tenía."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Cada día tiene tanto deleite. Puedo<n>sentirme como si estuviera<n>\ncorriendo hacia mis sueños."
+        },
+        {
+            "name": "<username>",
+            "text": "Me siento igual. Despierto cada<n>mañana preguntándome cuanto<n>\ncrecerás hoy."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Supongo que tendré que mostrártelo<n>en la carrera de hoy. Prometo\nque no<n>dejaré a nadie tomar la delantera.",
+            "choice_data_list": [
+                "Así es, ¡Así que anda por tu paisaje único!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¡Lo haré!"
+        }
+    ]
+}

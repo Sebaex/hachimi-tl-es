@@ -1,0 +1,101 @@
+{
+    "title": "Una Vista Fantástica",
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "<i>Toc, toc, toc.</i>"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Entrenador, ¿Podemos hablar?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Qué pasa? A menos que sea urgente,<n>prefiero que descanses después\nde<n>tremenda carrera."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Qué pasa? A menos que sea urgente,<n>prefiero que descanses después\nde<n>tremenda carrera."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No diría que es urgente, pero hay<n>algo que te quiero decir lo\nantes<n>posible."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Me di cuenta de algo después de la<n>carrera de hoy. Creo que no te\ndi<n>las gracias."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Agradecerme? ¿Por qué?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Incluso si estaba en un equipo<n>distinto, aun así te acercaste a mi<n>\ncomo si fuera una de tus<n>aprendices."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Y cuando pregunté sobre cambiarme<n>de equipo, aceptaste mi\nsolicitud<n>sin ningún reclamo."
+        },
+        {
+            "name": "<username>",
+            "text": "Eso no es nada especial... De<n>hecho, estaba preocupado que me<n>\nestuviera pasando de la raya."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Jeje..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Después de entrar al Equipo Sirius<n>y conocer a mis nuevas\ncompañeras,<n>te puedo decir la clase de persona<n>que eres."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Con todo tu corazón creíste en<n>todas e hiciste todo lo que puedes<n>\npara apoyarnos."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Es por eso que quiero agradecerte<n>como se debe, pero... ¿Podrías<n>\nesperarte un poco más?"
+        },
+        {
+            "name": "<username>",
+            "text": "No deberías..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No, quiero mostrarte mi gratitud."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Y lo haré corriendo contigo hacia<n>ese precioso paisaje."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mientras habla, la expresión de<n>Silence Suzuka es agradable y\nllena<n>con la misma alegría que tiene<n>mientras corre."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno, si me agradeces así, supongo<n>que puedo aceptarlo.",
+            "choice_data_list": [
+                "¡Mejor tengamos los ojos en el paisaje de en frente!",
+                "¡Mejor tengamos los ojos en el paisaje de en frente!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¡Claro!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Finalmente obtuvo su primera<n>victoria como miembro del Equipo<n>\nSirius."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mientras sus habilidades y su<n>corazón se elevan, no puedo evitar<n>\npreguntarme qué clase de paisajes<n>me mostrará en el futuro."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sin importar como se vean, estoy<n>seguro de que serán admirables y<n>\nfantásticos."
+        }
+    ]
+}

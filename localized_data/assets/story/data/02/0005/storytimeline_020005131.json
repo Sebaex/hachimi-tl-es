@@ -1,0 +1,117 @@
+{
+    "title": "El Paisaje Que Tanto Anhelábamos",
+    "text_block_list": [
+        {
+            "name": "Special Week",
+            "text": "<i>Haah, haah...</i> ¡N-no me dejes<n>atráaaaas!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Llegas tarde, Spe! ¡¿En qué se<n>supone que andabas?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡Discúlpame mucho! La gran carrera<n>de Suzuka es hoy, así que no\ndormí<n>nada..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "¿No debería ser Suzuka la que tenga<n>problemas para dormir?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Si tu retraso termina con Suzuka<n>descalificada, estás en\ngraaaaandes<n>problemas."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ejeje..."
+        },
+        {
+            "name": "<username>",
+            "text": "Está bien, ¿Estás lista?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sí."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Han pasado varios meses desde el<n>Takarazuka Kinen."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hoy, Silence Suzuka tiene<n>programado correr en el Tenno Sho<n>de\notoño en el Hipódromo de Tokyo.<n>Actualmente es la favorita para<n>\nganar."
+        },
+        {
+            "name": "Air Groove",
+            "text": "¡Suzuka!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Air Groove... ¿Y Fukukitaru?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "¡Aquí está tu grupo de porristas,<n>Suzuka!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Eventualmente tengo que devolverte<n>el favor por el Takarazuka\nKinen,<n>después de todo. Voy a tomar esta<n>oportunidad para estudiar\ntodos los<n>movimientos que hagas."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "¿En serio? ¿Eso fue lo que dijiste?<n>Estoy segura de que andabas\ntoda<n>loca sobre animarla cuando me<n>invitaste."
+        },
+        {
+            "name": "Air Groove",
+            "text": "B-bueno, ¡A eso me refería!<n>Observar puede ser una forma de<n>\napoyar, ya sabes."
+        },
+        {
+            "name": "Air Groove",
+            "text": "En cualquier caso, <i>yo</i> voy a<n>ser la que te gane, así que\nespero<n>que no pierdas."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Si, prometo que seré la primera en<n>pasar la línea de meta."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "¡También voy a rezar por tu éxito!<n>¡Que los dioses estén a tu\nfavor!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ejeje... Espero que estén de buen<n>ánimo."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno... hasta acá es donde puedo<n>llegar."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno... hasta acá es donde puedo<n>llegar."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero recuerda, siempre estoy<n>contigo, junto a mis esperanzas y<n>\nsueños. ¡Ahora anda a buscar ese<n>paisaje que buscas!"
+        },
+        {
+            "name": "<username>",
+            "text": "Pero recuerda, siempre estoy<n>contigo, junto a mis esperanzas y<n>\nsueños. ¡Ahora anda a buscar ese<n>paisaje que buscas!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Voy a correr hacia ese paisaje,<n>disfrutar la vista, y darte un<n>\nespectáculo impresionante. Después<n>de eso..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Prometo que volveré contigo.",
+            "choice_data_list": [
+                "¡Y sé que lo harás! ¡Dale con todo!",
+                "¡Y sé que lo harás! ¡Dale con todo!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¡Claro!"
+        }
+    ]
+}

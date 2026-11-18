@@ -1,0 +1,224 @@
+{
+    "title": "Un Sueño Imparable",
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Al conseguir su primera victoria<n>siendo parte del Equipo Sirius,\nla<n>conquista de Silence Suzuka<n>comienza..."
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Y va de nuevo! ¡Silence Suzuka es<n>imparable! ¡El resto del grupo\nno<n>puede alcanzarla!"
+        },
+        {
+            "name": "Relatora",
+            "text": "¡Más, más y más lejos aún! Con esa<n>velocidad desbocada, ¡Silence<n>\nSuzuka consigue su segunda victoria<n>seguida en una carrera de\ngrado!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Haah... haah...</i> Fiu..."
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Haah, haah... ¡Huu!</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>¡Eeeh!</i> ...¡No puedo<n>mantenerme con tu velocidad!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¿Pero qué puedo hacer? Mi ritmo por<n>lo general es muy lento, y no\nhay<n>manera que te alcance al final...<n>¡Nnnngh!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "¡Una más! ¡Una carrera más! ¡Vamos,<n>Suzuka, Spe! ¡Vamooos!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Bueno, bien por mí."
+        },
+        {
+            "name": "Special Week",
+            "text": "¡¿Queeee?! ¡¿Podemos descansar unos<n>cinco minutos al menos?!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Vuela por la pista justo desde el<n>principio, ¡Y <i>después</i><n>\nacelera al final también! ¡Que<n>increíble corredora, esa Silence<n>\nSuzuka!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Seh, ¡No puedo esperar lo que<n>traerá para su próxima carrera!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Bueno, bueno, bueno, Suzuka<n>realmente sí que se hizo famosa."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Su racha de victorias ciertamente<n>es relevante, pero su forma de<n>\ncorrer parece ser un tema más<n>importante.",
+            "choice_data_list": [
+                "¿El correr al frente?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Si... Aunque su forma de correr al<n>frente no es normal de una<n>\ncorredora frontal. Es algo que ella<n>se inventó."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Así como las personalidades de la<n>gente difiere, también lo hace\nla<n>forma de correr de las Umamusumes."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Uso mi resistencia para moverme<n>rápidamente. Puedo ir de quinto a<n>\nprimer lugar en un instante."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Mientras que Brian, puede mantener<n>su velocidad por un largo\nperiodo de<n>tiempo. Ella conserva su fuerza<n>hasta la recta final,\nmomento en el<n>suelta un montón de velocidad."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Y Rice... Usa su resistencia innata<n>en un acelerón largo para\ndominar<n>por completo a sus oponentes."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "A todas nos tomó tiempo para<n>determinar nuestras propias<n>\nfortalezas y encontrar una<n>estrategia para correr que utilice<n>lo\nmejor de ellas."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Por el contrario, la forma de<n>correr de Suzuka es más que una<n>\nestrategia ideal—una que para la<n>mayoría de nosotras se define\ncomo<n>imposible."
+        },
+        {
+            "name": "<username>",
+            "text": "Salir volando de las puertas de<n>salida y luego correr la pista sin<n>\nrivales <i>sí que</i>suena como un<n>sueño."
+        },
+        {
+            "name": "<username>",
+            "text": "Salir volando de las puertas de<n>salida y luego correr la pista sin<n>\nrivales <i>sí que</i>suena como un<n>sueño."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Seh, y Suzuka está haciendo ese<n>sueño realidad."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Solo espero que sigamos viendo esa<n>forma de correr de ella. Me\nencanta<n>verla hacer posible lo imposible."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Su forma de correr no solo fascina<n>a los fans, pero a las\ncorredoras<n>también."
+        },
+        {
+            "name": "Monólogo",
+            "text": "El paisaje que ella busca lo sueñan<n>todas las Umamusumes, y ellas<n>\nquieren verla alcanzar su objetivo<n>al igual como ella quiere."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Entrenador, espero que no moleste."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Qué pasó? ¿Se te olvidó algo?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Qué pasó? ¿Se te olvidó algo?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No. Me preguntaba si ya se decidió<n>mi próxima carrera."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sabiendo que mi próxima carrera me<n>dará un objetivo por el cual<n>\ntrabajar entrenando, y em... Estoy<n>segura de que habrá otras\nventajas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Silence Suzuka no es la típica que<n>quiere su próxima carrera."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seguro que es otro símbolo de su<n>crecimiento."
+        },
+        {
+            "name": "<username>",
+            "text": "Estaba pensando que fuéramos por el<n>Kinko Sho como la siguiente."
+        },
+        {
+            "name": "<username>",
+            "text": "Estaba pensando que fuéramos por el<n>Kinko Sho como la siguiente."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "El Kinko Sho... Creo que esa son<n>2.000 metros."
+        },
+        {
+            "name": "<username>",
+            "text": "Sip. Entiendo que te preocupa la<n>distancia, considerando que\ncorres<n>tus carreras a máxima velocidad."
+        },
+        {
+            "name": "<username>",
+            "text": "Sip. Entiendo que te preocupa la<n>distancia, considerando que\ncorres<n>tus carreras a máxima velocidad."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero eso no significa que la media<n>distancia es imposible.<n>\nPersonalmente, creo que puedes."
+        },
+        {
+            "name": "<username>",
+            "text": "Pero eso no significa que la media<n>distancia es imposible.<n>\nPersonalmente, creo que puedes."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Si crees demasiado en mí, ¿Como me<n>podría preocupar?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Aparte, estoy curiosa de ver que<n>tan lejos me puede llevar mi\nforma<n>de correr, y esta podría ser la<n>oportunidad de verlo."
+        },
+        {
+            "name": "<username>",
+            "text": "Seh, de por sí ya has hecho buen<n>progreso entrenando. ¡Probar\ncosas<n>nuevas te ayudará a crecer más!"
+        },
+        {
+            "name": "<username>",
+            "text": "Si te va bien en el Kinko Sho,<n>¡Puede que hasta puedas ir al<n>\nTakarazuka Kinen o el Tenno Sho de<n>otoño!"
+        },
+        {
+            "name": "<username>",
+            "text": "Si te va bien en el Kinko Sho,<n>¡Puede que hasta puedas ir al<n>\nTakarazuka Kinen o el Tenno Sho de<n>otoño!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Carreras G1..."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Emocionante, no? Pero eso<n>significa que tu entrenamiento será<n>\nmucho más intenso."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Jeje... Bien por mí."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Entrenador, quiero explorar mi<n>estilo actual lo más que pueda."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Algo me dice... que el paisaje de<n>ese camino será el más precioso\nde<n>todos."
+        },
+        {
+            "name": "<username>",
+            "text": "Y estaré junto a tu lado. No puedo<n>esperar de tener una vista tuya<n>\nalcanzando tu sueño."
+        },
+        {
+            "name": "<username>",
+            "text": "Y estaré junto a tu lado. No puedo<n>esperar de tener una vista tuya<n>\nalcanzando tu sueño."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Me llevaré al límite. Entonces...<n>Ambos veremos el paisaje que<n>\nbuscamos."
+        }
+    ]
+}

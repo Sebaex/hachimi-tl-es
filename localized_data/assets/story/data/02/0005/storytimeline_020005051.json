@@ -1,0 +1,300 @@
+{
+    "title": "De La Manera Que Quieras",
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Varios días después del Japanese<n>Derby..."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno, Spe. Eso es todo el<n>entrenamiento de hoy."
+        },
+        {
+            "name": "<username>",
+            "text": "Bueno, Spe. Eso es todo el<n>entrenamiento de hoy."
+        },
+        {
+            "name": "Special Week",
+            "text": "¡¿Eh?! Oh, ¡¿Ya se hizo tan tarde?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Special Week se ha distraído fácil<n>últimamente. Curiosamente, miro\nen<n>la dirección que ella mira."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Haah, haah...</i> ¡Una más!"
+        },
+        {
+            "name": "<username>",
+            "text": "Estás preocupada de ella, ¿No?"
+        },
+        {
+            "name": "<username>",
+            "text": "Estás preocupada de ella, ¿No?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Seh. Ha estado trabajando tan duro<n>para su próxima carrera, y eso\nes<n>bueno y todo... pero...",
+            "choice_data_list": [
+                "Parece que se está sobre extendiendo mucho..."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "¿Eh? ¿También piensas eso?"
+        },
+        {
+            "name": "<username>",
+            "text": "Seh, en todas sus carreras<n>recientes, se ha visto muy...<n>forzada.\nNo creo que se esté<n>divirtiendo ahí fuera."
+        },
+        {
+            "name": "<username>",
+            "text": "Seh, en todas sus carreras<n>recientes, se ha visto muy...<n>forzada.\nNo creo que se esté<n>divirtiendo ahí fuera."
+        },
+        {
+            "name": "Special Week",
+            "text": "E-em... ¿Podría quedarme un rato<n>más? ¡Quiero juntarme con Suzuka<n>\npara entrenar con ella!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Acercarse a una corredora de otro<n>equipo seria pasarse un tanto,<n>\npero... honestamente me siento<n>preocupado por ella también."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Acercarse a una corredora de otro<n>equipo seria pasarse un tanto,<n>\npero... honestamente me siento<n>preocupada por ella también."
+        },
+        {
+            "name": "<username>",
+            "text": "Te voy a acompañar. Dale, vamos."
+        },
+        {
+            "name": "<username>",
+            "text": "Te voy a acompañar. Dale, vamos."
+        },
+        {
+            "name": "Special Week",
+            "text": "¡Fiu! ¡Gracias por correr conmigo<n>en compañía!"
+        },
+        {
+            "name": "<username>",
+            "text": "Perdón por molestarte de la nada."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No, de hecho me ayudó mucho."
+        },
+        {
+            "name": "Special Week",
+            "text": "Puede que estemos en equipos<n>distintos, pero estoy agradecida de<n>\nque podamos correr juntas si es que<n>nos quedamos atrás en la\nclase.<n>¡Ejeje!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Em, Suzuka, ¿Recuerdas la primera<n>vez que nos conocimos? Ya sabes,<n>\n¿Como grité cuando te vi correr?"
+        },
+        {
+            "name": "Special Week",
+            "text": "En ese momento, estaba realmente<n>nerviosa sobre irme de Hokkaido.\nMe<n>comencé a preguntar si realmente me<n>iría bien aquí, para ser\nhonesta."
+        },
+        {
+            "name": "Special Week",
+            "text": "En ese entonces, te vi corriendo<n>con una sonrisa en tu cara, ¡Y se<n>\nme fueron todos los miedos!<n>¡Recuerdo que pensaba que Tracen<n>era\nsuper divertida!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Pero hace poco, he notado que tu...<n>no sonríes tanto como antes."
+        },
+        {
+            "name": "<username>",
+            "text": "Sentí lo mismo en tu carrera de<n>debut. Te veías tan contenta<n>\ncruzando la línea de meta. ¿Qué<n>pasó?"
+        },
+        {
+            "name": "<username>",
+            "text": "Sentí lo mismo en tu carrera de<n>debut. Te veías tan contenta<n>\ncruzando la línea de meta. ¿Qué<n>pasó?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No lo logro entender. Se que<n>trabaje duro para llegar a mis<n>\nsueños."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Y aun así, no importaba que tanto<n>lo persiguiera, mi sueño se\nsentía<n>más y más lejos."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Me encanta correr desde que era<n>pequeña... El sonido de mis pies<n>\npegándole al piso, el viento en mi<n>cara..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Nunca he olvidado esa sensación...<n>Incluso ahora, sigo\npersiguiéndola."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Special Week, tú dices que te<n>sorprendí con mi sonrisa, pero<n>\npodría decir lo mismo de ti."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Tu eres la única que está<n>enfrentando sus sueños de frente.<n>Como si\nfueras una luz pura, y<n>brillante, mientras que yo... solo<n>soy..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Demasiada práctica puede llevar a<n>las corredoras a ser demasiado<n>\nduras consigo mismas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pero también es una forma de<n>mostrar lo seria que es ella. Si es<n>\ntan apasionada sobre correr,<n>entonces debe de haber una manera<n>de\ncanalizar esa pasión...",
+            "choice_data_list": [
+                "¿Por qué no intentas corriendo de la manera que <i>tu</i> quieres correr?",
+                "¿Por qué no intentas corriendo de la manera que <i>tu</i> quieres correr?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "A... ¿Qué te refieres?"
+        },
+        {
+            "name": "<username>",
+            "text": "Probablemente suena extraño<n>viniendo de un entrenador, pero<n>prueba\ncorriendo una vuelta sin<n>pensar sobre estrategias para ganar<n>o\ncualquier otra cosa."
+        },
+        {
+            "name": "<username>",
+            "text": "Probablemente suena extraño<n>viniendo de una entrenadora, pero<n>\nprueba corriendo una vuelta sin<n>pensar sobre estrategias para\nganar<n>o cualquier otra cosa."
+        },
+        {
+            "name": "<username>",
+            "text": "Olvídate de una del ritmo. Está<n>bien si te quedas sin resistencia\na<n>mitad del camino. Así que por<n>ahora, solo corre de la manera que<n>\nquieras."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¿Puedo hacer eso? ¿Correr como yo<n>quiero?"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡Vamos, Suzuka! ¡Vamos a correr! No<n>más pensar, solo haciendo\nfiuum<n>hacia el frente así como brrummmm!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Bueno. Le daré un intento."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(La brisa se siente tan bien. El<n>sonido de mis herraduras\npegándole<n>al piso es tan reconfortante... No<n>hay otros sonidos que\nme distraigan,<n>nadie me bloquea la vista...)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(Todo lo que hago es correr, pero<n>comparado a mis carreras...)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(La vista que tengo es tan...<n>preciosa.)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¡Waaaa! ¡Suzuka va tan rápido!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Más. Quiero ver <i>más.</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡Guau! ¡Está acelerando mucho más!"
+        },
+        {
+            "name": "<username>",
+            "text": "Corrieron super bien, las dos. Así<n>que, ¿Como se sintió eso?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Mi-míralo por ti mismo. Ambas<n>estamos... completamente empapadas."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Así es, pero, bueno..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Finalmente lo vi. Solo fue un<n>poco... pero vi el paisaje que<n>estoy\nbuscando."
+        },
+        {
+            "name": "<username>",
+            "text": "Suena como que realmente corriste."
+        },
+        {
+            "name": "<username>",
+            "text": "Suena como que realmente corriste."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "¿Qué?"
+        },
+        {
+            "name": "<username>",
+            "text": "Correr con libertad te dio un<n>vistazo de por lo que estas<n>\ncorriendo, ¿No?"
+        },
+        {
+            "name": "<username>",
+            "text": "Correr con libertad te dio un<n>vistazo de por lo que estas<n>\ncorriendo, ¿No?"
+        },
+        {
+            "name": "<username>",
+            "text": "Tu sueño no solo es ganar. Si<n>puedes encontrar placer al correr,<n>\ncreo que comenzarás a verlo."
+        },
+        {
+            "name": "<username>",
+            "text": "Tu sueño no solo es ganar. Si<n>puedes encontrar placer al correr,<n>\ncreo que comenzarás a verlo."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Encontrar placer... ¿Me llevará a<n>mi sueño?",
+            "choice_data_list": [
+                "¡Correr como <i>tu</i> quieres correr, Suzuka!",
+                "¡Correr como <i>tu</i> quieres correr, Suzuka!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Jeje... ¡Está bien!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Varios días después..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "¡Okeeey! ¡Otro día trabajando para<n>ser la mejor corredora de\nJapón!<n>¡Nos vamos al bosquecillo de bambú<n>para juntar todos los\nbrotes de<n>bambú que podamos!"
+        },
+        {
+            "name": "Special Week",
+            "text": "¡¿Como se supone que eso me va a<n>ayudar?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Disculpa."
+        },
+        {
+            "name": "Special Week",
+            "text": "¿E-eh? ¿Suzuka?"
+        },
+        {
+            "name": "<username>",
+            "text": "¿Qué pasa? Tu equipo seguro que va<n>a comenzar a practicar luego."
+        },
+        {
+            "name": "<username>",
+            "text": "¿Qué pasa? Tu equipo seguro que va<n>a comenzar a practicar luego."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Vine a preguntarles sobre<n>transferirme de equipo."
+        }
+    ]
+}
